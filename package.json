@@ -1,0 +1,17 @@
+{
+  "name": "panamensis-site",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "validate:public": "node scripts/validate-public-layer.mjs",
+    "preview": "npm run build && node scripts/build-preview.mjs",
+    "audit:homepage": "node scripts/audit-homepage.mjs",
+    "check": "npm run validate:public && npm run build && npm run audit:homepage"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
