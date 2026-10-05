@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000013/",
+  "@type": "Assertion",
+  "label": "Fairchild mango material was distributed to David Fairchild in Florida",
+  "predicate": "https://example.invalid/panamensis/vocab/distributed_to/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-BIO-000004/"
+  },
+  "object": {
+    "@id": "https://example.invalid/panamensis/id/PNS-PER-000005/"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}

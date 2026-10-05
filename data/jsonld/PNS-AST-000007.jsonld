@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000007/",
+  "@type": "Assertion",
+  "label": "1906 malaria admission rate: 821 per 1,000 employees",
+  "predicate": "https://example.invalid/panamensis/vocab/reports_measurement/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-ACT-000002/"
+  },
+  "objectValue": {
+    "kind": "measurement",
+    "measure_code": "malaria_admission_rate",
+    "value": 821,
+    "unit_code": "admissions_per_1000_employees",
+    "denominator": {
+      "value": 1000,
+      "basis": "employees"
+    },
+    "rate_basis": "per_1000",
+    "population_scope": {
+      "source_label": "employees",
+      "scope_type": "institutional_cohort",
+      "organization_refs": [
+        "PNS-ORG-000004"
+      ],
+      "place_refs": [
+        "PNS-PLA-000002"
+      ],
+      "temporal": {
+        "kind": "exact",
+        "start": "1906"
+      },
+      "inclusion_note": "Population as defined by the reporting system.",
+      "denominator_basis": "employee_population"
+    },
+    "temporal_scope": {
+      "kind": "exact",
+      "start": "1906"
+    },
+    "spatial_scope_refs": [
+      "PNS-PLA-000002"
+    ],
+    "method_note": "Admission rate, not proportion of unique persons infected.",
+    "source_terminology": "admissions per thousand",
+    "derivation": {
+      "type": "directly_reported"
+    }
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}

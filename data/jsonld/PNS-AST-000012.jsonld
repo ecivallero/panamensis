@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000012/",
+  "@type": "Assertion",
+  "label": "1936 report describes more than 300 species introduced new to the Isthmus that fiscal year",
+  "predicate": "https://example.invalid/panamensis/vocab/introduced_species_count/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-ACT-000003/"
+  },
+  "objectValue": {
+    "kind": "measurement",
+    "measure_code": "introduced_species_count",
+    "value": 300,
+    "unit_code": "count_species",
+    "temporal_scope": {
+      "kind": "exact",
+      "start": "1936"
+    },
+    "spatial_scope_refs": [
+      "PNS-PLA-000005"
+    ],
+    "method_note": "Source states more than 300; fixture stores 300 as lower-bound display value and preserves wording in reasoning note.",
+    "source_terminology": "more than 300 species",
+    "derivation": {
+      "type": "directly_reported"
+    },
+    "uncertainty": "lower_bound"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}

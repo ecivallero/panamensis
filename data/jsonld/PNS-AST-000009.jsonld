@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000009/",
+  "@type": "Assertion",
+  "label": "Canal sanitation programme included drainage, oiling and vegetation removal",
+  "predicate": "https://example.invalid/panamensis/vocab/included_practice/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-ACT-000002/"
+  },
+  "objectValue": {
+    "kind": "text",
+    "value": "drainage, oiling/larviciding, vegetation removal and related mosquito-control work",
+    "lang": "en"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}

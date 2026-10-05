@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000011/",
+  "@type": "Assertion",
+  "label": "Panama S. spontaneum population probably derives from escape from historical germplasm collection",
+  "predicate": "https://example.invalid/panamensis/vocab/derived_from/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-BIO-000005/"
+  },
+  "object": {
+    "@id": "https://example.invalid/panamensis/id/PNS-COL-000005/"
+  },
+  "attestationMode": "inferential",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}

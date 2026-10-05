@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000010/",
+  "@type": "Assertion",
+  "label": "Historical sugarcane germplasm collection was transferred to Summit in 1939",
+  "predicate": "https://example.invalid/panamensis/vocab/transferred_to/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-COL-000005/"
+  },
+  "object": {
+    "@id": "https://example.invalid/panamensis/id/PNS-PLA-000005/"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}
