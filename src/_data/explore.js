@@ -1,0 +1,12 @@
+export default {
+  groups: [
+    { key: "people", classes: ["Person"], en: ["People", "Scientists, technicians, administrators, workers, collectors and other historical actors."], es: ["Personas", "Científicos, técnicos, administradores, trabajadores, coleccionistas y otros actores históricos."] },
+    { key: "places", classes: ["Place"], en: ["Places", "Scientific localities, landscapes, jurisdictions, field sites and historical geographies."], es: ["Lugares", "Localidades científicas, paisajes, jurisdicciones, sitios de campo y geografías históricas."] },
+    { key: "organizations", classes: ["GroupOrganization"], en: ["Organizations", "Scientific bodies, agencies, institutions, programmes and historically meaningful groups."], es: ["Organizaciones", "Entidades científicas, agencias, instituciones, programas y grupos históricamente significativos."] },
+    { key: "activities", classes: ["ActivityProject"], en: ["Activities & Expeditions", "Fieldwork, research programmes, surveys, interventions, monitoring and sustained projects."], es: ["Actividades y expediciones", "Trabajo de campo, programas de investigación, estudios, intervenciones, monitoreo y proyectos sostenidos."] },
+    { key: "events", classes: ["Event"], en: ["Events", "Bounded occurrences, transfers, meetings, interventions and documented incidents."], es: ["Eventos", "Sucesos delimitados, transferencias, reuniones, intervenciones e incidentes documentados."] },
+    { key: "nature", classes: ["BiologicalEntity"], en: ["Nature", "Taxa, populations, organisms, specimens, cultivars and accessions in historical context."], es: ["Naturaleza", "Taxones, poblaciones, organismos, especímenes, cultivares y accesiones en contexto histórico."] },
+    { key: "material", classes: ["MaterialEntity"], en: ["Material entities & infrastructure", "Buildings, laboratories, instruments, roads, vessels, installations and physical systems."], es: ["Entidades materiales e infraestructura", "Edificios, laboratorios, instrumentos, caminos, embarcaciones, instalaciones y sistemas físicos."] },
+    { key: "collections", classes: ["Collection", "Repository"], en: ["Scientific collections & repositories", "Collections, specimens and the institutions or custodial contexts that preserve them."], es: ["Colecciones científicas y repositorios", "Colecciones, especímenes y las instituciones o contextos de custodia que los preservan."] }
+  ]
+};
