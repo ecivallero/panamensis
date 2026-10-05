@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+lang: es
+title: Explorar
+altUrl: /en/explore/
+permalink: /es/explore/index.html
+---
+<section class="page-head wrap"><p class="eyebrow">Explorar</p><h1>Entra por cualquier punto. Sigue lo que conecta.</h1><p class="lede">Estas son rutas públicas a través de un solo corpus, no reflejos de las veinte clases internas del modelo.</p></section>
+<section class="wrap explore-section">{% include "components/explore-grid.njk" %}</section>
+<section class="wrap concepts-block"><div class="section-intro"><p class="eyebrow">Temas</p><h2>Materias amplias y descriptores recurrentes.</h2><p>Las páginas de conceptos y sus relaciones inversas se generan desde asignaciones canónicas. Aquí no se mantiene ninguna lista manual de enlaces inversos.</p></div><div class="concept-sample">
+{% for c in concepts | slice(0,8) %}<a href="/es/{{ 'subjects' if c.scheme == 'panamensis_subjects' else 'descriptors' }}/{{ (c | conceptLabel(lang)) | slug }}/"><span>{{ 'Materia' if c.scheme == 'panamensis_subjects' else 'Descriptor' }}</span><strong>{{ c | conceptLabel(lang) }}</strong><small>{{ c.record_count }} registros conectados</small></a>{% endfor %}
+</div></section>
