@@ -1,0 +1,12 @@
+<div class="explore-grid">
+{% for group in explore.groups %}
+  {% set count = 0 %}
+  {% for record in records %}{% if record.class in group.classes %}{% set count = count + 1 %}{% endif %}{% endfor %}
+  <a class="explore-card" href="/{{ lang }}/explore/{{ group.key }}/">
+    <span class="card-count">{{ count }}</span>
+    <h3>{{ group[lang][0] }}</h3>
+    <p>{{ group[lang][1] }}</p>
+    <span class="card-arrow" aria-hidden="true">↗</span>
+  </a>
+{% endfor %}
+</div>

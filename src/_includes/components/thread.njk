@@ -1,0 +1,22 @@
+<section class="thread-section" id="thread" aria-labelledby="thread-title">
+  <div class="thread-layout wrap">
+    <div class="thread-intro">
+      <p class="eyebrow">{{ "Follow the thread" if lang == "en" else "Sigue el hilo" }}</p>
+      <h2 id="thread-title">{{ "How one statement travels through the evidence." if lang == "en" else "Cómo una afirmación recorre la evidencia." }}</h2>
+      <p class="quiet">{{ "Begin with James Zetek. The path follows a documented claim through its expression, the source passage that supports it, the source itself and the dossier in which it is being examined." if lang == "en" else "Comienza con James Zetek. El recorrido sigue una afirmación documentada a través de su expresión, el pasaje que la respalda, la fuente que lo contiene y el dosier donde se la examina." }}</p>
+      <p class="thread-note">{{ "All six entries come from the public reference corpus. This path does not imply certainty beyond the evidence recorded there." if lang == "en" else "Las seis entradas proceden del corpus público de referencia. Este recorrido no implica una certeza mayor que la registrada en la evidencia." }}</p>
+      <figure class="thread-image">
+        <div class="image-placeholder" role="img" aria-label="{{ 'Illustrative placeholder for an archival portrait of James Zetek at Barro Colorado' if lang == 'en' else 'Marcador ilustrativo para un retrato de archivo de James Zetek en Barro Colorado' }}">
+          <svg viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="800" height="600" fill="#d8e5d8"/><rect x="34" y="34" width="732" height="532" fill="#eaf1e8" stroke="#7f9f8d"/><path d="M0 440 Q150 360 315 430 T800 395 V600 H0Z" fill="#9fba9f"/><path d="M0 480 Q190 405 365 475 T800 438 V600 H0Z" fill="#78967f" opacity=".72"/><circle cx="258" cy="201" r="70" fill="#607168"/><path d="M137 455 Q153 295 258 286 Q364 295 382 455Z" fill="#4f675b"/><path d="M446 135h250v258H446z" fill="#f7faf5" stroke="#607168"/><path d="M478 181h184M478 219h151M478 257h170M478 295h128M478 333h177" stroke="#7f9f8d" stroke-width="8"/><circle cx="669" cy="364" r="42" fill="none" stroke="#527c84" stroke-width="5"/></svg>
+          <div class="placeholder-center"><strong>{{ "Intended image" if lang == "en" else "Imagen prevista" }}</strong><span>{{ "James Zetek at Barro Colorado, or an archival portrait directly tied to the claim" if lang == "en" else "James Zetek en Barro Colorado, o un retrato de archivo vinculado directamente con la afirmación" }}</span></div>
+        </div>
+        <figcaption class="image-caption"><strong>{{ "Contextual image" if lang == "en" else "Imagen contextual" }}</strong><span>{{ "Identity · place · approximate date · repository · rights" if lang == "en" else "Identidad · lugar · fecha aproximada · repositorio · derechos" }}</span></figcaption>
+      </figure>
+    </div>
+    <ol class="thread" role="list">
+      {% for id in site.threadIds %}
+        <li class="step"><span class="step-type">{{ site.threadKinds[lang][loop.index0] }}</span><a class="step-content" href="{{ site.threadTargets[loop.index0] }}"><strong>{{ site.threadLabels[lang][loop.index0] }}</strong>{% if not loop.last %}<span class="relation">{{ site.threadPredicates[lang][loop.index0] }}</span>{% endif %}</a></li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
