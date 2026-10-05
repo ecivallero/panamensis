@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-COL-000004/",
+  "@type": "Collection",
+  "label": "Canal Zone Experiment Gardens living plant collection"
+}
