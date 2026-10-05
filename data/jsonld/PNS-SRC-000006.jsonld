@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-SRC-000006/",
+  "@type": "Source",
+  "label": "1910 Report of the Department of Sanitation of the Isthmian Canal Commission"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-SRC-000005/",
+  "@type": "Source",
+  "label": "Alexander Wetmore photograph of James Zetek, 12 March 1946"
+}

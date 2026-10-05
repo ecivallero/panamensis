@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-SRC-000001/",
+  "@type": "Source",
+  "label": "RU 134 finding aid"
+}
