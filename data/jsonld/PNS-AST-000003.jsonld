@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000003/",
+  "@type": "Assertion",
+  "label": "SIA finding aid describes Zetek as Resident Manager, 1923–1956",
+  "predicate": "https://example.invalid/panamensis/vocab/described_as_role/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-PER-000002/"
+  },
+  "object": {
+    "@id": "https://example.invalid/panamensis/id/PNS-SRC-000003/"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "contested"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000002/",
+  "@type": "Assertion",
+  "label": "Zetek became Resident Manager in 1946",
+  "predicate": "https://example.invalid/panamensis/vocab/served_as/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-PER-000002/"
+  },
+  "object": {
+    "@id": "https://example.invalid/panamensis/id/PNS-ORG-000002/"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}

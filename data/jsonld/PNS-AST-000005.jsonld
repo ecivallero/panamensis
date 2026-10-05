@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000005/",
+  "@type": "Assertion",
+  "label": "Smithsonian finding aid dates transition to CZBA to 1940",
+  "predicate": "https://example.invalid/panamensis/vocab/legal_transition_year/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-ORG-000002/"
+  },
+  "objectValue": {
+    "kind": "date",
+    "value": "1940"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "contested"
+}

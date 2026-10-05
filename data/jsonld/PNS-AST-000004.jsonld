@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000004/",
+  "@type": "Assertion",
+  "label": "One source dates CZBA legal status to 1939",
+  "predicate": "https://example.invalid/panamensis/vocab/legal_transition_year/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-ORG-000002/"
+  },
+  "objectValue": {
+    "kind": "date",
+    "value": "1939"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "contested"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://example.invalid/panamensis/vocab/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@id": "https://example.invalid/panamensis/id/PNS-AST-000006/",
+  "@type": "Assertion",
+  "label": "No primary legislative text has yet been examined in this fixture to resolve 1939/1940",
+  "predicate": "https://example.invalid/panamensis/vocab/legal_transition_year/",
+  "subject": {
+    "@id": "https://example.invalid/panamensis/id/PNS-DOS-000001/"
+  },
+  "objectValue": {
+    "kind": "text",
+    "value": "Primary legislation not yet examined in this fixture.",
+    "lang": "en"
+  },
+  "attestationMode": "directly_documented",
+  "disposition": "active",
+  "contestation": "not_currently_contested"
+}
