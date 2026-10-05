@@ -1,0 +1,15 @@
+{
+  "canonical_records": 160,
+  "public_records": 159,
+  "excluded_records": 1,
+  "search_entries": 159,
+  "relationship_edges": 819,
+  "map_entries": 3,
+  "timeline_entries": 17,
+  "jsonld_files": 159,
+  "public_concepts": 56,
+  "subjects": 18,
+  "descriptors": 38,
+  "concept_usage_links": 421,
+  "canonical_base": "https://example.invalid/panamensis"
+}

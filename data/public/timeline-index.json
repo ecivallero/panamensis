@@ -1,0 +1,156 @@
+[
+  {
+    "id": "PNS-ACT-000001",
+    "class": "ActivityProject",
+    "label": "Barro Colorado biological research station programme",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1923"
+    }
+  },
+  {
+    "id": "PNS-ACT-000002",
+    "class": "ActivityProject",
+    "label": "Canal Zone sanitation and malaria-control programme",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1904"
+    }
+  },
+  {
+    "id": "PNS-ACT-000003",
+    "class": "ActivityProject",
+    "label": "Canal Zone plant introduction and experimentation programme",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1920s"
+    }
+  },
+  {
+    "id": "PNS-ACT-000004",
+    "class": "ActivityProject",
+    "label": "Sugarcane germplasm introduction programme at Summit",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1939"
+    }
+  },
+  {
+    "id": "PNS-AST-000001",
+    "class": "Assertion",
+    "label": "Zetek served as Curator, 1923–1945",
+    "temporal": {
+      "kind": "range",
+      "start": "1923",
+      "end": "1945"
+    }
+  },
+  {
+    "id": "PNS-AST-000002",
+    "class": "Assertion",
+    "label": "Zetek became Resident Manager in 1946",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1946"
+    }
+  },
+  {
+    "id": "PNS-AST-000010",
+    "class": "Assertion",
+    "label": "Historical sugarcane germplasm collection was transferred to Summit in 1939",
+    "temporal": {
+      "kind": "exact",
+      "start": "1939"
+    }
+  },
+  {
+    "id": "PNS-AST-000013",
+    "class": "Assertion",
+    "label": "Fairchild mango material was distributed to David Fairchild in Florida",
+    "temporal": {
+      "kind": "exact",
+      "start": "1936"
+    }
+  },
+  {
+    "id": "PNS-CTR-000001",
+    "class": "Contribution",
+    "label": "Creation of Panamensis reference implementation fixture",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    }
+  },
+  {
+    "id": "PNS-EVT-000001",
+    "class": "Event",
+    "label": "Reservation of Barro Colorado for scientific purposes",
+    "temporal": {
+      "kind": "exact",
+      "start": "1923-04-17"
+    }
+  },
+  {
+    "id": "PNS-EVT-000002",
+    "class": "Event",
+    "label": "Transfer of Canal Zone Biological Area administration to the Smithsonian",
+    "temporal": {
+      "kind": "exact",
+      "start": "1946-07-16"
+    }
+  },
+  {
+    "id": "PNS-EVT-000003",
+    "class": "Event",
+    "label": "Transfer of sugarcane germplasm collection to Summit",
+    "temporal": {
+      "kind": "exact",
+      "start": "1939"
+    }
+  },
+  {
+    "id": "PNS-EVT-000004",
+    "class": "Event",
+    "label": "Distribution of Fairchild mango material to Florida",
+    "temporal": {
+      "kind": "exact",
+      "start": "1936"
+    }
+  },
+  {
+    "id": "PNS-OUT-000001",
+    "class": "Output",
+    "label": "Panamensis Validation Note 01",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    }
+  },
+  {
+    "id": "PNS-RAC-000001",
+    "class": "ResearchAction",
+    "label": "Case A catalogue/finding-aid comparison",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    }
+  },
+  {
+    "id": "PNS-RAC-000002",
+    "class": "ResearchAction",
+    "label": "Case B sanitation-report comparison",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    }
+  },
+  {
+    "id": "PNS-RAC-000003",
+    "class": "ResearchAction",
+    "label": "Case C historical/modern biological-provenance comparison",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    }
+  }
+]

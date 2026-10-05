@@ -1,0 +1,4514 @@
+[
+  {
+    "id": "PNS-ACT-000001",
+    "class": "ActivityProject",
+    "preferred_label": "Barro Colorado biological research station programme",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000003",
+      "PNS-THM-000103",
+      "PNS-THM-000101",
+      "PNS-THM-000102",
+      "PNS-THM-000104",
+      "PNS-THM-000105"
+    ],
+    "activity_type": "field_station_programme",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1923"
+    }
+  },
+  {
+    "id": "PNS-ACT-000002",
+    "class": "ActivityProject",
+    "preferred_label": "Canal Zone sanitation and malaria-control programme",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000012",
+      "PNS-THM-000010",
+      "PNS-THM-000112",
+      "PNS-THM-000113",
+      "PNS-THM-000114",
+      "PNS-THM-000115",
+      "PNS-THM-000116",
+      "PNS-THM-000117",
+      "PNS-THM-000121",
+      "PNS-THM-000105"
+    ],
+    "activity_type": "sanitation_programme",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1904"
+    }
+  },
+  {
+    "id": "PNS-ACT-000003",
+    "class": "ActivityProject",
+    "preferred_label": "Canal Zone plant introduction and experimentation programme",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000122",
+      "PNS-THM-000125",
+      "PNS-THM-000126",
+      "PNS-THM-000127",
+      "PNS-THM-000128"
+    ],
+    "activity_type": "agricultural_introduction_programme",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1920s"
+    }
+  },
+  {
+    "id": "PNS-ACT-000004",
+    "class": "ActivityProject",
+    "preferred_label": "Sugarcane germplasm introduction programme at Summit",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004",
+      "PNS-THM-000123",
+      "PNS-THM-000124",
+      "PNS-THM-000125",
+      "PNS-THM-000126"
+    ],
+    "activity_type": "research_programme",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1939"
+    }
+  },
+  {
+    "id": "PNS-AST-000001",
+    "class": "Assertion",
+    "preferred_label": "Zetek served as Curator, 1923–1945",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_types": [
+      "relational",
+      "factual"
+    ],
+    "subject_ref": "PNS-PER-000002",
+    "predicate": "served_as",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_ref": "PNS-ORG-000002",
+    "temporal": {
+      "kind": "range",
+      "start": "1923",
+      "end": "1945"
+    },
+    "role_qualifier": {
+      "code": "curator",
+      "source_label": "Curator of the Barro Colorado Island Biological Laboratory"
+    },
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000105",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-AST-000002",
+    "class": "Assertion",
+    "preferred_label": "Zetek became Resident Manager in 1946",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_types": [
+      "relational",
+      "factual"
+    ],
+    "subject_ref": "PNS-PER-000002",
+    "predicate": "served_as",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_ref": "PNS-ORG-000002",
+    "temporal": {
+      "kind": "open_range",
+      "start": "1946"
+    },
+    "role_qualifier": {
+      "code": "resident_manager",
+      "source_label": "Resident Manager"
+    },
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000105",
+      "PNS-THM-000109"
+    ]
+  },
+  {
+    "id": "PNS-AST-000003",
+    "class": "Assertion",
+    "preferred_label": "SIA finding aid describes Zetek as Resident Manager, 1923–1956",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_types": [
+      "historiographical",
+      "relational"
+    ],
+    "subject_ref": "PNS-PER-000002",
+    "predicate": "described_as_role",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_ref": "PNS-SRC-000003",
+    "reasoning_note": "Catalogue-level role wording conflicts with the more differentiated chronology in the 1959 obituary.",
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-AST-000004",
+    "class": "Assertion",
+    "preferred_label": "One source dates CZBA legal status to 1939",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_types": [
+      "historiographical",
+      "factual"
+    ],
+    "subject_ref": "PNS-ORG-000002",
+    "predicate": "legal_transition_year",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_value": {
+      "kind": "date",
+      "value": "1939"
+    },
+    "reasoning_note": "Retained alongside the competing 1940 statement pending primary legislative verification.",
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000012",
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-AST-000005",
+    "class": "Assertion",
+    "preferred_label": "Smithsonian finding aid dates transition to CZBA to 1940",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_types": [
+      "historiographical",
+      "factual"
+    ],
+    "subject_ref": "PNS-ORG-000002",
+    "predicate": "legal_transition_year",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_value": {
+      "kind": "date",
+      "value": "1940"
+    },
+    "reasoning_note": "Retained alongside the competing 1939 statement pending primary legislative verification.",
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000012",
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-AST-000006",
+    "class": "Assertion",
+    "preferred_label": "No primary legislative text has yet been examined in this fixture to resolve 1939/1940",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_types": [
+      "negative_finding"
+    ],
+    "subject_ref": "PNS-DOS-000001",
+    "predicate": "legal_transition_year",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_value": {
+      "kind": "text",
+      "value": "Primary legislation not yet examined in this fixture.",
+      "lang": "en"
+    },
+    "research_scope": {
+      "description": "Reference-fixture research pass limited to the cited Smithsonian finding aids and 1959 obituary.",
+      "repository_refs": [
+        "PNS-RPO-000001"
+      ],
+      "source_refs": [
+        "PNS-SRC-000001",
+        "PNS-SRC-000003",
+        "PNS-SRC-000004"
+      ],
+      "limits": [
+        "No legislative archive or statute text inspected in this fixture."
+      ],
+      "access_constraints": []
+    },
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000016",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-AST-000007",
+    "class": "Assertion",
+    "preferred_label": "1906 malaria admission rate: 821 per 1,000 employees",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "assertion_types": [
+      "factual"
+    ],
+    "subject_ref": "PNS-ACT-000002",
+    "predicate": "reports_measurement",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_value": {
+      "kind": "measurement",
+      "measure_code": "malaria_admission_rate",
+      "value": 821,
+      "unit_code": "admissions_per_1000_employees",
+      "denominator": {
+        "value": 1000,
+        "basis": "employees"
+      },
+      "rate_basis": "per_1000",
+      "population_scope": {
+        "source_label": "employees",
+        "scope_type": "institutional_cohort",
+        "organization_refs": [
+          "PNS-ORG-000004"
+        ],
+        "place_refs": [
+          "PNS-PLA-000002"
+        ],
+        "temporal": {
+          "kind": "exact",
+          "start": "1906"
+        },
+        "inclusion_note": "Population as defined by the reporting system.",
+        "denominator_basis": "employee_population"
+      },
+      "temporal_scope": {
+        "kind": "exact",
+        "start": "1906"
+      },
+      "spatial_scope_refs": [
+        "PNS-PLA-000002"
+      ],
+      "method_note": "Admission rate, not proportion of unique persons infected.",
+      "source_terminology": "admissions per thousand",
+      "derivation": {
+        "type": "directly_reported"
+      }
+    },
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000112",
+      "PNS-THM-000119",
+      "PNS-THM-000120",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-AST-000008",
+    "class": "Assertion",
+    "preferred_label": "1910 malaria admission rate: 187 per 1,000 employees",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "assertion_types": [
+      "factual"
+    ],
+    "subject_ref": "PNS-ACT-000002",
+    "predicate": "reports_measurement",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_value": {
+      "kind": "measurement",
+      "measure_code": "malaria_admission_rate",
+      "value": 187,
+      "unit_code": "admissions_per_1000_employees",
+      "denominator": {
+        "value": 1000,
+        "basis": "employees"
+      },
+      "rate_basis": "per_1000",
+      "population_scope": {
+        "source_label": "employees",
+        "scope_type": "institutional_cohort",
+        "organization_refs": [
+          "PNS-ORG-000004"
+        ],
+        "place_refs": [
+          "PNS-PLA-000002"
+        ],
+        "temporal": {
+          "kind": "exact",
+          "start": "1910"
+        },
+        "inclusion_note": "Population as defined by the reporting system.",
+        "denominator_basis": "employee_population"
+      },
+      "temporal_scope": {
+        "kind": "exact",
+        "start": "1910"
+      },
+      "spatial_scope_refs": [
+        "PNS-PLA-000002"
+      ],
+      "method_note": "Admission rate, not proportion of unique persons infected.",
+      "source_terminology": "admissions per thousand",
+      "derivation": {
+        "type": "directly_reported"
+      }
+    },
+    "comparability": {
+      "status": "accepted",
+      "compared_assertion_refs": [
+        "PNS-AST-000007"
+      ],
+      "differences": [],
+      "basis_note": "Fixture treats the two figures as comparable reported admission rates within the same annual report series; this does not convert them into individual infection prevalence."
+    },
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000112",
+      "PNS-THM-000119",
+      "PNS-THM-000120",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-AST-000009",
+    "class": "Assertion",
+    "preferred_label": "Canal sanitation programme included drainage, oiling and vegetation removal",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "assertion_types": [
+      "factual",
+      "relational"
+    ],
+    "subject_ref": "PNS-ACT-000002",
+    "predicate": "included_practice",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_value": {
+      "kind": "text",
+      "value": "drainage, oiling/larviciding, vegetation removal and related mosquito-control work",
+      "lang": "en"
+    },
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000114",
+      "PNS-THM-000115",
+      "PNS-THM-000121"
+    ]
+  },
+  {
+    "id": "PNS-AST-000010",
+    "class": "Assertion",
+    "preferred_label": "Historical sugarcane germplasm collection was transferred to Summit in 1939",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_types": [
+      "relational",
+      "factual"
+    ],
+    "subject_ref": "PNS-COL-000005",
+    "predicate": "transferred_to",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_ref": "PNS-PLA-000005",
+    "temporal": {
+      "kind": "exact",
+      "start": "1939"
+    },
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004",
+      "PNS-THM-000123",
+      "PNS-THM-000124"
+    ]
+  },
+  {
+    "id": "PNS-AST-000011",
+    "class": "Assertion",
+    "preferred_label": "Panama S. spontaneum population probably derives from escape from historical germplasm collection",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_types": [
+      "interpretive",
+      "relational"
+    ],
+    "subject_ref": "PNS-BIO-000005",
+    "predicate": "derived_from",
+    "attestation_mode": "inferential",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_ref": "PNS-COL-000005",
+    "inference_strength": "strong_inference",
+    "reasoning_note": "Modern genetic/historical study supports escape from the historical collection as the likely origin; encoded as inference, not intrinsic identity.",
+    "theme_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000005",
+      "PNS-THM-000006",
+      "PNS-THM-000130",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-AST-000012",
+    "class": "Assertion",
+    "preferred_label": "1936 report describes more than 300 species introduced new to the Isthmus that fiscal year",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_types": [
+      "factual"
+    ],
+    "subject_ref": "PNS-ACT-000003",
+    "predicate": "introduced_species_count",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_value": {
+      "kind": "measurement",
+      "measure_code": "introduced_species_count",
+      "value": 300,
+      "unit_code": "count_species",
+      "temporal_scope": {
+        "kind": "exact",
+        "start": "1936"
+      },
+      "spatial_scope_refs": [
+        "PNS-PLA-000005"
+      ],
+      "method_note": "Source states more than 300; fixture stores 300 as lower-bound display value and preserves wording in reasoning note.",
+      "source_terminology": "more than 300 species",
+      "derivation": {
+        "type": "directly_reported"
+      },
+      "uncertainty": "lower_bound"
+    },
+    "reasoning_note": "The source wording is “more than 300”; numerical projection must not imply exact equality.",
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000122",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-AST-000013",
+    "class": "Assertion",
+    "preferred_label": "Fairchild mango material was distributed to David Fairchild in Florida",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_types": [
+      "relational",
+      "factual"
+    ],
+    "subject_ref": "PNS-BIO-000004",
+    "predicate": "distributed_to",
+    "attestation_mode": "directly_documented",
+    "corroboration_state": "not_independently_corroborated",
+    "disposition": "active",
+    "contestation": "not_currently_contested",
+    "reviewed_at": "2026-09-17",
+    "reviewed_by_ref": "PNS-PER-000001",
+    "object_ref": "PNS-PER-000005",
+    "temporal": {
+      "kind": "exact",
+      "start": "1936"
+    },
+    "reasoning_note": "Fixture uses a representative BiologicalEntity accession to exercise distribution provenance; it is not asserting that the representative accession ID is the actual historical Fairchild mango accession.",
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000122",
+      "PNS-THM-000124",
+      "PNS-THM-000125"
+    ]
+  },
+  {
+    "id": "PNS-BIO-000001",
+    "class": "BiologicalEntity",
+    "preferred_label": "Macrophyllodromia panamae",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000003",
+      "PNS-THM-000004",
+      "PNS-THM-000136",
+      "PNS-THM-000108"
+    ],
+    "subtype": "taxon",
+    "scientific_name_display": "Macrophyllodromia panamae"
+  },
+  {
+    "id": "PNS-BIO-000002",
+    "class": "BiologicalEntity",
+    "preferred_label": "USNM 65778",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000003",
+      "PNS-THM-000004",
+      "PNS-THM-000102",
+      "PNS-THM-000107",
+      "PNS-THM-000108",
+      "PNS-THM-000136"
+    ],
+    "subtype": "specimen",
+    "specimen_identifiers": [
+      "USNM 65778"
+    ],
+    "current_taxon_ref": "PNS-BIO-000001",
+    "locality_interpretations": [
+      {
+        "verbatim_locality": "Barro Colorado Island, Canal Zone",
+        "normalized_place_ref": "PNS-PLA-000001",
+        "georeference": {
+          "spatial_precision": "island_level",
+          "established_by_ref": "PNS-PER-000001",
+          "established_at": "2026-09-17",
+          "method_note": "Fixture normalization only; no precise point asserted."
+        }
+      }
+    ]
+  },
+  {
+    "id": "PNS-BIO-000003",
+    "class": "BiologicalEntity",
+    "preferred_label": "Saccharum spontaneum",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000005",
+      "PNS-THM-000006",
+      "PNS-THM-000009",
+      "PNS-THM-000136",
+      "PNS-THM-000129",
+      "PNS-THM-000130"
+    ],
+    "subtype": "taxon",
+    "scientific_name_display": "Saccharum spontaneum"
+  },
+  {
+    "id": "PNS-BIO-000004",
+    "class": "BiologicalEntity",
+    "preferred_label": "Historical sugarcane germplasm accession line (fixture representative)",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004",
+      "PNS-THM-000123",
+      "PNS-THM-000124",
+      "PNS-THM-000125",
+      "PNS-THM-000136"
+    ],
+    "subtype": "accession_germplasm_line",
+    "accession_identifiers": [
+      "FIXTURE-ACCESSION-001"
+    ],
+    "current_taxon_ref": "PNS-BIO-000003",
+    "current_collection_refs": [
+      "PNS-COL-000005"
+    ]
+  },
+  {
+    "id": "PNS-BIO-000005",
+    "class": "BiologicalEntity",
+    "preferred_label": "Panama Saccharum spontaneum invasive population",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000005",
+      "PNS-THM-000006",
+      "PNS-THM-000130",
+      "PNS-THM-000129",
+      "PNS-THM-000136"
+    ],
+    "subtype": "population_group",
+    "current_taxon_ref": "PNS-BIO-000003"
+  },
+  {
+    "id": "PNS-CLM-000001",
+    "class": "ClaimExpression",
+    "preferred_label": "Obituary: curator role chronology",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000001"
+    ],
+    "source_segment_ref": "PNS-SEG-000004",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "quotes",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000002",
+    "class": "ClaimExpression",
+    "preferred_label": "Obituary: resident-manager transition",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000002"
+    ],
+    "source_segment_ref": "PNS-SEG-000004",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "quotes",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000003",
+    "class": "ClaimExpression",
+    "preferred_label": "SIA finding aid: Resident Manager 1923–1956",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000003"
+    ],
+    "source_segment_ref": "PNS-SEG-000003",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "summarizes",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000004",
+    "class": "ClaimExpression",
+    "preferred_label": "Obituary: 1939 legal-status statement",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000004"
+    ],
+    "source_segment_ref": "PNS-SEG-000004",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "quotes",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000005",
+    "class": "ClaimExpression",
+    "preferred_label": "Finding aid: 1940 transition statement",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000005"
+    ],
+    "source_segment_ref": "PNS-SEG-000001",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "summarizes",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000006",
+    "class": "ClaimExpression",
+    "preferred_label": "1910 report: malaria admission-rate statements",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000007",
+      "PNS-AST-000008"
+    ],
+    "source_segment_ref": "PNS-SEG-000006",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "quotes",
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000119",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000007",
+    "class": "ClaimExpression",
+    "preferred_label": "Modern study: likely historical escape origin",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000011"
+    ],
+    "source_segment_ref": "PNS-SEG-000011",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "summarizes",
+    "theme_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000018",
+      "PNS-THM-000130",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000008",
+    "class": "ClaimExpression",
+    "preferred_label": "Validation note conclusion: no twenty-first core class required",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000006"
+    ],
+    "source_ref": "PNS-SRC-000011",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "summarizes",
+    "wording": "The validation programme did not require a twenty-first core class; identified changes were representational refinements.",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-CLM-000009",
+    "class": "ClaimExpression",
+    "preferred_label": "Research contribution precursor to validation-note conclusion",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003"
+    ],
+    "assertion_refs": [
+      "PNS-AST-000006"
+    ],
+    "contribution_ref": "PNS-CTR-000001",
+    "mapping_by_ref": "PNS-PER-000001",
+    "mapped_at": "2026-09-17",
+    "expression_mode": "summarizes",
+    "wording": "The reference implementation preserves the twenty-class model while refining structures.",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-COL-000001",
+    "class": "Collection",
+    "preferred_label": "Record Unit 134: Canal Zone Biological Area / Barro Colorado Island Records",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000001",
+      "PNS-THM-000110"
+    ],
+    "collection_type": "records_collection",
+    "held_by_repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "arrangement_note": "Finding aid describes multiple series including administration, scientific research, Zetek papers, photographs and maps."
+  },
+  {
+    "id": "PNS-COL-000002",
+    "class": "Collection",
+    "preferred_label": "Record Unit 135: Office of the Secretary, Canal Zone Biological Area Records",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000001",
+      "PNS-THM-000110",
+      "PNS-THM-000111",
+      "PNS-THM-000109"
+    ],
+    "collection_type": "records_collection",
+    "held_by_repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "arrangement_note": "Earlier and later records were interfiled; the finding aid states that no original order remains.",
+    "biography_event_refs": [
+      "PNS-EVT-000002"
+    ]
+  },
+  {
+    "id": "PNS-COL-000003",
+    "class": "Collection",
+    "preferred_label": "Record Unit 7462: James Zetek Papers",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000001",
+      "PNS-THM-000003",
+      "PNS-THM-000110",
+      "PNS-THM-000102",
+      "PNS-THM-000106"
+    ],
+    "collection_type": "archival",
+    "held_by_repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "scope_note": "Includes specimen cards, correspondence, experiments and other research documentation."
+  },
+  {
+    "id": "PNS-COL-000004",
+    "class": "Collection",
+    "preferred_label": "Canal Zone Experiment Gardens living plant collection",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000017",
+      "PNS-THM-000004",
+      "PNS-THM-000122",
+      "PNS-THM-000125",
+      "PNS-THM-000126",
+      "PNS-THM-000110"
+    ],
+    "collection_type": "living_biological",
+    "scope_note": "Historical living collection used for introduction, propagation, testing and dissemination."
+  },
+  {
+    "id": "PNS-COL-000005",
+    "class": "Collection",
+    "preferred_label": "Historical sugarcane germplasm collection at Summit",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000017",
+      "PNS-THM-000004",
+      "PNS-THM-000123",
+      "PNS-THM-000124",
+      "PNS-THM-000110"
+    ],
+    "collection_type": "germplasm",
+    "current_member_refs": [
+      "PNS-BIO-000004"
+    ]
+  },
+  {
+    "id": "PNS-CTR-000001",
+    "class": "Contribution",
+    "preferred_label": "Creation of Panamensis reference implementation fixture",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003"
+    ],
+    "contribution_type": "research",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    },
+    "contributor_ref": "PNS-PER-000001",
+    "description": "Structured the three validation families as a production fixture and mapped validation amendments into machine-readable records.",
+    "related_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003"
+    ],
+    "resulting_assertion_refs": [
+      "PNS-AST-000006"
+    ],
+    "credit_preference": "full_name",
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000016",
+      "PNS-THM-000018"
+    ]
+  },
+  {
+    "id": "PNS-DOS-000001",
+    "class": "ResearchDossier",
+    "preferred_label": "Case A: Barro Colorado / James Zetek / CZBA",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "status": "active",
+    "principal_question": "Can the production model represent the institutional, documentary, specimen and role history of Barro Colorado without flattening contested metadata?",
+    "lead_researcher_refs": [
+      "PNS-PER-000001"
+    ],
+    "repositories_investigated_refs": [
+      "PNS-RPO-000001"
+    ],
+    "featured_refs": [
+      "PNS-PER-000002",
+      "PNS-COL-000001",
+      "PNS-ACT-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000003",
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000103",
+      "PNS-THM-000102",
+      "PNS-THM-000109",
+      "PNS-THM-000110"
+    ]
+  },
+  {
+    "id": "PNS-DOS-000002",
+    "class": "ResearchDossier",
+    "preferred_label": "Case B: malaria and public-health intervention in the Canal Zone",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "status": "active",
+    "principal_question": "Can Panamensis represent intervention, measurement, population scope and causal interpretation without collapsing them?",
+    "lead_researcher_refs": [
+      "PNS-PER-000001"
+    ],
+    "repositories_investigated_refs": [
+      "PNS-RPO-000002"
+    ],
+    "featured_refs": [
+      "PNS-ACT-000002",
+      "PNS-SRC-000006"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000012",
+      "PNS-THM-000010",
+      "PNS-THM-000014",
+      "PNS-THM-000112",
+      "PNS-THM-000113",
+      "PNS-THM-000114",
+      "PNS-THM-000119",
+      "PNS-THM-000121"
+    ]
+  },
+  {
+    "id": "PNS-DOS-000003",
+    "class": "ResearchDossier",
+    "preferred_label": "Case C: Canal Zone Plant Introduction / Experiment Gardens",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "status": "active",
+    "principal_question": "Can Panamensis represent living collections, germplasm accessions, biological movement and later environmental interpretation?",
+    "lead_researcher_refs": [
+      "PNS-PER-000001"
+    ],
+    "featured_refs": [
+      "PNS-ORG-000005",
+      "PNS-COL-000004",
+      "PNS-BIO-000004"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000004",
+      "PNS-THM-000006",
+      "PNS-THM-000002",
+      "PNS-THM-000017",
+      "PNS-THM-000122",
+      "PNS-THM-000123",
+      "PNS-THM-000124",
+      "PNS-THM-000126",
+      "PNS-THM-000130"
+    ]
+  },
+  {
+    "id": "PNS-EVT-000001",
+    "class": "Event",
+    "preferred_label": "Reservation of Barro Colorado for scientific purposes",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000103",
+      "PNS-THM-000104"
+    ],
+    "event_type": "reservation",
+    "temporal": {
+      "kind": "exact",
+      "start": "1923-04-17"
+    },
+    "place_refs": [
+      "PNS-PLA-000001"
+    ],
+    "activity_refs": [
+      "PNS-ACT-000001"
+    ]
+  },
+  {
+    "id": "PNS-EVT-000002",
+    "class": "Event",
+    "preferred_label": "Transfer of Canal Zone Biological Area administration to the Smithsonian",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000012",
+      "PNS-THM-000109"
+    ],
+    "event_type": "administrative_transfer",
+    "temporal": {
+      "kind": "exact",
+      "start": "1946-07-16"
+    },
+    "place_refs": [
+      "PNS-PLA-000001"
+    ],
+    "activity_refs": [
+      "PNS-ACT-000001"
+    ]
+  },
+  {
+    "id": "PNS-EVT-000003",
+    "class": "Event",
+    "preferred_label": "Transfer of sugarcane germplasm collection to Summit",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004",
+      "PNS-THM-000123",
+      "PNS-THM-000124"
+    ],
+    "event_type": "biological_transfer",
+    "temporal": {
+      "kind": "exact",
+      "start": "1939"
+    },
+    "place_refs": [
+      "PNS-PLA-000005"
+    ],
+    "activity_refs": [
+      "PNS-ACT-000004"
+    ]
+  },
+  {
+    "id": "PNS-EVT-000004",
+    "class": "Event",
+    "preferred_label": "Distribution of Fairchild mango material to Florida",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000122",
+      "PNS-THM-000124",
+      "PNS-THM-000125"
+    ],
+    "event_type": "distribution_event",
+    "temporal": {
+      "kind": "exact",
+      "start": "1936"
+    },
+    "activity_refs": [
+      "PNS-ACT-000003"
+    ]
+  },
+  {
+    "id": "PNS-EVL-000001",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for curator role",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_ref": "PNS-AST-000001",
+    "source_segment_ref": "PNS-SEG-000004",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "retrospective",
+      "relation_to_phenomenon": "non_participant_reporter",
+      "transmission_basis": "document_based_analysis"
+    },
+    "functions": [
+      "attributes",
+      "dates"
+    ],
+    "independence_group": "obituary_1959",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000001"
+  },
+  {
+    "id": "PNS-EVL-000002",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for resident-manager transition",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_ref": "PNS-AST-000002",
+    "source_segment_ref": "PNS-SEG-000004",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "retrospective",
+      "relation_to_phenomenon": "non_participant_reporter",
+      "transmission_basis": "document_based_analysis"
+    },
+    "functions": [
+      "attributes",
+      "dates"
+    ],
+    "independence_group": "obituary_1959",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000002"
+  },
+  {
+    "id": "PNS-EVL-000003",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for SIA catalogue role wording",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_ref": "PNS-AST-000003",
+    "source_segment_ref": "PNS-SEG-000003",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "describes"
+    ],
+    "independence_group": "sia_finding_aid",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000003"
+  },
+  {
+    "id": "PNS-EVL-000004",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for 1939 statement",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_ref": "PNS-AST-000004",
+    "source_segment_ref": "PNS-SEG-000004",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "retrospective",
+      "relation_to_phenomenon": "non_participant_reporter",
+      "transmission_basis": "document_based_analysis"
+    },
+    "functions": [
+      "dates"
+    ],
+    "independence_group": "obituary_1959",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000004"
+  },
+  {
+    "id": "PNS-EVL-000005",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for 1940 statement",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_ref": "PNS-AST-000005",
+    "source_segment_ref": "PNS-SEG-000001",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "dates"
+    ],
+    "independence_group": "sia_finding_aid",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000005"
+  },
+  {
+    "id": "PNS-EVL-000006",
+    "class": "EvidenceLink",
+    "preferred_label": "Research-action support for scoped negative finding",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "assertion_ref": "PNS-AST-000006",
+    "research_action_ref": "PNS-RAC-000001",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "later_analyst_or_scholar",
+      "transmission_basis": "document_based_analysis"
+    },
+    "functions": [
+      "describes"
+    ],
+    "independence_group": "fixture_research_action",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17"
+  },
+  {
+    "id": "PNS-EVL-000007",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for 1906 malaria admission rate",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "assertion_ref": "PNS-AST-000007",
+    "source_segment_ref": "PNS-SEG-000006",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "quantifies",
+      "records_measurement"
+    ],
+    "independence_group": "sanitation_report_1910",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000006"
+  },
+  {
+    "id": "PNS-EVL-000008",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for 1910 malaria admission rate",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "assertion_ref": "PNS-AST-000008",
+    "source_segment_ref": "PNS-SEG-000006",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "quantifies",
+      "records_measurement"
+    ],
+    "independence_group": "sanitation_report_1910",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000006"
+  },
+  {
+    "id": "PNS-EVL-000009",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for sanitation practices",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "assertion_ref": "PNS-AST-000009",
+    "source_segment_ref": "PNS-SEG-000007",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "describes"
+    ],
+    "independence_group": "sanitation_report_1910",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17"
+  },
+  {
+    "id": "PNS-EVL-000010",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for 1939 germplasm transfer",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_ref": "PNS-AST-000010",
+    "source_segment_ref": "PNS-SEG-000009",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "dates",
+      "establishes_provenance"
+    ],
+    "independence_group": "gardens_report_1929",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "note": "Fixture treats the transfer date as a validation assertion; production research should verify exact documentary basis if published."
+  },
+  {
+    "id": "PNS-EVL-000011",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for modern inferential origin claim",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_ref": "PNS-AST-000011",
+    "source_segment_ref": "PNS-SEG-000011",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "retrospective",
+      "relation_to_phenomenon": "later_analyst_or_scholar",
+      "transmission_basis": "document_based_analysis"
+    },
+    "functions": [
+      "describes",
+      "establishes_provenance"
+    ],
+    "independence_group": "modern_genetic_study",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17",
+    "claim_expression_ref": "PNS-CLM-000007"
+  },
+  {
+    "id": "PNS-EVL-000012",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for introduced-species count",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_ref": "PNS-AST-000012",
+    "source_segment_ref": "PNS-SEG-000010",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "quantifies"
+    ],
+    "independence_group": "gardens_report_1936",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17"
+  },
+  {
+    "id": "PNS-EVL-000013",
+    "class": "EvidenceLink",
+    "preferred_label": "Evidence for Fairchild distribution",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "assertion_ref": "PNS-AST-000013",
+    "source_segment_ref": "PNS-SEG-000010",
+    "role": "supports",
+    "position": {
+      "temporal_relation": "contemporary",
+      "relation_to_phenomenon": "institutional_recorder",
+      "transmission_basis": "institutional_description"
+    },
+    "functions": [
+      "documents_participation",
+      "establishes_provenance"
+    ],
+    "independence_group": "gardens_report_1936",
+    "assessed_by_ref": "PNS-PER-000001",
+    "assessed_at": "2026-09-17"
+  },
+  {
+    "id": "PNS-LIN-000001",
+    "class": "AssertionLineage",
+    "preferred_label": "Research conclusion transmitted from fixture contribution to validation note",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003"
+    ],
+    "from_claim_expression_refs": [
+      "PNS-CLM-000009"
+    ],
+    "to_claim_expression_ref": "PNS-CLM-000008",
+    "relation": "repeats",
+    "note": "Internal research-lineage control demonstrating claim transmission across a Contribution and an Output/Source representation.",
+    "theme_refs": [
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-MAT-000001",
+    "class": "MaterialEntity",
+    "preferred_label": "Unidentified CZBA building photographed with James Zetek in 1946",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000104",
+      "PNS-THM-000103"
+    ],
+    "material_type": "building"
+  },
+  {
+    "id": "PNS-ORG-000001",
+    "class": "GroupOrganization",
+    "preferred_label": "Institute for Research in Tropical America",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000103",
+      "PNS-THM-000104"
+    ],
+    "organization_type": "research_institute"
+  },
+  {
+    "id": "PNS-ORG-000002",
+    "class": "GroupOrganization",
+    "preferred_label": "Canal Zone Biological Area",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000103",
+      "PNS-THM-000104",
+      "PNS-THM-000109"
+    ],
+    "organization_type": "scientific_institution"
+  },
+  {
+    "id": "PNS-ORG-000003",
+    "class": "GroupOrganization",
+    "preferred_label": "Smithsonian Institution",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000017",
+      "PNS-THM-000109"
+    ],
+    "organization_type": "scientific_institution"
+  },
+  {
+    "id": "PNS-ORG-000004",
+    "class": "GroupOrganization",
+    "preferred_label": "Isthmian Canal Commission Department of Sanitation",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012",
+      "PNS-THM-000010",
+      "PNS-THM-000112",
+      "PNS-THM-000114",
+      "PNS-THM-000118"
+    ],
+    "organization_type": "government_agency"
+  },
+  {
+    "id": "PNS-ORG-000005",
+    "class": "GroupOrganization",
+    "preferred_label": "Canal Zone Experiment Gardens",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000017",
+      "PNS-THM-000122",
+      "PNS-THM-000126",
+      "PNS-THM-000104"
+    ],
+    "organization_type": "agricultural_research_institution",
+    "name_variants": [
+      {
+        "value": "Canal Zone Plant Introduction Gardens",
+        "type": "historical_name",
+        "temporal": {
+          "kind": "before",
+          "start": "1929"
+        }
+      }
+    ]
+  },
+  {
+    "id": "PNS-ORG-000006",
+    "class": "GroupOrganization",
+    "preferred_label": "USDA Bureau of Plant Industry",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000123",
+      "PNS-THM-000124"
+    ],
+    "organization_type": "government_agency"
+  },
+  {
+    "id": "PNS-OUT-000001",
+    "class": "Output",
+    "preferred_label": "Panamensis Validation Note 01",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003"
+    ],
+    "output_type": "validation_note",
+    "creator_refs": [
+      "PNS-PER-000001"
+    ],
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    },
+    "languages": [
+      "en"
+    ],
+    "source_record_ref": "PNS-SRC-000011",
+    "summary": "Validation note documenting the three case families and amendments incorporated into Technical Specification v0.2.",
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018",
+      "PNS-THM-000016"
+    ]
+  },
+  {
+    "id": "PNS-PER-000001",
+    "class": "Person",
+    "preferred_label": "Edgardo Civallero",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000016",
+      "PNS-THM-000018"
+    ],
+    "identity_status": "resolved",
+    "external_identifiers": [
+      {
+        "scheme": "ORCID",
+        "value": "0000-0001-8849-3484",
+        "uri": "https://orcid.org/0000-0001-8849-3484",
+        "relation": "exact_match"
+      }
+    ]
+  },
+  {
+    "id": "PNS-PER-000002",
+    "class": "Person",
+    "preferred_label": "James Zetek",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000003",
+      "PNS-THM-000105",
+      "PNS-THM-000102",
+      "PNS-THM-000138"
+    ],
+    "identity_status": "resolved"
+  },
+  {
+    "id": "PNS-PER-000003",
+    "class": "Person",
+    "preferred_label": "Alexander Wetmore",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000003",
+      "PNS-THM-000101",
+      "PNS-THM-000102"
+    ],
+    "identity_status": "resolved"
+  },
+  {
+    "id": "PNS-PER-000004",
+    "class": "Person",
+    "preferred_label": "William C. Gorgas",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000001",
+      "PNS-THM-000012",
+      "PNS-THM-000112",
+      "PNS-THM-000114",
+      "PNS-THM-000138"
+    ],
+    "identity_status": "resolved"
+  },
+  {
+    "id": "PNS-PER-000005",
+    "class": "Person",
+    "preferred_label": "David Fairchild",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000122",
+      "PNS-THM-000138"
+    ],
+    "identity_status": "resolved"
+  },
+  {
+    "id": "PNS-PLA-000001",
+    "class": "Place",
+    "preferred_label": "Barro Colorado Island",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000003",
+      "PNS-THM-000103",
+      "PNS-THM-000101"
+    ],
+    "place_type": "island",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.85,
+        9.15
+      ]
+    },
+    "spatial_precision": "island_level"
+  },
+  {
+    "id": "PNS-PLA-000002",
+    "class": "Place",
+    "preferred_label": "Panama Canal Zone",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000012",
+      "PNS-THM-000112",
+      "PNS-THM-000114",
+      "PNS-THM-000121"
+    ],
+    "place_type": "historical_administrative_territory"
+  },
+  {
+    "id": "PNS-PLA-000003",
+    "class": "Place",
+    "preferred_label": "Panama City",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000112",
+      "PNS-THM-000114",
+      "PNS-THM-000121"
+    ],
+    "place_type": "city",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.5199,
+        8.9824
+      ]
+    },
+    "spatial_precision": "city_level"
+  },
+  {
+    "id": "PNS-PLA-000004",
+    "class": "Place",
+    "preferred_label": "Colón",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000112",
+      "PNS-THM-000114",
+      "PNS-THM-000121"
+    ],
+    "place_type": "city",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.9014,
+        9.3592
+      ]
+    },
+    "spatial_precision": "city_level"
+  },
+  {
+    "id": "PNS-PLA-000005",
+    "class": "Place",
+    "preferred_label": "Summit",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000122",
+      "PNS-THM-000126"
+    ],
+    "place_type": "garden_site"
+  },
+  {
+    "id": "PNS-RPO-000001",
+    "class": "Repository",
+    "preferred_label": "Smithsonian Institution Archives",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017"
+    ],
+    "repository_type": "archive",
+    "custodian_ref": "PNS-ORG-000003"
+  },
+  {
+    "id": "PNS-RPO-000002",
+    "class": "Repository",
+    "preferred_label": "GovInfo / U.S. Government Publishing Office digital repository",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "theme_refs": [
+      "PNS-THM-000016"
+    ],
+    "repository_type": "digital_repository"
+  },
+  {
+    "id": "PNS-RAC-000001",
+    "class": "ResearchAction",
+    "preferred_label": "Case A catalogue/finding-aid comparison",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "action_type": "structured_source_comparison",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    },
+    "dossier_ref": "PNS-DOS-000001",
+    "outcome": "Identified conflicting 1939/1940 transition statements and role chronology differences; primary legislation not examined.",
+    "actor_refs": [
+      "PNS-PER-000001"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "examined_refs": [
+      "PNS-SRC-000001",
+      "PNS-SRC-000003",
+      "PNS-SRC-000004"
+    ],
+    "related_assertion_refs": [
+      "PNS-AST-000004",
+      "PNS-AST-000005",
+      "PNS-AST-000006"
+    ],
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000018",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-RAC-000002",
+    "class": "ResearchAction",
+    "preferred_label": "Case B sanitation-report comparison",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "action_type": "structured_source_comparison",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    },
+    "dossier_ref": "PNS-DOS-000002",
+    "outcome": "Encoded reported malaria admission rates and separated measurement from causal interpretation.",
+    "actor_refs": [
+      "PNS-PER-000001"
+    ],
+    "examined_refs": [
+      "PNS-SRC-000006",
+      "PNS-SRC-000007"
+    ],
+    "related_assertion_refs": [
+      "PNS-AST-000007",
+      "PNS-AST-000008",
+      "PNS-AST-000009"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000119",
+      "PNS-THM-000133",
+      "PNS-THM-000134"
+    ]
+  },
+  {
+    "id": "PNS-RAC-000003",
+    "class": "ResearchAction",
+    "preferred_label": "Case C historical/modern biological-provenance comparison",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "action_type": "structured_source_comparison",
+    "temporal": {
+      "kind": "exact",
+      "start": "2026-09-17"
+    },
+    "dossier_ref": "PNS-DOS-000003",
+    "outcome": "Tested living Collections, accession subtypes, biological movement predicates and inferential origin claims.",
+    "actor_refs": [
+      "PNS-PER-000001"
+    ],
+    "examined_refs": [
+      "PNS-SRC-000008",
+      "PNS-SRC-000009",
+      "PNS-SRC-000010"
+    ],
+    "related_assertion_refs": [
+      "PNS-AST-000010",
+      "PNS-AST-000011",
+      "PNS-AST-000012",
+      "PNS-AST-000013"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004",
+      "PNS-THM-000018",
+      "PNS-THM-000124",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000001",
+    "class": "SourceSegment",
+    "preferred_label": "RU 134 institutional-history description",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "parent_source_ref": "PNS-SRC-000001",
+    "locator": "finding-aid institutional history",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000002",
+      "PNS-THM-000109"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000002",
+    "class": "SourceSegment",
+    "preferred_label": "RU 135 arrangement-history statement",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "parent_source_ref": "PNS-SRC-000002",
+    "locator": "finding-aid arrangement note",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000110",
+      "PNS-THM-000111"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000003",
+    "class": "SourceSegment",
+    "preferred_label": "RU 7462 Zetek biographical description",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "parent_source_ref": "PNS-SRC-000003",
+    "locator": "finding-aid biographical note",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000004",
+    "class": "SourceSegment",
+    "preferred_label": "Zetek obituary role chronology",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "parent_source_ref": "PNS-SRC-000004",
+    "locator": "role chronology and institutional transition passage",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000005",
+    "class": "SourceSegment",
+    "preferred_label": "Wetmore photograph catalogue description",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "parent_source_ref": "PNS-SRC-000005",
+    "locator": "catalogue description of 12 March 1946 photograph",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000104",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000006",
+    "class": "SourceSegment",
+    "preferred_label": "1910 malaria admissions table",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "parent_source_ref": "PNS-SRC-000006",
+    "locator": "employee malaria admissions table / summary",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000112",
+      "PNS-THM-000119",
+      "PNS-THM-000120",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000007",
+    "class": "SourceSegment",
+    "preferred_label": "1910 sanitation-operations description",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "parent_source_ref": "PNS-SRC-000006",
+    "locator": "Panama City sanitation operations section",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000114",
+      "PNS-THM-000115",
+      "PNS-THM-000116",
+      "PNS-THM-000121"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000008",
+    "class": "SourceSegment",
+    "preferred_label": "1932 employee-statistics methodology statement",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "parent_source_ref": "PNS-SRC-000007",
+    "locator": "statement on physician certification and employee statistics",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000119",
+      "PNS-THM-000120",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000009",
+    "class": "SourceSegment",
+    "preferred_label": "1929 plant introduction and dissemination passage",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "parent_source_ref": "PNS-SRC-000008",
+    "locator": "sugarcane/rice introduction, propagation, testing and dissemination passage",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000122",
+      "PNS-THM-000124",
+      "PNS-THM-000126"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000010",
+    "class": "SourceSegment",
+    "preferred_label": "1936 introduction and distribution passage",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "parent_source_ref": "PNS-SRC-000009",
+    "locator": "plant introduction and distribution passage",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000122",
+      "PNS-THM-000124",
+      "PNS-THM-000126",
+      "PNS-THM-000128"
+    ]
+  },
+  {
+    "id": "PNS-SEG-000011",
+    "class": "SourceSegment",
+    "preferred_label": "Modern S. spontaneum historical-origin conclusion",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "parent_source_ref": "PNS-SRC-000010",
+    "locator": "discussion/conclusion on likely escape from historical germplasm collection",
+    "languages": [
+      "en"
+    ],
+    "theme_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000006",
+      "PNS-THM-000018",
+      "PNS-THM-000130",
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000001",
+    "class": "Source",
+    "preferred_label": "RU 134 finding aid",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "source_type": "archival_finding_aid",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "collection_refs": [
+      "PNS-COL-000001"
+    ],
+    "network_captures": [
+      {
+        "url": "https://siarchives.si.edu/collections/siris_arc_216733",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000001",
+      "PNS-THM-000110"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000002",
+    "class": "Source",
+    "preferred_label": "RU 135 finding aid",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "source_type": "archival_finding_aid",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "collection_refs": [
+      "PNS-COL-000002"
+    ],
+    "network_captures": [
+      {
+        "url": "https://siarchives.si.edu/collections/siris_arc_216734",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000001",
+      "PNS-THM-000110"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000003",
+    "class": "Source",
+    "preferred_label": "RU 7462 James Zetek Papers finding aid",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "source_type": "archival_finding_aid",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "collection_refs": [
+      "PNS-COL-000003"
+    ],
+    "network_captures": [
+      {
+        "url": "https://siarchives.si.edu/findingaids/FARU7462",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "metadata_only",
+      "restrictions": "Fixture uses catalogue-level description only; underlying content not examined.",
+      "sensitive": false,
+      "sensitivity_types": [],
+      "public_redaction_note": "Only catalogue-level metadata are projected."
+    },
+    "theme_refs": [
+      "PNS-THM-000016",
+      "PNS-THM-000017",
+      "PNS-THM-000001",
+      "PNS-THM-000110"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000004",
+    "class": "Source",
+    "preferred_label": "1959 James Zetek obituary",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "source_type": "obituary",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [],
+    "collection_refs": [],
+    "network_captures": [
+      {
+        "url": "https://repository.si.edu/bitstreams/57e28af8-9ea0-4825-b53e-a7d873a82107/download",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018",
+      "PNS-THM-000131"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000005",
+    "class": "Source",
+    "preferred_label": "Alexander Wetmore photograph of James Zetek, 12 March 1946",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001"
+    ],
+    "source_type": "photograph",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000001"
+    ],
+    "collection_refs": [],
+    "network_captures": [
+      {
+        "url": "https://siarchives.si.edu/collections/siris_sic_6775",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000016",
+      "PNS-THM-000104"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000006",
+    "class": "Source",
+    "preferred_label": "1910 Report of the Department of Sanitation of the Isthmian Canal Commission",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "source_type": "government_report",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000002"
+    ],
+    "collection_refs": [],
+    "network_captures": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-Y3_IS7-3df5d69c7c77cc0979ed991d66e255e5/pdf/GOVPUB-Y3_IS7-3df5d69c7c77cc0979ed991d66e255e5.pdf",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000012",
+      "PNS-THM-000112",
+      "PNS-THM-000114",
+      "PNS-THM-000119",
+      "PNS-THM-000120",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000007",
+    "class": "Source",
+    "preferred_label": "1932 Panama Canal Health Department report",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000002"
+    ],
+    "source_type": "government_report",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000002"
+    ],
+    "collection_refs": [],
+    "network_captures": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W79-f4de76c6adc60d0d850b20432c796019/pdf/GOVPUB-W79-f4de76c6adc60d0d850b20432c796019.pdf",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012",
+      "PNS-THM-000119",
+      "PNS-THM-000120",
+      "PNS-THM-000118",
+      "PNS-THM-000133"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000008",
+    "class": "Source",
+    "preferred_label": "1929 Canal Zone Experiment Gardens report",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "source_type": "government_report",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000002"
+    ],
+    "collection_refs": [],
+    "network_captures": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W79-d974e5b58f777333e211bb1c1329e9bf/pdf/GOVPUB-W79-d974e5b58f777333e211bb1c1329e9bf.pdf",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000122",
+      "PNS-THM-000125",
+      "PNS-THM-000126",
+      "PNS-THM-000127"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000009",
+    "class": "Source",
+    "preferred_label": "1936 Canal Zone Experiment Gardens report",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "source_type": "government_report",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [
+      "PNS-RPO-000002"
+    ],
+    "collection_refs": [],
+    "network_captures": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W79-f4667f597442e5bde18eadc1e7660518/pdf/GOVPUB-W79-f4667f597442e5bde18eadc1e7660518.pdf",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001",
+      "PNS-THM-000122",
+      "PNS-THM-000124",
+      "PNS-THM-000126",
+      "PNS-THM-000128"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000010",
+    "class": "Source",
+    "preferred_label": "Modern genetic study of Saccharum spontaneum invasion in Panama",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000003"
+    ],
+    "source_type": "scholarly_article",
+    "availability_status": "available",
+    "languages": [
+      "en"
+    ],
+    "repository_refs": [],
+    "collection_refs": [],
+    "network_captures": [
+      {
+        "url": "https://doi.org/10.1007/s10530-020-02421-3",
+        "accessed_at": "2026-09-17"
+      }
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000005",
+      "PNS-THM-000006",
+      "PNS-THM-000018",
+      "PNS-THM-000130",
+      "PNS-THM-000132",
+      "PNS-THM-000136"
+    ]
+  },
+  {
+    "id": "PNS-SRC-000011",
+    "class": "Source",
+    "preferred_label": "Panamensis Validation Note 01 as a Source record",
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 2,
+    "dossier_refs": [
+      "PNS-DOS-000001",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003"
+    ],
+    "source_type": "project_document",
+    "availability_status": "available",
+    "source_roles": [
+      "project_document"
+    ],
+    "languages": [
+      "en"
+    ],
+    "rights_access": {
+      "copyright_status": "unknown",
+      "copyright_holder_refs": [],
+      "reproduction_permission": "not_established",
+      "access_level": "public",
+      "sensitive": false,
+      "sensitivity_types": []
+    },
+    "theme_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018",
+      "PNS-THM-000016"
+    ]
+  },
+  {
+    "id": "PNS-THM-000001",
+    "class": "ConceptTheme",
+    "preferred_label": "History of Science",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "History of Science"
+      },
+      {
+        "lang": "es",
+        "value": "Historia de la ciencia"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical study of scientific knowledge production, practice, institutions, methods, actors and circulation connected with Panama."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000002",
+    "class": "ConceptTheme",
+    "preferred_label": "Scientific Institutions, Field Stations and Research Networks",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific Institutions, Field Stations and Research Networks"
+      },
+      {
+        "lang": "es",
+        "value": "Instituciones científicas, estaciones de campo y redes de investigación"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Institutions, stations, laboratories, programmes and networks through which scientific work in Panama was organized and sustained."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000003",
+    "class": "ConceptTheme",
+    "preferred_label": "Natural History",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Natural History"
+      },
+      {
+        "lang": "es",
+        "value": "Historia natural"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Observation, description, collection and classification of plants, animals, fungi and other natural phenomena in historical scientific practice."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000004",
+    "class": "ConceptTheme",
+    "preferred_label": "Biodiversity and Biological Knowledge",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Biodiversity and Biological Knowledge"
+      },
+      {
+        "lang": "es",
+        "value": "Biodiversidad y conocimiento biológico"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Knowledge of biological diversity in Panama, including taxonomy, distribution, systematics, specimen evidence and changing classifications."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000005",
+    "class": "ConceptTheme",
+    "preferred_label": "Ecology and Ecosystems",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Ecology and Ecosystems"
+      },
+      {
+        "lang": "es",
+        "value": "Ecología y ecosistemas"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Research on ecological relationships, populations, communities, habitats, ecosystem processes and organism-environment interactions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000006",
+    "class": "ConceptTheme",
+    "preferred_label": "Environmental History",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Environmental History"
+      },
+      {
+        "lang": "es",
+        "value": "Historia ambiental"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical relationships among environments, human action, scientific knowledge, infrastructure and changing landscapes in Panama."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000007",
+    "class": "ConceptTheme",
+    "preferred_label": "Geography, Cartography and Spatial Knowledge",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Geography, Cartography and Spatial Knowledge"
+      },
+      {
+        "lang": "es",
+        "value": "Geografía, cartografía y conocimiento espacial"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production and use of spatial knowledge about Panama, including mapping, surveying, boundaries, localities and georeferencing."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000008",
+    "class": "ConceptTheme",
+    "preferred_label": "Public Health, Medicine and Epidemiology",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Public Health, Medicine and Epidemiology"
+      },
+      {
+        "lang": "es",
+        "value": "Salud pública, medicina y epidemiología"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Medical, epidemiological and public-health knowledge and intervention in Panama, including disease surveillance, sanitation and health institutions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000009",
+    "class": "ConceptTheme",
+    "preferred_label": "Agriculture, Plant Introduction and Agronomy",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Agriculture, Plant Introduction and Agronomy"
+      },
+      {
+        "lang": "es",
+        "value": "Agricultura, introducción de plantas y agronomía"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Scientific and institutional work concerning crops, experimental cultivation, plant introduction, breeding and agricultural knowledge."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000010",
+    "class": "ConceptTheme",
+    "preferred_label": "Engineering, Technology and Technical Systems",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Engineering, Technology and Technical Systems"
+      },
+      {
+        "lang": "es",
+        "value": "Ingeniería, tecnología y sistemas técnicos"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Engineering knowledge, technical systems and technologies that shaped scientific, environmental and institutional work in Panama."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000011",
+    "class": "ConceptTheme",
+    "preferred_label": "Transport, Transit, Infrastructure and Communications",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Transport, Transit, Infrastructure and Communications"
+      },
+      {
+        "lang": "es",
+        "value": "Transporte, tránsito, infraestructura y comunicaciones"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Systems of movement and connectivity that structured scientific access, institutional development and environmental change."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000012",
+    "class": "ConceptTheme",
+    "preferred_label": "Government, Administration and Public Policy",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Government, Administration and Public Policy"
+      },
+      {
+        "lang": "es",
+        "value": "Gobierno, administración y políticas públicas"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Governmental structures, administrative systems and policies that shaped science, health, environment and knowledge in Panama."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000013",
+    "class": "ConceptTheme",
+    "preferred_label": "Sovereignty, Empire and Territoriality",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Sovereignty, Empire and Territoriality"
+      },
+      {
+        "lang": "es",
+        "value": "Soberanía, imperio y territorialidad"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Political and territorial frameworks within which scientific and environmental work occurred, including imperial, colonial and Canal Zone contexts."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000014",
+    "class": "ConceptTheme",
+    "preferred_label": "Labor, Expertise and Working Life",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Labor, Expertise and Working Life"
+      },
+      {
+        "lang": "es",
+        "value": "Trabajo, saber experto y vida laboral"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Forms of labor, expertise, employment and technical work through which science, health, infrastructure and collecting were made possible."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000015",
+    "class": "ConceptTheme",
+    "preferred_label": "Knowledge Systems, Local Expertise and Intercultural Exchange",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Knowledge Systems, Local Expertise and Intercultural Exchange"
+      },
+      {
+        "lang": "es",
+        "value": "Sistemas de conocimiento, saberes locales e intercambio intercultural"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Knowledge practices and expertise outside or alongside formal institutions, including local, Indigenous, Afro-Panamanian, occupational and community knowledge when historically documented."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000016",
+    "class": "ConceptTheme",
+    "preferred_label": "Archives, Documentary Heritage and Recordkeeping",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Archives, Documentary Heritage and Recordkeeping"
+      },
+      {
+        "lang": "es",
+        "value": "Archivos, patrimonio documental y gestión documental"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Creation, preservation, arrangement, loss, recovery and interpretation of documentary records relevant to Panamensis research."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000017",
+    "class": "ConceptTheme",
+    "preferred_label": "Libraries, Museums, Herbaria and Scientific Collections",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Libraries, Museums, Herbaria and Scientific Collections"
+      },
+      {
+        "lang": "es",
+        "value": "Bibliotecas, museos, herbarios y colecciones científicas"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Institutions and collections that preserve, organize and mediate documentary, biological and material evidence."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000018",
+    "class": "ConceptTheme",
+    "preferred_label": "Historiography, History of Knowledge and Scientific Memory",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Historiography, History of Knowledge and Scientific Memory"
+      },
+      {
+        "lang": "es",
+        "value": "Historiografía, historia del conocimiento y memoria científica"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_subjects",
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production, repetition, criticism and transformation of historical and scientific narratives about Panama."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000101",
+    "class": "ConceptTheme",
+    "preferred_label": "Fieldwork",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Fieldwork"
+      },
+      {
+        "lang": "es",
+        "value": "Trabajo de campo"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000001"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Scientific work conducted through direct observation, collection, measurement or intervention outside the principal laboratory or office."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000102",
+    "class": "ConceptTheme",
+    "preferred_label": "Scientific collecting",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific collecting"
+      },
+      {
+        "lang": "es",
+        "value": "Recolección científica"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000003",
+      "PNS-THM-000017"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Systematic acquisition of specimens, samples or other natural-history material for research and collections."
+      }
+    ],
+    "related_refs": [
+      "PNS-THM-000107",
+      "PNS-THM-000108"
+    ]
+  },
+  {
+    "id": "PNS-THM-000103",
+    "class": "ConceptTheme",
+    "preferred_label": "Field station",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Field station"
+      },
+      {
+        "lang": "es",
+        "value": "Estación de campo"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000002"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "A research practice and institutional form organized around sustained scientific work at a field site. Named stations remain entities."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000104",
+    "class": "ConceptTheme",
+    "preferred_label": "Research infrastructure",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Research infrastructure"
+      },
+      {
+        "lang": "es",
+        "value": "Infraestructura de investigación"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000002",
+      "PNS-THM-000010"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Material and technical systems that enable sustained research, observation, experimentation, storage or communication."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000105",
+    "class": "ConceptTheme",
+    "preferred_label": "Scientific labor",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific labor"
+      },
+      {
+        "lang": "es",
+        "value": "Trabajo científico"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000014"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Labor required to produce scientific knowledge, including field, laboratory, technical, clerical, maintenance and support work."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000106",
+    "class": "ConceptTheme",
+    "preferred_label": "Scientific correspondence",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific correspondence"
+      },
+      {
+        "lang": "es",
+        "value": "Correspondencia científica"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Correspondence used to produce, coordinate, circulate or interpret scientific knowledge."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000107",
+    "class": "ConceptTheme",
+    "preferred_label": "Specimen circulation",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Specimen circulation"
+      },
+      {
+        "lang": "es",
+        "value": "Circulación de especímenes"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000003",
+      "PNS-THM-000017"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Movement of specimens among collectors, institutions, collections and researchers."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000108",
+    "class": "ConceptTheme",
+    "preferred_label": "Specimen identification",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Specimen identification"
+      },
+      {
+        "lang": "es",
+        "value": "Identificación de especímenes"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000017"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Processes through which specimens are identified, determined, redetermined or reconciled with taxonomic knowledge."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000109",
+    "class": "ConceptTheme",
+    "preferred_label": "Institutional succession",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Institutional succession"
+      },
+      {
+        "lang": "es",
+        "value": "Sucesión institucional"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000002",
+      "PNS-THM-000012"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical transition among predecessor, successor, renamed or reorganized institutions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000110",
+    "class": "ConceptTheme",
+    "preferred_label": "Collection history",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Collection history"
+      },
+      {
+        "lang": "es",
+        "value": "Historia de colecciones"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000017",
+      "PNS-THM-000018"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Formation, movement, division, use and reinterpretation of documentary, material, biological or living collections."
+      }
+    ],
+    "related_refs": [
+      "PNS-THM-000111"
+    ]
+  },
+  {
+    "id": "PNS-THM-000111",
+    "class": "ConceptTheme",
+    "preferred_label": "Archival arrangement",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Archival arrangement"
+      },
+      {
+        "lang": "es",
+        "value": "Ordenación archivística"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000016"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Arrangement, interfiling, reclassification or reconstruction of archival records and the research consequences of those interventions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000112",
+    "class": "ConceptTheme",
+    "preferred_label": "Malaria control",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Malaria control"
+      },
+      {
+        "lang": "es",
+        "value": "Control de la malaria"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Programmes and practices intended to reduce malaria transmission, morbidity or mortality."
+      }
+    ],
+    "related_refs": [
+      "PNS-THM-000113"
+    ]
+  },
+  {
+    "id": "PNS-THM-000113",
+    "class": "ConceptTheme",
+    "preferred_label": "Vector control",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Vector control"
+      },
+      {
+        "lang": "es",
+        "value": "Control de vectores"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Interventions directed at organisms that transmit disease, including environmental and chemical methods."
+      }
+    ],
+    "related_refs": [
+      "PNS-THM-000115",
+      "PNS-THM-000116"
+    ]
+  },
+  {
+    "id": "PNS-THM-000114",
+    "class": "ConceptTheme",
+    "preferred_label": "Sanitation",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Sanitation"
+      },
+      {
+        "lang": "es",
+        "value": "Saneamiento"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Administrative, infrastructural and environmental practices intended to improve public health conditions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000115",
+    "class": "ConceptTheme",
+    "preferred_label": "Drainage",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Drainage"
+      },
+      {
+        "lang": "es",
+        "value": "Drenaje"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000010"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Modification or maintenance of water flow and standing water for health, infrastructure or environmental purposes."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000116",
+    "class": "ConceptTheme",
+    "preferred_label": "Larviciding",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Larviciding"
+      },
+      {
+        "lang": "es",
+        "value": "Aplicación de larvicidas"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Use of larvicidal substances to control mosquito or other vector larvae."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000117",
+    "class": "ConceptTheme",
+    "preferred_label": "Quinine distribution",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Quinine distribution"
+      },
+      {
+        "lang": "es",
+        "value": "Distribución de quinina"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Distribution or administration of quinine as prophylactic or therapeutic public-health practice."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000118",
+    "class": "ConceptTheme",
+    "preferred_label": "Epidemiological surveillance",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Epidemiological surveillance"
+      },
+      {
+        "lang": "es",
+        "value": "Vigilancia epidemiológica"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Systematic observation, recording and analysis of disease occurrence for public-health action."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000119",
+    "class": "ConceptTheme",
+    "preferred_label": "Health statistics",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Health statistics"
+      },
+      {
+        "lang": "es",
+        "value": "Estadísticas de salud"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production and use of quantitative measures concerning morbidity, mortality, admissions, populations and related health conditions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000120",
+    "class": "ConceptTheme",
+    "preferred_label": "Population classification",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Population classification"
+      },
+      {
+        "lang": "es",
+        "value": "Clasificación de poblaciones"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012",
+      "PNS-THM-000013"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Administrative or statistical categorization of populations for measurement, governance or institutional reporting."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000121",
+    "class": "ConceptTheme",
+    "preferred_label": "Environmental modification",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Environmental modification"
+      },
+      {
+        "lang": "es",
+        "value": "Modificación ambiental"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000006",
+      "PNS-THM-000010"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Deliberate or consequential alteration of landscapes, hydrology, vegetation or habitats through human intervention."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000122",
+    "class": "ConceptTheme",
+    "preferred_label": "Plant introduction",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Plant introduction"
+      },
+      {
+        "lang": "es",
+        "value": "Introducción de plantas"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004",
+      "PNS-THM-000006"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Movement and establishment of plant material outside a previous cultivation or geographic context, without assuming later naturalization."
+      }
+    ],
+    "related_refs": [
+      "PNS-THM-000124",
+      "PNS-THM-000128"
+    ]
+  },
+  {
+    "id": "PNS-THM-000123",
+    "class": "ConceptTheme",
+    "preferred_label": "Germplasm",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Germplasm"
+      },
+      {
+        "lang": "es",
+        "value": "Germoplasma"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000017"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Plant genetic resources maintained, exchanged or studied as accessions, lines, cultivars or related biological material."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000124",
+    "class": "ConceptTheme",
+    "preferred_label": "Biological transfer",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Biological transfer"
+      },
+      {
+        "lang": "es",
+        "value": "Transferencia biológica"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Documented movement of living biological material among institutions, sites, collections or programmes."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000125",
+    "class": "ConceptTheme",
+    "preferred_label": "Propagation",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Propagation"
+      },
+      {
+        "lang": "es",
+        "value": "Propagación"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000009"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production of new living plant material by seed, cutting, grafting or other reproductive techniques."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000126",
+    "class": "ConceptTheme",
+    "preferred_label": "Experimental cultivation",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Experimental cultivation"
+      },
+      {
+        "lang": "es",
+        "value": "Cultivo experimental"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Cultivation undertaken to test performance, adaptation, breeding, yield or other research questions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000127",
+    "class": "ConceptTheme",
+    "preferred_label": "Seed exchange",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Seed exchange"
+      },
+      {
+        "lang": "es",
+        "value": "Intercambio de semillas"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000017"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Exchange or circulation of seed material among institutions, programmes or individuals."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000128",
+    "class": "ConceptTheme",
+    "preferred_label": "Acclimatization",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Acclimatization"
+      },
+      {
+        "lang": "es",
+        "value": "Aclimatación"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000006"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical practice or interpretation concerning the adaptation of introduced organisms to new environmental conditions."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000129",
+    "class": "ConceptTheme",
+    "preferred_label": "Naturalization",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Naturalization"
+      },
+      {
+        "lang": "es",
+        "value": "Naturalización"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000006"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Establishment of introduced organisms in self-sustaining populations outside cultivation or deliberate maintenance."
+      }
+    ],
+    "related_refs": [
+      "PNS-THM-000130"
+    ]
+  },
+  {
+    "id": "PNS-THM-000130",
+    "class": "ConceptTheme",
+    "preferred_label": "Biological invasion",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Biological invasion"
+      },
+      {
+        "lang": "es",
+        "value": "Invasión biológica"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000006"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Expansion of introduced organisms with ecological, economic or management significance."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000131",
+    "class": "ConceptTheme",
+    "preferred_label": "Claim transmission",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Claim transmission"
+      },
+      {
+        "lang": "es",
+        "value": "Transmisión de afirmaciones"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000018"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Repetition, quotation, paraphrase, translation or transformation through which a historical or scientific claim travels across sources."
+      }
+    ],
+    "related_refs": [
+      "PNS-THM-000132"
+    ]
+  },
+  {
+    "id": "PNS-THM-000132",
+    "class": "ConceptTheme",
+    "preferred_label": "Historical identification",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Historical identification"
+      },
+      {
+        "lang": "es",
+        "value": "Identificación histórica"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000018"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Research process through which the identity of a historical person, place, object, institution or source is reconstructed."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000133",
+    "class": "ConceptTheme",
+    "preferred_label": "Measurement",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Measurement"
+      },
+      {
+        "lang": "es",
+        "value": "Medición"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000001"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production and recording of quantitative observations through defined instruments, units or procedures."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000134",
+    "class": "ConceptTheme",
+    "preferred_label": "Monitoring",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Monitoring"
+      },
+      {
+        "lang": "es",
+        "value": "Monitoreo"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000005"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Repeated observation or measurement intended to track conditions or change through time."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000135",
+    "class": "ConceptTheme",
+    "preferred_label": "Classification",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Classification"
+      },
+      {
+        "lang": "es",
+        "value": "Clasificación"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Practices through which entities, observations, people or evidence are organized into categories."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000136",
+    "class": "ConceptTheme",
+    "preferred_label": "Taxonomy",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Taxonomy"
+      },
+      {
+        "lang": "es",
+        "value": "Taxonomía"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000003"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Naming, describing and classifying biological taxa and revising their relationships."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000137",
+    "class": "ConceptTheme",
+    "preferred_label": "Maintenance",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Maintenance"
+      },
+      {
+        "lang": "es",
+        "value": "Mantenimiento"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000010",
+      "PNS-THM-000014"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Routine technical and material work required to keep scientific, medical or infrastructural systems functioning."
+      }
+    ]
+  },
+  {
+    "id": "PNS-THM-000138",
+    "class": "ConceptTheme",
+    "preferred_label": "Expertise",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Expertise"
+      },
+      {
+        "lang": "es",
+        "value": "Saber experto"
+      }
+    ],
+    "record_state": "published",
+    "visibility": "public",
+    "revision": 1,
+    "scheme": "panamensis_descriptors",
+    "broader_refs": [
+      "PNS-THM-000014",
+      "PNS-THM-000015"
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Situated technical or experiential competence recognized or used in knowledge production and practice."
+      }
+    ]
+  }
+]

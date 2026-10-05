@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "PNS-THM-000001",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "History of Science"
+      },
+      {
+        "lang": "es",
+        "value": "Historia de la ciencia"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical study of scientific knowledge production, practice, institutions, methods, actors and circulation connected with Panama."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-ACT-000003",
+      "PNS-AST-000001",
+      "PNS-AST-000002",
+      "PNS-AST-000003",
+      "PNS-AST-000004",
+      "PNS-AST-000005",
+      "PNS-COL-000001",
+      "PNS-COL-000002",
+      "PNS-COL-000003",
+      "PNS-CTR-000001",
+      "PNS-DOS-000001",
+      "PNS-DOS-000003",
+      "PNS-EVT-000001",
+      "PNS-EVT-000002",
+      "PNS-MAT-000001",
+      "PNS-ORG-000001",
+      "PNS-ORG-000002",
+      "PNS-ORG-000003",
+      "PNS-ORG-000005",
+      "PNS-ORG-000006",
+      "PNS-OUT-000001",
+      "PNS-PER-000001",
+      "PNS-PER-000002",
+      "PNS-PER-000003",
+      "PNS-PER-000004",
+      "PNS-PER-000005",
+      "PNS-PLA-000001",
+      "PNS-PLA-000005",
+      "PNS-SEG-000001",
+      "PNS-SEG-000003",
+      "PNS-SEG-000004",
+      "PNS-SEG-000005",
+      "PNS-SRC-000001",
+      "PNS-SRC-000002",
+      "PNS-SRC-000003",
+      "PNS-SRC-000004",
+      "PNS-SRC-000005",
+      "PNS-SRC-000008",
+      "PNS-SRC-000009",
+      "PNS-SRC-000011"
+    ],
+    "record_count": 41,
+    "class_counts": {
+      "ActivityProject": 2,
+      "Assertion": 5,
+      "Collection": 3,
+      "Contribution": 1,
+      "Event": 2,
+      "GroupOrganization": 5,
+      "MaterialEntity": 1,
+      "Output": 1,
+      "Person": 5,
+      "Place": 2,
+      "ResearchDossier": 2,
+      "Source": 8,
+      "SourceSegment": 4
+    }
+  },
+  {
+    "id": "PNS-THM-000002",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific Institutions, Field Stations and Research Networks"
+      },
+      {
+        "lang": "es",
+        "value": "Instituciones científicas, estaciones de campo y redes de investigación"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Institutions, stations, laboratories, programmes and networks through which scientific work in Panama was organized and sustained."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-ACT-000003",
+      "PNS-AST-000001",
+      "PNS-AST-000002",
+      "PNS-AST-000004",
+      "PNS-AST-000005",
+      "PNS-DOS-000001",
+      "PNS-DOS-000003",
+      "PNS-EVT-000001",
+      "PNS-EVT-000002",
+      "PNS-MAT-000001",
+      "PNS-ORG-000001",
+      "PNS-ORG-000002",
+      "PNS-ORG-000003",
+      "PNS-ORG-000005",
+      "PNS-ORG-000006",
+      "PNS-PER-000002",
+      "PNS-PLA-000001",
+      "PNS-PLA-000005",
+      "PNS-SEG-000001"
+    ],
+    "record_count": 20,
+    "class_counts": {
+      "ActivityProject": 2,
+      "Assertion": 4,
+      "Event": 2,
+      "GroupOrganization": 5,
+      "MaterialEntity": 1,
+      "Person": 1,
+      "Place": 2,
+      "ResearchDossier": 2,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000003",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Natural History"
+      },
+      {
+        "lang": "es",
+        "value": "Historia natural"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Observation, description, collection and classification of plants, animals, fungi and other natural phenomena in historical scientific practice."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-BIO-000001",
+      "PNS-BIO-000002",
+      "PNS-COL-000003",
+      "PNS-DOS-000001",
+      "PNS-PER-000002",
+      "PNS-PER-000003",
+      "PNS-PLA-000001"
+    ],
+    "record_count": 8,
+    "class_counts": {
+      "ActivityProject": 1,
+      "BiologicalEntity": 2,
+      "Collection": 1,
+      "Person": 2,
+      "Place": 1,
+      "ResearchDossier": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000004",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Biodiversity and Biological Knowledge"
+      },
+      {
+        "lang": "es",
+        "value": "Biodiversidad y conocimiento biológico"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Knowledge of biological diversity in Panama, including taxonomy, distribution, systematics, specimen evidence and changing classifications."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000004",
+      "PNS-AST-000010",
+      "PNS-AST-000011",
+      "PNS-BIO-000001",
+      "PNS-BIO-000002",
+      "PNS-BIO-000003",
+      "PNS-BIO-000004",
+      "PNS-BIO-000005",
+      "PNS-CLM-000007",
+      "PNS-COL-000004",
+      "PNS-COL-000005",
+      "PNS-DOS-000003",
+      "PNS-EVT-000003",
+      "PNS-RAC-000003",
+      "PNS-SEG-000011",
+      "PNS-SRC-000010"
+    ],
+    "record_count": 16,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 2,
+      "BiologicalEntity": 5,
+      "ClaimExpression": 1,
+      "Collection": 2,
+      "Event": 1,
+      "ResearchAction": 1,
+      "ResearchDossier": 1,
+      "Source": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000005",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Ecology and Ecosystems"
+      },
+      {
+        "lang": "es",
+        "value": "Ecología y ecosistemas"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Research on ecological relationships, populations, communities, habitats, ecosystem processes and organism-environment interactions."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000011",
+      "PNS-BIO-000003",
+      "PNS-BIO-000005",
+      "PNS-SRC-000010"
+    ],
+    "record_count": 4,
+    "class_counts": {
+      "Assertion": 1,
+      "BiologicalEntity": 2,
+      "Source": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000006",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Environmental History"
+      },
+      {
+        "lang": "es",
+        "value": "Historia ambiental"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical relationships among environments, human action, scientific knowledge, infrastructure and changing landscapes in Panama."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-AST-000009",
+      "PNS-AST-000011",
+      "PNS-BIO-000003",
+      "PNS-BIO-000005",
+      "PNS-DOS-000002",
+      "PNS-DOS-000003",
+      "PNS-PLA-000002",
+      "PNS-PLA-000003",
+      "PNS-PLA-000004",
+      "PNS-SEG-000007",
+      "PNS-SEG-000011",
+      "PNS-SRC-000006",
+      "PNS-SRC-000010"
+    ],
+    "record_count": 14,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 2,
+      "BiologicalEntity": 2,
+      "Place": 3,
+      "ResearchDossier": 2,
+      "Source": 2,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000007",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Geography, Cartography and Spatial Knowledge"
+      },
+      {
+        "lang": "es",
+        "value": "Geografía, cartografía y conocimiento espacial"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production and use of spatial knowledge about Panama, including mapping, surveying, boundaries, localities and georeferencing."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [],
+    "record_count": 0,
+    "class_counts": {}
+  },
+  {
+    "id": "PNS-THM-000008",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Public Health, Medicine and Epidemiology"
+      },
+      {
+        "lang": "es",
+        "value": "Salud pública, medicina y epidemiología"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Medical, epidemiological and public-health knowledge and intervention in Panama, including disease surveillance, sanitation and health institutions."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-AST-000007",
+      "PNS-AST-000008",
+      "PNS-AST-000009",
+      "PNS-CLM-000006",
+      "PNS-DOS-000002",
+      "PNS-ORG-000004",
+      "PNS-PER-000004",
+      "PNS-PLA-000002",
+      "PNS-PLA-000003",
+      "PNS-PLA-000004",
+      "PNS-RAC-000002",
+      "PNS-SEG-000006",
+      "PNS-SEG-000007",
+      "PNS-SEG-000008",
+      "PNS-SRC-000006",
+      "PNS-SRC-000007"
+    ],
+    "record_count": 17,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 3,
+      "ClaimExpression": 1,
+      "GroupOrganization": 1,
+      "Person": 1,
+      "Place": 3,
+      "ResearchAction": 1,
+      "ResearchDossier": 1,
+      "Source": 2,
+      "SourceSegment": 3
+    }
+  },
+  {
+    "id": "PNS-THM-000009",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Agriculture, Plant Introduction and Agronomy"
+      },
+      {
+        "lang": "es",
+        "value": "Agricultura, introducción de plantas y agronomía"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Scientific and institutional work concerning crops, experimental cultivation, plant introduction, breeding and agricultural knowledge."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000003",
+      "PNS-ACT-000004",
+      "PNS-AST-000010",
+      "PNS-AST-000012",
+      "PNS-AST-000013",
+      "PNS-BIO-000003",
+      "PNS-BIO-000004",
+      "PNS-COL-000004",
+      "PNS-COL-000005",
+      "PNS-DOS-000003",
+      "PNS-EVT-000003",
+      "PNS-EVT-000004",
+      "PNS-ORG-000005",
+      "PNS-ORG-000006",
+      "PNS-PER-000005",
+      "PNS-PLA-000005",
+      "PNS-RAC-000003",
+      "PNS-SEG-000009",
+      "PNS-SEG-000010",
+      "PNS-SRC-000008",
+      "PNS-SRC-000009"
+    ],
+    "record_count": 21,
+    "class_counts": {
+      "ActivityProject": 2,
+      "Assertion": 3,
+      "BiologicalEntity": 2,
+      "Collection": 2,
+      "Event": 2,
+      "GroupOrganization": 2,
+      "Person": 1,
+      "Place": 1,
+      "ResearchAction": 1,
+      "ResearchDossier": 1,
+      "Source": 2,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000010",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Engineering, Technology and Technical Systems"
+      },
+      {
+        "lang": "es",
+        "value": "Ingeniería, tecnología y sistemas técnicos"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Engineering knowledge, technical systems and technologies that shaped scientific, environmental and institutional work in Panama."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-DOS-000002",
+      "PNS-ORG-000004"
+    ],
+    "record_count": 3,
+    "class_counts": {
+      "ActivityProject": 1,
+      "GroupOrganization": 1,
+      "ResearchDossier": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000011",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Transport, Transit, Infrastructure and Communications"
+      },
+      {
+        "lang": "es",
+        "value": "Transporte, tránsito, infraestructura y comunicaciones"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Systems of movement and connectivity that structured scientific access, institutional development and environmental change."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [],
+    "record_count": 0,
+    "class_counts": {}
+  },
+  {
+    "id": "PNS-THM-000012",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Government, Administration and Public Policy"
+      },
+      {
+        "lang": "es",
+        "value": "Gobierno, administración y políticas públicas"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Governmental structures, administrative systems and policies that shaped science, health, environment and knowledge in Panama."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-AST-000004",
+      "PNS-AST-000005",
+      "PNS-DOS-000002",
+      "PNS-EVT-000002",
+      "PNS-ORG-000004",
+      "PNS-PER-000004",
+      "PNS-PLA-000002",
+      "PNS-SRC-000006",
+      "PNS-SRC-000007"
+    ],
+    "record_count": 10,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 2,
+      "Event": 1,
+      "GroupOrganization": 1,
+      "Person": 1,
+      "Place": 1,
+      "ResearchDossier": 1,
+      "Source": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000013",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Sovereignty, Empire and Territoriality"
+      },
+      {
+        "lang": "es",
+        "value": "Soberanía, imperio y territorialidad"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Political and territorial frameworks within which scientific and environmental work occurred, including imperial, colonial and Canal Zone contexts."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [],
+    "record_count": 0,
+    "class_counts": {}
+  },
+  {
+    "id": "PNS-THM-000014",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Labor, Expertise and Working Life"
+      },
+      {
+        "lang": "es",
+        "value": "Trabajo, saber experto y vida laboral"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Forms of labor, expertise, employment and technical work through which science, health, infrastructure and collecting were made possible."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-DOS-000002"
+    ],
+    "record_count": 1,
+    "class_counts": {
+      "ResearchDossier": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000015",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Knowledge Systems, Local Expertise and Intercultural Exchange"
+      },
+      {
+        "lang": "es",
+        "value": "Sistemas de conocimiento, saberes locales e intercambio intercultural"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Knowledge practices and expertise outside or alongside formal institutions, including local, Indigenous, Afro-Panamanian, occupational and community knowledge when historically documented."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [],
+    "record_count": 0,
+    "class_counts": {}
+  },
+  {
+    "id": "PNS-THM-000016",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Archives, Documentary Heritage and Recordkeeping"
+      },
+      {
+        "lang": "es",
+        "value": "Archivos, patrimonio documental y gestión documental"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Creation, preservation, arrangement, loss, recovery and interpretation of documentary records relevant to Panamensis research."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000006",
+      "PNS-COL-000001",
+      "PNS-COL-000002",
+      "PNS-COL-000003",
+      "PNS-CTR-000001",
+      "PNS-DOS-000001",
+      "PNS-OUT-000001",
+      "PNS-PER-000001",
+      "PNS-RAC-000001",
+      "PNS-RPO-000001",
+      "PNS-RPO-000002",
+      "PNS-SEG-000002",
+      "PNS-SRC-000001",
+      "PNS-SRC-000002",
+      "PNS-SRC-000003",
+      "PNS-SRC-000005",
+      "PNS-SRC-000011"
+    ],
+    "record_count": 17,
+    "class_counts": {
+      "Assertion": 1,
+      "Collection": 3,
+      "Contribution": 1,
+      "Output": 1,
+      "Person": 1,
+      "Repository": 2,
+      "ResearchAction": 1,
+      "ResearchDossier": 1,
+      "Source": 5,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000017",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Libraries, Museums, Herbaria and Scientific Collections"
+      },
+      {
+        "lang": "es",
+        "value": "Bibliotecas, museos, herbarios y colecciones científicas"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Institutions and collections that preserve, organize and mediate documentary, biological and material evidence."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-COL-000001",
+      "PNS-COL-000002",
+      "PNS-COL-000003",
+      "PNS-COL-000004",
+      "PNS-COL-000005",
+      "PNS-DOS-000001",
+      "PNS-DOS-000003",
+      "PNS-ORG-000003",
+      "PNS-ORG-000005",
+      "PNS-RPO-000001",
+      "PNS-SEG-000002",
+      "PNS-SRC-000001",
+      "PNS-SRC-000002",
+      "PNS-SRC-000003"
+    ],
+    "record_count": 14,
+    "class_counts": {
+      "Collection": 5,
+      "GroupOrganization": 2,
+      "Repository": 1,
+      "ResearchDossier": 2,
+      "Source": 3,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000018",
+    "scheme": "panamensis_subjects",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Historiography, History of Knowledge and Scientific Memory"
+      },
+      {
+        "lang": "es",
+        "value": "Historiografía, historia del conocimiento y memoria científica"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production, repetition, criticism and transformation of historical and scientific narratives about Panama."
+      }
+    ],
+    "broader_refs": [],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000003",
+      "PNS-AST-000004",
+      "PNS-AST-000005",
+      "PNS-AST-000006",
+      "PNS-CLM-000001",
+      "PNS-CLM-000002",
+      "PNS-CLM-000003",
+      "PNS-CLM-000004",
+      "PNS-CLM-000005",
+      "PNS-CLM-000007",
+      "PNS-CLM-000008",
+      "PNS-CLM-000009",
+      "PNS-CTR-000001",
+      "PNS-LIN-000001",
+      "PNS-OUT-000001",
+      "PNS-PER-000001",
+      "PNS-RAC-000001",
+      "PNS-RAC-000003",
+      "PNS-SEG-000003",
+      "PNS-SEG-000004",
+      "PNS-SEG-000011",
+      "PNS-SRC-000004",
+      "PNS-SRC-000010",
+      "PNS-SRC-000011"
+    ],
+    "record_count": 24,
+    "class_counts": {
+      "Assertion": 4,
+      "AssertionLineage": 1,
+      "ClaimExpression": 8,
+      "Contribution": 1,
+      "Output": 1,
+      "Person": 1,
+      "ResearchAction": 2,
+      "Source": 3,
+      "SourceSegment": 3
+    }
+  },
+  {
+    "id": "PNS-THM-000101",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Fieldwork"
+      },
+      {
+        "lang": "es",
+        "value": "Trabajo de campo"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Scientific work conducted through direct observation, collection, measurement or intervention outside the principal laboratory or office."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000001"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-PER-000003",
+      "PNS-PLA-000001"
+    ],
+    "record_count": 3,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Person": 1,
+      "Place": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000102",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific collecting"
+      },
+      {
+        "lang": "es",
+        "value": "Recolección científica"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Systematic acquisition of specimens, samples or other natural-history material for research and collections."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000003",
+      "PNS-THM-000017"
+    ],
+    "narrower_refs": [],
+    "related_refs": [
+      "PNS-THM-000107",
+      "PNS-THM-000108"
+    ],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-BIO-000002",
+      "PNS-COL-000003",
+      "PNS-DOS-000001",
+      "PNS-PER-000002",
+      "PNS-PER-000003"
+    ],
+    "record_count": 6,
+    "class_counts": {
+      "ActivityProject": 1,
+      "BiologicalEntity": 1,
+      "Collection": 1,
+      "Person": 2,
+      "ResearchDossier": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000103",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Field station"
+      },
+      {
+        "lang": "es",
+        "value": "Estación de campo"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "A research practice and institutional form organized around sustained scientific work at a field site. Named stations remain entities."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000002"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-DOS-000001",
+      "PNS-EVT-000001",
+      "PNS-MAT-000001",
+      "PNS-ORG-000001",
+      "PNS-ORG-000002",
+      "PNS-PLA-000001"
+    ],
+    "record_count": 7,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Event": 1,
+      "GroupOrganization": 2,
+      "MaterialEntity": 1,
+      "Place": 1,
+      "ResearchDossier": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000104",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Research infrastructure"
+      },
+      {
+        "lang": "es",
+        "value": "Infraestructura de investigación"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Material and technical systems that enable sustained research, observation, experimentation, storage or communication."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000002",
+      "PNS-THM-000010"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-EVT-000001",
+      "PNS-MAT-000001",
+      "PNS-ORG-000001",
+      "PNS-ORG-000002",
+      "PNS-ORG-000005",
+      "PNS-SEG-000005",
+      "PNS-SRC-000005"
+    ],
+    "record_count": 8,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Event": 1,
+      "GroupOrganization": 3,
+      "MaterialEntity": 1,
+      "Source": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000105",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific labor"
+      },
+      {
+        "lang": "es",
+        "value": "Trabajo científico"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Labor required to produce scientific knowledge, including field, laboratory, technical, clerical, maintenance and support work."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000014"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000001",
+      "PNS-ACT-000002",
+      "PNS-AST-000001",
+      "PNS-AST-000002",
+      "PNS-PER-000002"
+    ],
+    "record_count": 5,
+    "class_counts": {
+      "ActivityProject": 2,
+      "Assertion": 2,
+      "Person": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000106",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Scientific correspondence"
+      },
+      {
+        "lang": "es",
+        "value": "Correspondencia científica"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Correspondence used to produce, coordinate, circulate or interpret scientific knowledge."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-COL-000003"
+    ],
+    "record_count": 1,
+    "class_counts": {
+      "Collection": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000107",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Specimen circulation"
+      },
+      {
+        "lang": "es",
+        "value": "Circulación de especímenes"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Movement of specimens among collectors, institutions, collections and researchers."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000003",
+      "PNS-THM-000017"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-BIO-000002"
+    ],
+    "record_count": 1,
+    "class_counts": {
+      "BiologicalEntity": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000108",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Specimen identification"
+      },
+      {
+        "lang": "es",
+        "value": "Identificación de especímenes"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Processes through which specimens are identified, determined, redetermined or reconciled with taxonomic knowledge."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000017"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-BIO-000001",
+      "PNS-BIO-000002"
+    ],
+    "record_count": 2,
+    "class_counts": {
+      "BiologicalEntity": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000109",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Institutional succession"
+      },
+      {
+        "lang": "es",
+        "value": "Sucesión institucional"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical transition among predecessor, successor, renamed or reorganized institutions."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000002",
+      "PNS-THM-000012"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000002",
+      "PNS-COL-000002",
+      "PNS-DOS-000001",
+      "PNS-EVT-000002",
+      "PNS-ORG-000002",
+      "PNS-ORG-000003",
+      "PNS-SEG-000001"
+    ],
+    "record_count": 7,
+    "class_counts": {
+      "Assertion": 1,
+      "Collection": 1,
+      "Event": 1,
+      "GroupOrganization": 2,
+      "ResearchDossier": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000110",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Collection history"
+      },
+      {
+        "lang": "es",
+        "value": "Historia de colecciones"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Formation, movement, division, use and reinterpretation of documentary, material, biological or living collections."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000017",
+      "PNS-THM-000018"
+    ],
+    "narrower_refs": [],
+    "related_refs": [
+      "PNS-THM-000111"
+    ],
+    "record_refs": [
+      "PNS-COL-000001",
+      "PNS-COL-000002",
+      "PNS-COL-000003",
+      "PNS-COL-000004",
+      "PNS-COL-000005",
+      "PNS-DOS-000001",
+      "PNS-SEG-000002",
+      "PNS-SRC-000001",
+      "PNS-SRC-000002",
+      "PNS-SRC-000003"
+    ],
+    "record_count": 10,
+    "class_counts": {
+      "Collection": 5,
+      "ResearchDossier": 1,
+      "Source": 3,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000111",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Archival arrangement"
+      },
+      {
+        "lang": "es",
+        "value": "Ordenación archivística"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Arrangement, interfiling, reclassification or reconstruction of archival records and the research consequences of those interventions."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000016"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-COL-000002",
+      "PNS-SEG-000002"
+    ],
+    "record_count": 2,
+    "class_counts": {
+      "Collection": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000112",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Malaria control"
+      },
+      {
+        "lang": "es",
+        "value": "Control de la malaria"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Programmes and practices intended to reduce malaria transmission, morbidity or mortality."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "narrower_refs": [],
+    "related_refs": [
+      "PNS-THM-000113"
+    ],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-AST-000007",
+      "PNS-AST-000008",
+      "PNS-DOS-000002",
+      "PNS-ORG-000004",
+      "PNS-PER-000004",
+      "PNS-PLA-000002",
+      "PNS-PLA-000003",
+      "PNS-PLA-000004",
+      "PNS-SEG-000006",
+      "PNS-SRC-000006"
+    ],
+    "record_count": 11,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 2,
+      "GroupOrganization": 1,
+      "Person": 1,
+      "Place": 3,
+      "ResearchDossier": 1,
+      "Source": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000113",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Vector control"
+      },
+      {
+        "lang": "es",
+        "value": "Control de vectores"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Interventions directed at organisms that transmit disease, including environmental and chemical methods."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006"
+    ],
+    "narrower_refs": [],
+    "related_refs": [
+      "PNS-THM-000115",
+      "PNS-THM-000116"
+    ],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-DOS-000002"
+    ],
+    "record_count": 2,
+    "class_counts": {
+      "ActivityProject": 1,
+      "ResearchDossier": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000114",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Sanitation"
+      },
+      {
+        "lang": "es",
+        "value": "Saneamiento"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Administrative, infrastructural and environmental practices intended to improve public health conditions."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-AST-000009",
+      "PNS-DOS-000002",
+      "PNS-ORG-000004",
+      "PNS-PER-000004",
+      "PNS-PLA-000002",
+      "PNS-PLA-000003",
+      "PNS-PLA-000004",
+      "PNS-SEG-000007",
+      "PNS-SRC-000006"
+    ],
+    "record_count": 10,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 1,
+      "GroupOrganization": 1,
+      "Person": 1,
+      "Place": 3,
+      "ResearchDossier": 1,
+      "Source": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000115",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Drainage"
+      },
+      {
+        "lang": "es",
+        "value": "Drenaje"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Modification or maintenance of water flow and standing water for health, infrastructure or environmental purposes."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000006",
+      "PNS-THM-000010"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-AST-000009",
+      "PNS-SEG-000007"
+    ],
+    "record_count": 3,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000116",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Larviciding"
+      },
+      {
+        "lang": "es",
+        "value": "Aplicación de larvicidas"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Use of larvicidal substances to control mosquito or other vector larvae."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-SEG-000007"
+    ],
+    "record_count": 2,
+    "class_counts": {
+      "ActivityProject": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000117",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Quinine distribution"
+      },
+      {
+        "lang": "es",
+        "value": "Distribución de quinina"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Distribution or administration of quinine as prophylactic or therapeutic public-health practice."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002"
+    ],
+    "record_count": 1,
+    "class_counts": {
+      "ActivityProject": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000118",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Epidemiological surveillance"
+      },
+      {
+        "lang": "es",
+        "value": "Vigilancia epidemiológica"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Systematic observation, recording and analysis of disease occurrence for public-health action."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ORG-000004",
+      "PNS-SRC-000007"
+    ],
+    "record_count": 2,
+    "class_counts": {
+      "GroupOrganization": 1,
+      "Source": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000119",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Health statistics"
+      },
+      {
+        "lang": "es",
+        "value": "Estadísticas de salud"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production and use of quantitative measures concerning morbidity, mortality, admissions, populations and related health conditions."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000007",
+      "PNS-AST-000008",
+      "PNS-CLM-000006",
+      "PNS-DOS-000002",
+      "PNS-RAC-000002",
+      "PNS-SEG-000006",
+      "PNS-SEG-000008",
+      "PNS-SRC-000006",
+      "PNS-SRC-000007"
+    ],
+    "record_count": 9,
+    "class_counts": {
+      "Assertion": 2,
+      "ClaimExpression": 1,
+      "ResearchAction": 1,
+      "ResearchDossier": 1,
+      "Source": 2,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000120",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Population classification"
+      },
+      {
+        "lang": "es",
+        "value": "Clasificación de poblaciones"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Administrative or statistical categorization of populations for measurement, governance or institutional reporting."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000008",
+      "PNS-THM-000012",
+      "PNS-THM-000013"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000007",
+      "PNS-AST-000008",
+      "PNS-SEG-000006",
+      "PNS-SEG-000008",
+      "PNS-SRC-000006",
+      "PNS-SRC-000007"
+    ],
+    "record_count": 6,
+    "class_counts": {
+      "Assertion": 2,
+      "Source": 2,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000121",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Environmental modification"
+      },
+      {
+        "lang": "es",
+        "value": "Modificación ambiental"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Deliberate or consequential alteration of landscapes, hydrology, vegetation or habitats through human intervention."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000006",
+      "PNS-THM-000010"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000002",
+      "PNS-AST-000009",
+      "PNS-DOS-000002",
+      "PNS-PLA-000002",
+      "PNS-PLA-000003",
+      "PNS-PLA-000004",
+      "PNS-SEG-000007"
+    ],
+    "record_count": 7,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 1,
+      "Place": 3,
+      "ResearchDossier": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000122",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Plant introduction"
+      },
+      {
+        "lang": "es",
+        "value": "Introducción de plantas"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Movement and establishment of plant material outside a previous cultivation or geographic context, without assuming later naturalization."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004",
+      "PNS-THM-000006"
+    ],
+    "narrower_refs": [],
+    "related_refs": [
+      "PNS-THM-000124",
+      "PNS-THM-000128"
+    ],
+    "record_refs": [
+      "PNS-ACT-000003",
+      "PNS-AST-000012",
+      "PNS-AST-000013",
+      "PNS-COL-000004",
+      "PNS-DOS-000003",
+      "PNS-EVT-000004",
+      "PNS-ORG-000005",
+      "PNS-PER-000005",
+      "PNS-PLA-000005",
+      "PNS-SEG-000009",
+      "PNS-SEG-000010",
+      "PNS-SRC-000008",
+      "PNS-SRC-000009"
+    ],
+    "record_count": 13,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 2,
+      "Collection": 1,
+      "Event": 1,
+      "GroupOrganization": 1,
+      "Person": 1,
+      "Place": 1,
+      "ResearchDossier": 1,
+      "Source": 2,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000123",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Germplasm"
+      },
+      {
+        "lang": "es",
+        "value": "Germoplasma"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Plant genetic resources maintained, exchanged or studied as accessions, lines, cultivars or related biological material."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000017"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000004",
+      "PNS-AST-000010",
+      "PNS-BIO-000004",
+      "PNS-COL-000005",
+      "PNS-DOS-000003",
+      "PNS-EVT-000003",
+      "PNS-ORG-000006"
+    ],
+    "record_count": 7,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 1,
+      "BiologicalEntity": 1,
+      "Collection": 1,
+      "Event": 1,
+      "GroupOrganization": 1,
+      "ResearchDossier": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000124",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Biological transfer"
+      },
+      {
+        "lang": "es",
+        "value": "Transferencia biológica"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Documented movement of living biological material among institutions, sites, collections or programmes."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000004"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000004",
+      "PNS-AST-000010",
+      "PNS-AST-000013",
+      "PNS-BIO-000004",
+      "PNS-COL-000005",
+      "PNS-DOS-000003",
+      "PNS-EVT-000003",
+      "PNS-EVT-000004",
+      "PNS-ORG-000006",
+      "PNS-RAC-000003",
+      "PNS-SEG-000009",
+      "PNS-SEG-000010",
+      "PNS-SRC-000009"
+    ],
+    "record_count": 13,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Assertion": 2,
+      "BiologicalEntity": 1,
+      "Collection": 1,
+      "Event": 2,
+      "GroupOrganization": 1,
+      "ResearchAction": 1,
+      "ResearchDossier": 1,
+      "Source": 1,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000125",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Propagation"
+      },
+      {
+        "lang": "es",
+        "value": "Propagación"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production of new living plant material by seed, cutting, grafting or other reproductive techniques."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000009"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000003",
+      "PNS-ACT-000004",
+      "PNS-AST-000013",
+      "PNS-BIO-000004",
+      "PNS-COL-000004",
+      "PNS-EVT-000004",
+      "PNS-SRC-000008"
+    ],
+    "record_count": 7,
+    "class_counts": {
+      "ActivityProject": 2,
+      "Assertion": 1,
+      "BiologicalEntity": 1,
+      "Collection": 1,
+      "Event": 1,
+      "Source": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000126",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Experimental cultivation"
+      },
+      {
+        "lang": "es",
+        "value": "Cultivo experimental"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Cultivation undertaken to test performance, adaptation, breeding, yield or other research questions."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000001"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000003",
+      "PNS-ACT-000004",
+      "PNS-COL-000004",
+      "PNS-DOS-000003",
+      "PNS-ORG-000005",
+      "PNS-PLA-000005",
+      "PNS-SEG-000009",
+      "PNS-SEG-000010",
+      "PNS-SRC-000008",
+      "PNS-SRC-000009"
+    ],
+    "record_count": 10,
+    "class_counts": {
+      "ActivityProject": 2,
+      "Collection": 1,
+      "GroupOrganization": 1,
+      "Place": 1,
+      "ResearchDossier": 1,
+      "Source": 2,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000127",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Seed exchange"
+      },
+      {
+        "lang": "es",
+        "value": "Intercambio de semillas"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Exchange or circulation of seed material among institutions, programmes or individuals."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000017"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000003",
+      "PNS-SRC-000008"
+    ],
+    "record_count": 2,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Source": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000128",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Acclimatization"
+      },
+      {
+        "lang": "es",
+        "value": "Aclimatación"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Historical practice or interpretation concerning the adaptation of introduced organisms to new environmental conditions."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000009",
+      "PNS-THM-000006"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-ACT-000003",
+      "PNS-SEG-000010",
+      "PNS-SRC-000009"
+    ],
+    "record_count": 3,
+    "class_counts": {
+      "ActivityProject": 1,
+      "Source": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000129",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Naturalization"
+      },
+      {
+        "lang": "es",
+        "value": "Naturalización"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Establishment of introduced organisms in self-sustaining populations outside cultivation or deliberate maintenance."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000006"
+    ],
+    "narrower_refs": [],
+    "related_refs": [
+      "PNS-THM-000130"
+    ],
+    "record_refs": [
+      "PNS-BIO-000003",
+      "PNS-BIO-000005"
+    ],
+    "record_count": 2,
+    "class_counts": {
+      "BiologicalEntity": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000130",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Biological invasion"
+      },
+      {
+        "lang": "es",
+        "value": "Invasión biológica"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Expansion of introduced organisms with ecological, economic or management significance."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000006"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000011",
+      "PNS-BIO-000003",
+      "PNS-BIO-000005",
+      "PNS-CLM-000007",
+      "PNS-DOS-000003",
+      "PNS-SEG-000011",
+      "PNS-SRC-000010"
+    ],
+    "record_count": 7,
+    "class_counts": {
+      "Assertion": 1,
+      "BiologicalEntity": 2,
+      "ClaimExpression": 1,
+      "ResearchDossier": 1,
+      "Source": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000131",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Claim transmission"
+      },
+      {
+        "lang": "es",
+        "value": "Transmisión de afirmaciones"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Repetition, quotation, paraphrase, translation or transformation through which a historical or scientific claim travels across sources."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000018"
+    ],
+    "narrower_refs": [],
+    "related_refs": [
+      "PNS-THM-000132"
+    ],
+    "record_refs": [
+      "PNS-AST-000003",
+      "PNS-AST-000004",
+      "PNS-AST-000005",
+      "PNS-CLM-000001",
+      "PNS-CLM-000002",
+      "PNS-CLM-000003",
+      "PNS-CLM-000004",
+      "PNS-CLM-000005",
+      "PNS-CLM-000007",
+      "PNS-CLM-000008",
+      "PNS-CLM-000009",
+      "PNS-LIN-000001",
+      "PNS-SEG-000004",
+      "PNS-SRC-000004"
+    ],
+    "record_count": 14,
+    "class_counts": {
+      "Assertion": 3,
+      "AssertionLineage": 1,
+      "ClaimExpression": 8,
+      "Source": 1,
+      "SourceSegment": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000132",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Historical identification"
+      },
+      {
+        "lang": "es",
+        "value": "Identificación histórica"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Research process through which the identity of a historical person, place, object, institution or source is reconstructed."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000018"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000001",
+      "PNS-AST-000006",
+      "PNS-AST-000011",
+      "PNS-RAC-000001",
+      "PNS-RAC-000003",
+      "PNS-SEG-000003",
+      "PNS-SEG-000005",
+      "PNS-SEG-000011",
+      "PNS-SRC-000010"
+    ],
+    "record_count": 9,
+    "class_counts": {
+      "Assertion": 3,
+      "ResearchAction": 2,
+      "Source": 1,
+      "SourceSegment": 3
+    }
+  },
+  {
+    "id": "PNS-THM-000133",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Measurement"
+      },
+      {
+        "lang": "es",
+        "value": "Medición"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Production and recording of quantitative observations through defined instruments, units or procedures."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000001"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-AST-000007",
+      "PNS-AST-000008",
+      "PNS-AST-000012",
+      "PNS-CLM-000006",
+      "PNS-RAC-000002",
+      "PNS-SEG-000006",
+      "PNS-SEG-000008",
+      "PNS-SRC-000006",
+      "PNS-SRC-000007"
+    ],
+    "record_count": 9,
+    "class_counts": {
+      "Assertion": 3,
+      "ClaimExpression": 1,
+      "ResearchAction": 1,
+      "Source": 2,
+      "SourceSegment": 2
+    }
+  },
+  {
+    "id": "PNS-THM-000134",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Monitoring"
+      },
+      {
+        "lang": "es",
+        "value": "Monitoreo"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Repeated observation or measurement intended to track conditions or change through time."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000005"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-RAC-000002"
+    ],
+    "record_count": 1,
+    "class_counts": {
+      "ResearchAction": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000135",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Classification"
+      },
+      {
+        "lang": "es",
+        "value": "Clasificación"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Practices through which entities, observations, people or evidence are organized into categories."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000001",
+      "PNS-THM-000018"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [],
+    "record_count": 0,
+    "class_counts": {}
+  },
+  {
+    "id": "PNS-THM-000136",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Taxonomy"
+      },
+      {
+        "lang": "es",
+        "value": "Taxonomía"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Naming, describing and classifying biological taxa and revising their relationships."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000004",
+      "PNS-THM-000003"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-BIO-000001",
+      "PNS-BIO-000002",
+      "PNS-BIO-000003",
+      "PNS-BIO-000004",
+      "PNS-BIO-000005",
+      "PNS-SRC-000010"
+    ],
+    "record_count": 6,
+    "class_counts": {
+      "BiologicalEntity": 5,
+      "Source": 1
+    }
+  },
+  {
+    "id": "PNS-THM-000137",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Maintenance"
+      },
+      {
+        "lang": "es",
+        "value": "Mantenimiento"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Routine technical and material work required to keep scientific, medical or infrastructural systems functioning."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000010",
+      "PNS-THM-000014"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [],
+    "record_count": 0,
+    "class_counts": {}
+  },
+  {
+    "id": "PNS-THM-000138",
+    "scheme": "panamensis_descriptors",
+    "labels": [
+      {
+        "lang": "en",
+        "value": "Expertise"
+      },
+      {
+        "lang": "es",
+        "value": "Saber experto"
+      }
+    ],
+    "scope_notes": [
+      {
+        "lang": "en",
+        "value": "Situated technical or experiential competence recognized or used in knowledge production and practice."
+      }
+    ],
+    "broader_refs": [
+      "PNS-THM-000014",
+      "PNS-THM-000015"
+    ],
+    "narrower_refs": [],
+    "related_refs": [],
+    "record_refs": [
+      "PNS-PER-000002",
+      "PNS-PER-000004",
+      "PNS-PER-000005"
+    ],
+    "record_count": 3,
+    "class_counts": {
+      "Person": 3
+    }
+  }
+]

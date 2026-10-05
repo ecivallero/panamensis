@@ -1,0 +1,4097 @@
+[
+  {
+    "from": "PNS-ACT-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000103"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000101"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000102"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-ACT-000001",
+    "path": "theme_refs[7]",
+    "to": "PNS-THM-000105"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000010"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000113"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[7]",
+    "to": "PNS-THM-000115"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[8]",
+    "to": "PNS-THM-000116"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[9]",
+    "to": "PNS-THM-000117"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[10]",
+    "to": "PNS-THM-000121"
+  },
+  {
+    "from": "PNS-ACT-000002",
+    "path": "theme_refs[11]",
+    "to": "PNS-THM-000105"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000125"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000127"
+  },
+  {
+    "from": "PNS-ACT-000003",
+    "path": "theme_refs[7]",
+    "to": "PNS-THM-000128"
+  },
+  {
+    "from": "PNS-ACT-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-ACT-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-ACT-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-ACT-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000123"
+  },
+  {
+    "from": "PNS-ACT-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-ACT-000004",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000125"
+  },
+  {
+    "from": "PNS-ACT-000004",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "subject_ref",
+    "to": "PNS-PER-000002"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "object_ref",
+    "to": "PNS-ORG-000002"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000105"
+  },
+  {
+    "from": "PNS-AST-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "subject_ref",
+    "to": "PNS-PER-000002"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "object_ref",
+    "to": "PNS-ORG-000002"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000105"
+  },
+  {
+    "from": "PNS-AST-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000109"
+  },
+  {
+    "from": "PNS-AST-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-AST-000003",
+    "path": "subject_ref",
+    "to": "PNS-PER-000002"
+  },
+  {
+    "from": "PNS-AST-000003",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000003",
+    "path": "object_ref",
+    "to": "PNS-SRC-000003"
+  },
+  {
+    "from": "PNS-AST-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-AST-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-AST-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "subject_ref",
+    "to": "PNS-ORG-000002"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-AST-000004",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "subject_ref",
+    "to": "PNS-ORG-000002"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-AST-000005",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "subject_ref",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "research_scope.repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "research_scope.source_refs[0]",
+    "to": "PNS-SRC-000001"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "research_scope.source_refs[1]",
+    "to": "PNS-SRC-000003"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "research_scope.source_refs[2]",
+    "to": "PNS-SRC-000004"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-AST-000006",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "subject_ref",
+    "to": "PNS-ACT-000002"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "object_value.population_scope.organization_refs[0]",
+    "to": "PNS-ORG-000004"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "object_value.population_scope.place_refs[0]",
+    "to": "PNS-PLA-000002"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "object_value.spatial_scope_refs[0]",
+    "to": "PNS-PLA-000002"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000120"
+  },
+  {
+    "from": "PNS-AST-000007",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "subject_ref",
+    "to": "PNS-ACT-000002"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "object_value.population_scope.organization_refs[0]",
+    "to": "PNS-ORG-000004"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "object_value.population_scope.place_refs[0]",
+    "to": "PNS-PLA-000002"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "object_value.spatial_scope_refs[0]",
+    "to": "PNS-PLA-000002"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "comparability.compared_assertion_refs[0]",
+    "to": "PNS-AST-000007"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000120"
+  },
+  {
+    "from": "PNS-AST-000008",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "subject_ref",
+    "to": "PNS-ACT-000002"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000115"
+  },
+  {
+    "from": "PNS-AST-000009",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000121"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "subject_ref",
+    "to": "PNS-COL-000005"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "object_ref",
+    "to": "PNS-PLA-000005"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000123"
+  },
+  {
+    "from": "PNS-AST-000010",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "subject_ref",
+    "to": "PNS-BIO-000005"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "object_ref",
+    "to": "PNS-COL-000005"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000005"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-AST-000011",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-AST-000012",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-AST-000012",
+    "path": "subject_ref",
+    "to": "PNS-ACT-000003"
+  },
+  {
+    "from": "PNS-AST-000012",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000012",
+    "path": "object_value.spatial_scope_refs[0]",
+    "to": "PNS-PLA-000005"
+  },
+  {
+    "from": "PNS-AST-000012",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-AST-000012",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-AST-000012",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "subject_ref",
+    "to": "PNS-BIO-000004"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "reviewed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "object_ref",
+    "to": "PNS-PER-000005"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-AST-000013",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000125"
+  },
+  {
+    "from": "PNS-BIO-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-BIO-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-BIO-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-BIO-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000136"
+  },
+  {
+    "from": "PNS-BIO-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000108"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000102"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000107"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000108"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000136"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "current_taxon_ref",
+    "to": "PNS-BIO-000001"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "locality_interpretations[0].normalized_place_ref",
+    "to": "PNS-PLA-000001"
+  },
+  {
+    "from": "PNS-BIO-000002",
+    "path": "locality_interpretations[0].georeference.established_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000005"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000136"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000129"
+  },
+  {
+    "from": "PNS-BIO-000003",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000123"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000125"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000136"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "current_taxon_ref",
+    "to": "PNS-BIO-000003"
+  },
+  {
+    "from": "PNS-BIO-000004",
+    "path": "current_collection_refs[0]",
+    "to": "PNS-COL-000005"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000005"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000129"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000136"
+  },
+  {
+    "from": "PNS-BIO-000005",
+    "path": "current_taxon_ref",
+    "to": "PNS-BIO-000003"
+  },
+  {
+    "from": "PNS-CLM-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CLM-000001",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000001"
+  },
+  {
+    "from": "PNS-CLM-000001",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000004"
+  },
+  {
+    "from": "PNS-CLM-000001",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-CLM-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CLM-000002",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000002"
+  },
+  {
+    "from": "PNS-CLM-000002",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000004"
+  },
+  {
+    "from": "PNS-CLM-000002",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-CLM-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CLM-000003",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000003"
+  },
+  {
+    "from": "PNS-CLM-000003",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000003"
+  },
+  {
+    "from": "PNS-CLM-000003",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-CLM-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CLM-000004",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000004"
+  },
+  {
+    "from": "PNS-CLM-000004",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000004"
+  },
+  {
+    "from": "PNS-CLM-000004",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-CLM-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CLM-000005",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000005"
+  },
+  {
+    "from": "PNS-CLM-000005",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000001"
+  },
+  {
+    "from": "PNS-CLM-000005",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000007"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "assertion_refs[1]",
+    "to": "PNS-AST-000008"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000006"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-CLM-000006",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000011"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000011"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-CLM-000007",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "dossier_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "dossier_refs[2]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000006"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "source_ref",
+    "to": "PNS-SRC-000011"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000008",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "dossier_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "dossier_refs[2]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "assertion_refs[0]",
+    "to": "PNS-AST-000006"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "contribution_ref",
+    "to": "PNS-CTR-000001"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "mapping_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-CLM-000009",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-COL-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-COL-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-COL-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-COL-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-COL-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-COL-000001",
+    "path": "held_by_repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000111"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000109"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "held_by_repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-COL-000002",
+    "path": "biography_event_refs[0]",
+    "to": "PNS-EVT-000002"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000102"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000106"
+  },
+  {
+    "from": "PNS-COL-000003",
+    "path": "held_by_repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000125"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-COL-000004",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000123"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-COL-000005",
+    "path": "current_member_refs[0]",
+    "to": "PNS-BIO-000004"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "dossier_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "dossier_refs[2]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "contributor_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "related_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "related_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "related_refs[2]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "resulting_assertion_refs[0]",
+    "to": "PNS-AST-000006"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-CTR-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "lead_researcher_refs[0]",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "repositories_investigated_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "featured_refs[0]",
+    "to": "PNS-PER-000002"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "featured_refs[1]",
+    "to": "PNS-COL-000001"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "featured_refs[2]",
+    "to": "PNS-ACT-000001"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000103"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000102"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[7]",
+    "to": "PNS-THM-000109"
+  },
+  {
+    "from": "PNS-DOS-000001",
+    "path": "theme_refs[8]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "lead_researcher_refs[0]",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "repositories_investigated_refs[0]",
+    "to": "PNS-RPO-000002"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "featured_refs[0]",
+    "to": "PNS-ACT-000002"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "featured_refs[1]",
+    "to": "PNS-SRC-000006"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000010"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000014"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000113"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[7]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[8]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-DOS-000002",
+    "path": "theme_refs[9]",
+    "to": "PNS-THM-000121"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "lead_researcher_refs[0]",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "featured_refs[0]",
+    "to": "PNS-ORG-000005"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "featured_refs[1]",
+    "to": "PNS-COL-000004"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "featured_refs[2]",
+    "to": "PNS-BIO-000004"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[7]",
+    "to": "PNS-THM-000123"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[8]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[9]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-DOS-000003",
+    "path": "theme_refs[10]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-EVT-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVT-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-EVT-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-EVT-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000103"
+  },
+  {
+    "from": "PNS-EVT-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-EVT-000001",
+    "path": "place_refs[0]",
+    "to": "PNS-PLA-000001"
+  },
+  {
+    "from": "PNS-EVT-000001",
+    "path": "activity_refs[0]",
+    "to": "PNS-ACT-000001"
+  },
+  {
+    "from": "PNS-EVT-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVT-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-EVT-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-EVT-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-EVT-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000109"
+  },
+  {
+    "from": "PNS-EVT-000002",
+    "path": "place_refs[0]",
+    "to": "PNS-PLA-000001"
+  },
+  {
+    "from": "PNS-EVT-000002",
+    "path": "activity_refs[0]",
+    "to": "PNS-ACT-000001"
+  },
+  {
+    "from": "PNS-EVT-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-EVT-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-EVT-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-EVT-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000123"
+  },
+  {
+    "from": "PNS-EVT-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-EVT-000003",
+    "path": "place_refs[0]",
+    "to": "PNS-PLA-000005"
+  },
+  {
+    "from": "PNS-EVT-000003",
+    "path": "activity_refs[0]",
+    "to": "PNS-ACT-000004"
+  },
+  {
+    "from": "PNS-EVT-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-EVT-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-EVT-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-EVT-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-EVT-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000125"
+  },
+  {
+    "from": "PNS-EVT-000004",
+    "path": "activity_refs[0]",
+    "to": "PNS-ACT-000003"
+  },
+  {
+    "from": "PNS-EVL-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVL-000001",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000001"
+  },
+  {
+    "from": "PNS-EVL-000001",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000004"
+  },
+  {
+    "from": "PNS-EVL-000001",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000001",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000001"
+  },
+  {
+    "from": "PNS-EVL-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVL-000002",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000002"
+  },
+  {
+    "from": "PNS-EVL-000002",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000004"
+  },
+  {
+    "from": "PNS-EVL-000002",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000002",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000002"
+  },
+  {
+    "from": "PNS-EVL-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVL-000003",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000003"
+  },
+  {
+    "from": "PNS-EVL-000003",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000003"
+  },
+  {
+    "from": "PNS-EVL-000003",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000003",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000003"
+  },
+  {
+    "from": "PNS-EVL-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVL-000004",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000004"
+  },
+  {
+    "from": "PNS-EVL-000004",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000004"
+  },
+  {
+    "from": "PNS-EVL-000004",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000004",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000004"
+  },
+  {
+    "from": "PNS-EVL-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVL-000005",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000005"
+  },
+  {
+    "from": "PNS-EVL-000005",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000001"
+  },
+  {
+    "from": "PNS-EVL-000005",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000005",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000005"
+  },
+  {
+    "from": "PNS-EVL-000006",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-EVL-000006",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000006"
+  },
+  {
+    "from": "PNS-EVL-000006",
+    "path": "research_action_ref",
+    "to": "PNS-RAC-000001"
+  },
+  {
+    "from": "PNS-EVL-000006",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000007",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-EVL-000007",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000007"
+  },
+  {
+    "from": "PNS-EVL-000007",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000006"
+  },
+  {
+    "from": "PNS-EVL-000007",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000007",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000006"
+  },
+  {
+    "from": "PNS-EVL-000008",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-EVL-000008",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000008"
+  },
+  {
+    "from": "PNS-EVL-000008",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000006"
+  },
+  {
+    "from": "PNS-EVL-000008",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000008",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000006"
+  },
+  {
+    "from": "PNS-EVL-000009",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-EVL-000009",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000009"
+  },
+  {
+    "from": "PNS-EVL-000009",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000007"
+  },
+  {
+    "from": "PNS-EVL-000009",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000010",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-EVL-000010",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000010"
+  },
+  {
+    "from": "PNS-EVL-000010",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000009"
+  },
+  {
+    "from": "PNS-EVL-000010",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000011",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-EVL-000011",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000011"
+  },
+  {
+    "from": "PNS-EVL-000011",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000011"
+  },
+  {
+    "from": "PNS-EVL-000011",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000011",
+    "path": "claim_expression_ref",
+    "to": "PNS-CLM-000007"
+  },
+  {
+    "from": "PNS-EVL-000012",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-EVL-000012",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000012"
+  },
+  {
+    "from": "PNS-EVL-000012",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000010"
+  },
+  {
+    "from": "PNS-EVL-000012",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-EVL-000013",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-EVL-000013",
+    "path": "assertion_ref",
+    "to": "PNS-AST-000013"
+  },
+  {
+    "from": "PNS-EVL-000013",
+    "path": "source_segment_ref",
+    "to": "PNS-SEG-000010"
+  },
+  {
+    "from": "PNS-EVL-000013",
+    "path": "assessed_by_ref",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-LIN-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-LIN-000001",
+    "path": "dossier_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-LIN-000001",
+    "path": "dossier_refs[2]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-LIN-000001",
+    "path": "from_claim_expression_refs[0]",
+    "to": "PNS-CLM-000009"
+  },
+  {
+    "from": "PNS-LIN-000001",
+    "path": "to_claim_expression_ref",
+    "to": "PNS-CLM-000008"
+  },
+  {
+    "from": "PNS-LIN-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-LIN-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-MAT-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-MAT-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-MAT-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-MAT-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-MAT-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000103"
+  },
+  {
+    "from": "PNS-ORG-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-ORG-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-ORG-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-ORG-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000103"
+  },
+  {
+    "from": "PNS-ORG-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-ORG-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-ORG-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-ORG-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-ORG-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000103"
+  },
+  {
+    "from": "PNS-ORG-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-ORG-000002",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000109"
+  },
+  {
+    "from": "PNS-ORG-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-ORG-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-ORG-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-ORG-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-ORG-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000109"
+  },
+  {
+    "from": "PNS-ORG-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-ORG-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-ORG-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-ORG-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000010"
+  },
+  {
+    "from": "PNS-ORG-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-ORG-000004",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-ORG-000004",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000118"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-ORG-000005",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-ORG-000006",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-ORG-000006",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-ORG-000006",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-ORG-000006",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-ORG-000006",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000123"
+  },
+  {
+    "from": "PNS-ORG-000006",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "dossier_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "dossier_refs[2]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "creator_refs[0]",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "source_record_ref",
+    "to": "PNS-SRC-000011"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-OUT-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-PER-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-PER-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-PER-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-PER-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-PER-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-PER-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-PER-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-PER-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000105"
+  },
+  {
+    "from": "PNS-PER-000002",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000102"
+  },
+  {
+    "from": "PNS-PER-000002",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000138"
+  },
+  {
+    "from": "PNS-PER-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-PER-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-PER-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-PER-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000101"
+  },
+  {
+    "from": "PNS-PER-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000102"
+  },
+  {
+    "from": "PNS-PER-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-PER-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-PER-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-PER-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-PER-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-PER-000004",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-PER-000004",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000138"
+  },
+  {
+    "from": "PNS-PER-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-PER-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-PER-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-PER-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-PER-000005",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000138"
+  },
+  {
+    "from": "PNS-PLA-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-PLA-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-PLA-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-PLA-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-PLA-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000103"
+  },
+  {
+    "from": "PNS-PLA-000001",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000101"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "dossier_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-PLA-000002",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000121"
+  },
+  {
+    "from": "PNS-PLA-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-PLA-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-PLA-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-PLA-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-PLA-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-PLA-000003",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000121"
+  },
+  {
+    "from": "PNS-PLA-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-PLA-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-PLA-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-PLA-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-PLA-000004",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-PLA-000004",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000121"
+  },
+  {
+    "from": "PNS-PLA-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-PLA-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-PLA-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-PLA-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-PLA-000005",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-PLA-000005",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-RPO-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-RPO-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-RPO-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-RPO-000001",
+    "path": "custodian_ref",
+    "to": "PNS-ORG-000003"
+  },
+  {
+    "from": "PNS-RPO-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-RPO-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "dossier_ref",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "actor_refs[0]",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "examined_refs[0]",
+    "to": "PNS-SRC-000001"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "examined_refs[1]",
+    "to": "PNS-SRC-000003"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "examined_refs[2]",
+    "to": "PNS-SRC-000004"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "related_assertion_refs[0]",
+    "to": "PNS-AST-000004"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "related_assertion_refs[1]",
+    "to": "PNS-AST-000005"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "related_assertion_refs[2]",
+    "to": "PNS-AST-000006"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-RAC-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "dossier_ref",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "actor_refs[0]",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "examined_refs[0]",
+    "to": "PNS-SRC-000006"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "examined_refs[1]",
+    "to": "PNS-SRC-000007"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "related_assertion_refs[0]",
+    "to": "PNS-AST-000007"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "related_assertion_refs[1]",
+    "to": "PNS-AST-000008"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "related_assertion_refs[2]",
+    "to": "PNS-AST-000009"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-RAC-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000134"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "dossier_ref",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "actor_refs[0]",
+    "to": "PNS-PER-000001"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "examined_refs[0]",
+    "to": "PNS-SRC-000008"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "examined_refs[1]",
+    "to": "PNS-SRC-000009"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "examined_refs[2]",
+    "to": "PNS-SRC-000010"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "related_assertion_refs[0]",
+    "to": "PNS-AST-000010"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "related_assertion_refs[1]",
+    "to": "PNS-AST-000011"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "related_assertion_refs[2]",
+    "to": "PNS-AST-000012"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "related_assertion_refs[3]",
+    "to": "PNS-AST-000013"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-RAC-000003",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-SEG-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SEG-000001",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000001"
+  },
+  {
+    "from": "PNS-SEG-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SEG-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-SEG-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000109"
+  },
+  {
+    "from": "PNS-SEG-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SEG-000002",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000002"
+  },
+  {
+    "from": "PNS-SEG-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-SEG-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-SEG-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-SEG-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000111"
+  },
+  {
+    "from": "PNS-SEG-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SEG-000003",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000003"
+  },
+  {
+    "from": "PNS-SEG-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SEG-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-SEG-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-SEG-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SEG-000004",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000004"
+  },
+  {
+    "from": "PNS-SEG-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SEG-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-SEG-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-SEG-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SEG-000005",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000005"
+  },
+  {
+    "from": "PNS-SEG-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SEG-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-SEG-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-SEG-000006",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-SEG-000006",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000006"
+  },
+  {
+    "from": "PNS-SEG-000006",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-SEG-000006",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-SEG-000006",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-SEG-000006",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000120"
+  },
+  {
+    "from": "PNS-SEG-000006",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000006"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000115"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000116"
+  },
+  {
+    "from": "PNS-SEG-000007",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000121"
+  },
+  {
+    "from": "PNS-SEG-000008",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-SEG-000008",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000007"
+  },
+  {
+    "from": "PNS-SEG-000008",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-SEG-000008",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-SEG-000008",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000120"
+  },
+  {
+    "from": "PNS-SEG-000008",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-SEG-000009",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-SEG-000009",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000008"
+  },
+  {
+    "from": "PNS-SEG-000009",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-SEG-000009",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-SEG-000009",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-SEG-000009",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-SEG-000010",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-SEG-000010",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000009"
+  },
+  {
+    "from": "PNS-SEG-000010",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-SEG-000010",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-SEG-000010",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-SEG-000010",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-SEG-000010",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000128"
+  },
+  {
+    "from": "PNS-SEG-000011",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-SEG-000011",
+    "path": "parent_source_ref",
+    "to": "PNS-SRC-000010"
+  },
+  {
+    "from": "PNS-SEG-000011",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-SEG-000011",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-SEG-000011",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-SEG-000011",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-SEG-000011",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-SRC-000001",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SRC-000001",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-SRC-000001",
+    "path": "collection_refs[0]",
+    "to": "PNS-COL-000001"
+  },
+  {
+    "from": "PNS-SRC-000001",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-SRC-000001",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-SRC-000001",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000001",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-SRC-000002",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SRC-000002",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-SRC-000002",
+    "path": "collection_refs[0]",
+    "to": "PNS-COL-000002"
+  },
+  {
+    "from": "PNS-SRC-000002",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-SRC-000002",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-SRC-000002",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000002",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-SRC-000003",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SRC-000003",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-SRC-000003",
+    "path": "collection_refs[0]",
+    "to": "PNS-COL-000003"
+  },
+  {
+    "from": "PNS-SRC-000003",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-SRC-000003",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-SRC-000003",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000003",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000110"
+  },
+  {
+    "from": "PNS-SRC-000004",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SRC-000004",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000004",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-SRC-000004",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000131"
+  },
+  {
+    "from": "PNS-SRC-000005",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SRC-000005",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000001"
+  },
+  {
+    "from": "PNS-SRC-000005",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000005",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-SRC-000005",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000104"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000002"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000112"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000114"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000120"
+  },
+  {
+    "from": "PNS-SRC-000006",
+    "path": "theme_refs[7]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000002"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000119"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000120"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000118"
+  },
+  {
+    "from": "PNS-SRC-000007",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000133"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000002"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000125"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-SRC-000008",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000127"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "repository_refs[0]",
+    "to": "PNS-RPO-000002"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000122"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000126"
+  },
+  {
+    "from": "PNS-SRC-000009",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000128"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000005"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "theme_refs[3]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "theme_refs[4]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "theme_refs[5]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-SRC-000010",
+    "path": "theme_refs[6]",
+    "to": "PNS-THM-000136"
+  },
+  {
+    "from": "PNS-SRC-000011",
+    "path": "dossier_refs[0]",
+    "to": "PNS-DOS-000001"
+  },
+  {
+    "from": "PNS-SRC-000011",
+    "path": "dossier_refs[1]",
+    "to": "PNS-DOS-000002"
+  },
+  {
+    "from": "PNS-SRC-000011",
+    "path": "dossier_refs[2]",
+    "to": "PNS-DOS-000003"
+  },
+  {
+    "from": "PNS-SRC-000011",
+    "path": "theme_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-SRC-000011",
+    "path": "theme_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-SRC-000011",
+    "path": "theme_refs[2]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-THM-000101",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000102",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000102",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-THM-000102",
+    "path": "broader_refs[2]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-THM-000102",
+    "path": "related_refs[0]",
+    "to": "PNS-THM-000107"
+  },
+  {
+    "from": "PNS-THM-000102",
+    "path": "related_refs[1]",
+    "to": "PNS-THM-000108"
+  },
+  {
+    "from": "PNS-THM-000103",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-THM-000104",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-THM-000104",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000010"
+  },
+  {
+    "from": "PNS-THM-000105",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000105",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000014"
+  },
+  {
+    "from": "PNS-THM-000106",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000106",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-THM-000107",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-THM-000107",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-THM-000108",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-THM-000108",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-THM-000109",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000002"
+  },
+  {
+    "from": "PNS-THM-000109",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-THM-000110",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-THM-000110",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-THM-000110",
+    "path": "related_refs[0]",
+    "to": "PNS-THM-000111"
+  },
+  {
+    "from": "PNS-THM-000111",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000016"
+  },
+  {
+    "from": "PNS-THM-000112",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000112",
+    "path": "related_refs[0]",
+    "to": "PNS-THM-000113"
+  },
+  {
+    "from": "PNS-THM-000113",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000113",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-THM-000113",
+    "path": "related_refs[0]",
+    "to": "PNS-THM-000115"
+  },
+  {
+    "from": "PNS-THM-000113",
+    "path": "related_refs[1]",
+    "to": "PNS-THM-000116"
+  },
+  {
+    "from": "PNS-THM-000114",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000114",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-THM-000115",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000115",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-THM-000115",
+    "path": "broader_refs[2]",
+    "to": "PNS-THM-000010"
+  },
+  {
+    "from": "PNS-THM-000116",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000117",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000118",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000119",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000119",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-THM-000120",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000008"
+  },
+  {
+    "from": "PNS-THM-000120",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000012"
+  },
+  {
+    "from": "PNS-THM-000120",
+    "path": "broader_refs[2]",
+    "to": "PNS-THM-000013"
+  },
+  {
+    "from": "PNS-THM-000121",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-THM-000121",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000010"
+  },
+  {
+    "from": "PNS-THM-000122",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-THM-000122",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-THM-000122",
+    "path": "broader_refs[2]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-THM-000122",
+    "path": "related_refs[0]",
+    "to": "PNS-THM-000124"
+  },
+  {
+    "from": "PNS-THM-000122",
+    "path": "related_refs[1]",
+    "to": "PNS-THM-000128"
+  },
+  {
+    "from": "PNS-THM-000123",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-THM-000123",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-THM-000124",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-THM-000124",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-THM-000125",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-THM-000126",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-THM-000126",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000127",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-THM-000127",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000017"
+  },
+  {
+    "from": "PNS-THM-000128",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000009"
+  },
+  {
+    "from": "PNS-THM-000128",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-THM-000129",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-THM-000129",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-THM-000129",
+    "path": "related_refs[0]",
+    "to": "PNS-THM-000130"
+  },
+  {
+    "from": "PNS-THM-000130",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-THM-000130",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000006"
+  },
+  {
+    "from": "PNS-THM-000131",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-THM-000131",
+    "path": "related_refs[0]",
+    "to": "PNS-THM-000132"
+  },
+  {
+    "from": "PNS-THM-000132",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-THM-000133",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000134",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000134",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000005"
+  },
+  {
+    "from": "PNS-THM-000135",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000001"
+  },
+  {
+    "from": "PNS-THM-000135",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000018"
+  },
+  {
+    "from": "PNS-THM-000136",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000004"
+  },
+  {
+    "from": "PNS-THM-000136",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000003"
+  },
+  {
+    "from": "PNS-THM-000137",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000010"
+  },
+  {
+    "from": "PNS-THM-000137",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000014"
+  },
+  {
+    "from": "PNS-THM-000138",
+    "path": "broader_refs[0]",
+    "to": "PNS-THM-000014"
+  },
+  {
+    "from": "PNS-THM-000138",
+    "path": "broader_refs[1]",
+    "to": "PNS-THM-000015"
+  }
+]

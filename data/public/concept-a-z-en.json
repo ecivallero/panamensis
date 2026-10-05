@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PNS-THM-000128",
+    "scheme": "panamensis_descriptors",
+    "label": "Acclimatization",
+    "initial": "A"
+  },
+  {
+    "id": "PNS-THM-000111",
+    "scheme": "panamensis_descriptors",
+    "label": "Archival arrangement",
+    "initial": "A"
+  },
+  {
+    "id": "PNS-THM-000130",
+    "scheme": "panamensis_descriptors",
+    "label": "Biological invasion",
+    "initial": "B"
+  },
+  {
+    "id": "PNS-THM-000124",
+    "scheme": "panamensis_descriptors",
+    "label": "Biological transfer",
+    "initial": "B"
+  },
+  {
+    "id": "PNS-THM-000131",
+    "scheme": "panamensis_descriptors",
+    "label": "Claim transmission",
+    "initial": "C"
+  },
+  {
+    "id": "PNS-THM-000135",
+    "scheme": "panamensis_descriptors",
+    "label": "Classification",
+    "initial": "C"
+  },
+  {
+    "id": "PNS-THM-000110",
+    "scheme": "panamensis_descriptors",
+    "label": "Collection history",
+    "initial": "C"
+  },
+  {
+    "id": "PNS-THM-000115",
+    "scheme": "panamensis_descriptors",
+    "label": "Drainage",
+    "initial": "D"
+  },
+  {
+    "id": "PNS-THM-000121",
+    "scheme": "panamensis_descriptors",
+    "label": "Environmental modification",
+    "initial": "E"
+  },
+  {
+    "id": "PNS-THM-000118",
+    "scheme": "panamensis_descriptors",
+    "label": "Epidemiological surveillance",
+    "initial": "E"
+  },
+  {
+    "id": "PNS-THM-000126",
+    "scheme": "panamensis_descriptors",
+    "label": "Experimental cultivation",
+    "initial": "E"
+  },
+  {
+    "id": "PNS-THM-000138",
+    "scheme": "panamensis_descriptors",
+    "label": "Expertise",
+    "initial": "E"
+  },
+  {
+    "id": "PNS-THM-000103",
+    "scheme": "panamensis_descriptors",
+    "label": "Field station",
+    "initial": "F"
+  },
+  {
+    "id": "PNS-THM-000101",
+    "scheme": "panamensis_descriptors",
+    "label": "Fieldwork",
+    "initial": "F"
+  },
+  {
+    "id": "PNS-THM-000123",
+    "scheme": "panamensis_descriptors",
+    "label": "Germplasm",
+    "initial": "G"
+  },
+  {
+    "id": "PNS-THM-000119",
+    "scheme": "panamensis_descriptors",
+    "label": "Health statistics",
+    "initial": "H"
+  },
+  {
+    "id": "PNS-THM-000132",
+    "scheme": "panamensis_descriptors",
+    "label": "Historical identification",
+    "initial": "H"
+  },
+  {
+    "id": "PNS-THM-000109",
+    "scheme": "panamensis_descriptors",
+    "label": "Institutional succession",
+    "initial": "I"
+  },
+  {
+    "id": "PNS-THM-000116",
+    "scheme": "panamensis_descriptors",
+    "label": "Larviciding",
+    "initial": "L"
+  },
+  {
+    "id": "PNS-THM-000137",
+    "scheme": "panamensis_descriptors",
+    "label": "Maintenance",
+    "initial": "M"
+  },
+  {
+    "id": "PNS-THM-000112",
+    "scheme": "panamensis_descriptors",
+    "label": "Malaria control",
+    "initial": "M"
+  },
+  {
+    "id": "PNS-THM-000133",
+    "scheme": "panamensis_descriptors",
+    "label": "Measurement",
+    "initial": "M"
+  },
+  {
+    "id": "PNS-THM-000134",
+    "scheme": "panamensis_descriptors",
+    "label": "Monitoring",
+    "initial": "M"
+  },
+  {
+    "id": "PNS-THM-000129",
+    "scheme": "panamensis_descriptors",
+    "label": "Naturalization",
+    "initial": "N"
+  },
+  {
+    "id": "PNS-THM-000122",
+    "scheme": "panamensis_descriptors",
+    "label": "Plant introduction",
+    "initial": "P"
+  },
+  {
+    "id": "PNS-THM-000120",
+    "scheme": "panamensis_descriptors",
+    "label": "Population classification",
+    "initial": "P"
+  },
+  {
+    "id": "PNS-THM-000125",
+    "scheme": "panamensis_descriptors",
+    "label": "Propagation",
+    "initial": "P"
+  },
+  {
+    "id": "PNS-THM-000117",
+    "scheme": "panamensis_descriptors",
+    "label": "Quinine distribution",
+    "initial": "Q"
+  },
+  {
+    "id": "PNS-THM-000104",
+    "scheme": "panamensis_descriptors",
+    "label": "Research infrastructure",
+    "initial": "R"
+  },
+  {
+    "id": "PNS-THM-000114",
+    "scheme": "panamensis_descriptors",
+    "label": "Sanitation",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000102",
+    "scheme": "panamensis_descriptors",
+    "label": "Scientific collecting",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000106",
+    "scheme": "panamensis_descriptors",
+    "label": "Scientific correspondence",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000105",
+    "scheme": "panamensis_descriptors",
+    "label": "Scientific labor",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000127",
+    "scheme": "panamensis_descriptors",
+    "label": "Seed exchange",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000107",
+    "scheme": "panamensis_descriptors",
+    "label": "Specimen circulation",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000108",
+    "scheme": "panamensis_descriptors",
+    "label": "Specimen identification",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000136",
+    "scheme": "panamensis_descriptors",
+    "label": "Taxonomy",
+    "initial": "T"
+  },
+  {
+    "id": "PNS-THM-000113",
+    "scheme": "panamensis_descriptors",
+    "label": "Vector control",
+    "initial": "V"
+  },
+  {
+    "id": "PNS-THM-000009",
+    "scheme": "panamensis_subjects",
+    "label": "Agriculture, Plant Introduction and Agronomy",
+    "initial": "A"
+  },
+  {
+    "id": "PNS-THM-000016",
+    "scheme": "panamensis_subjects",
+    "label": "Archives, Documentary Heritage and Recordkeeping",
+    "initial": "A"
+  },
+  {
+    "id": "PNS-THM-000004",
+    "scheme": "panamensis_subjects",
+    "label": "Biodiversity and Biological Knowledge",
+    "initial": "B"
+  },
+  {
+    "id": "PNS-THM-000005",
+    "scheme": "panamensis_subjects",
+    "label": "Ecology and Ecosystems",
+    "initial": "E"
+  },
+  {
+    "id": "PNS-THM-000010",
+    "scheme": "panamensis_subjects",
+    "label": "Engineering, Technology and Technical Systems",
+    "initial": "E"
+  },
+  {
+    "id": "PNS-THM-000006",
+    "scheme": "panamensis_subjects",
+    "label": "Environmental History",
+    "initial": "E"
+  },
+  {
+    "id": "PNS-THM-000007",
+    "scheme": "panamensis_subjects",
+    "label": "Geography, Cartography and Spatial Knowledge",
+    "initial": "G"
+  },
+  {
+    "id": "PNS-THM-000012",
+    "scheme": "panamensis_subjects",
+    "label": "Government, Administration and Public Policy",
+    "initial": "G"
+  },
+  {
+    "id": "PNS-THM-000018",
+    "scheme": "panamensis_subjects",
+    "label": "Historiography, History of Knowledge and Scientific Memory",
+    "initial": "H"
+  },
+  {
+    "id": "PNS-THM-000001",
+    "scheme": "panamensis_subjects",
+    "label": "History of Science",
+    "initial": "H"
+  },
+  {
+    "id": "PNS-THM-000015",
+    "scheme": "panamensis_subjects",
+    "label": "Knowledge Systems, Local Expertise and Intercultural Exchange",
+    "initial": "K"
+  },
+  {
+    "id": "PNS-THM-000014",
+    "scheme": "panamensis_subjects",
+    "label": "Labor, Expertise and Working Life",
+    "initial": "L"
+  },
+  {
+    "id": "PNS-THM-000017",
+    "scheme": "panamensis_subjects",
+    "label": "Libraries, Museums, Herbaria and Scientific Collections",
+    "initial": "L"
+  },
+  {
+    "id": "PNS-THM-000003",
+    "scheme": "panamensis_subjects",
+    "label": "Natural History",
+    "initial": "N"
+  },
+  {
+    "id": "PNS-THM-000008",
+    "scheme": "panamensis_subjects",
+    "label": "Public Health, Medicine and Epidemiology",
+    "initial": "P"
+  },
+  {
+    "id": "PNS-THM-000002",
+    "scheme": "panamensis_subjects",
+    "label": "Scientific Institutions, Field Stations and Research Networks",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000013",
+    "scheme": "panamensis_subjects",
+    "label": "Sovereignty, Empire and Territoriality",
+    "initial": "S"
+  },
+  {
+    "id": "PNS-THM-000011",
+    "scheme": "panamensis_subjects",
+    "label": "Transport, Transit, Infrastructure and Communications",
+    "initial": "T"
+  }
+]

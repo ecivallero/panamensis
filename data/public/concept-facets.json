@@ -1,0 +1,342 @@
+{
+  "panamensis_subjects": [
+    {
+      "id": "PNS-THM-000001",
+      "label_en": "History of Science",
+      "label_es": "Historia de la ciencia",
+      "count": 41
+    },
+    {
+      "id": "PNS-THM-000018",
+      "label_en": "Historiography, History of Knowledge and Scientific Memory",
+      "label_es": "Historiografía, historia del conocimiento y memoria científica",
+      "count": 24
+    },
+    {
+      "id": "PNS-THM-000009",
+      "label_en": "Agriculture, Plant Introduction and Agronomy",
+      "label_es": "Agricultura, introducción de plantas y agronomía",
+      "count": 21
+    },
+    {
+      "id": "PNS-THM-000002",
+      "label_en": "Scientific Institutions, Field Stations and Research Networks",
+      "label_es": "Instituciones científicas, estaciones de campo y redes de investigación",
+      "count": 20
+    },
+    {
+      "id": "PNS-THM-000016",
+      "label_en": "Archives, Documentary Heritage and Recordkeeping",
+      "label_es": "Archivos, patrimonio documental y gestión documental",
+      "count": 17
+    },
+    {
+      "id": "PNS-THM-000008",
+      "label_en": "Public Health, Medicine and Epidemiology",
+      "label_es": "Salud pública, medicina y epidemiología",
+      "count": 17
+    },
+    {
+      "id": "PNS-THM-000004",
+      "label_en": "Biodiversity and Biological Knowledge",
+      "label_es": "Biodiversidad y conocimiento biológico",
+      "count": 16
+    },
+    {
+      "id": "PNS-THM-000006",
+      "label_en": "Environmental History",
+      "label_es": "Historia ambiental",
+      "count": 14
+    },
+    {
+      "id": "PNS-THM-000017",
+      "label_en": "Libraries, Museums, Herbaria and Scientific Collections",
+      "label_es": "Bibliotecas, museos, herbarios y colecciones científicas",
+      "count": 14
+    },
+    {
+      "id": "PNS-THM-000012",
+      "label_en": "Government, Administration and Public Policy",
+      "label_es": "Gobierno, administración y políticas públicas",
+      "count": 10
+    },
+    {
+      "id": "PNS-THM-000003",
+      "label_en": "Natural History",
+      "label_es": "Historia natural",
+      "count": 8
+    },
+    {
+      "id": "PNS-THM-000005",
+      "label_en": "Ecology and Ecosystems",
+      "label_es": "Ecología y ecosistemas",
+      "count": 4
+    },
+    {
+      "id": "PNS-THM-000010",
+      "label_en": "Engineering, Technology and Technical Systems",
+      "label_es": "Ingeniería, tecnología y sistemas técnicos",
+      "count": 3
+    },
+    {
+      "id": "PNS-THM-000014",
+      "label_en": "Labor, Expertise and Working Life",
+      "label_es": "Trabajo, saber experto y vida laboral",
+      "count": 1
+    },
+    {
+      "id": "PNS-THM-000007",
+      "label_en": "Geography, Cartography and Spatial Knowledge",
+      "label_es": "Geografía, cartografía y conocimiento espacial",
+      "count": 0
+    },
+    {
+      "id": "PNS-THM-000015",
+      "label_en": "Knowledge Systems, Local Expertise and Intercultural Exchange",
+      "label_es": "Sistemas de conocimiento, saberes locales e intercambio intercultural",
+      "count": 0
+    },
+    {
+      "id": "PNS-THM-000013",
+      "label_en": "Sovereignty, Empire and Territoriality",
+      "label_es": "Soberanía, imperio y territorialidad",
+      "count": 0
+    },
+    {
+      "id": "PNS-THM-000011",
+      "label_en": "Transport, Transit, Infrastructure and Communications",
+      "label_es": "Transporte, tránsito, infraestructura y comunicaciones",
+      "count": 0
+    }
+  ],
+  "panamensis_descriptors": [
+    {
+      "id": "PNS-THM-000131",
+      "label_en": "Claim transmission",
+      "label_es": "Transmisión de afirmaciones",
+      "count": 14
+    },
+    {
+      "id": "PNS-THM-000124",
+      "label_en": "Biological transfer",
+      "label_es": "Transferencia biológica",
+      "count": 13
+    },
+    {
+      "id": "PNS-THM-000122",
+      "label_en": "Plant introduction",
+      "label_es": "Introducción de plantas",
+      "count": 13
+    },
+    {
+      "id": "PNS-THM-000112",
+      "label_en": "Malaria control",
+      "label_es": "Control de la malaria",
+      "count": 11
+    },
+    {
+      "id": "PNS-THM-000110",
+      "label_en": "Collection history",
+      "label_es": "Historia de colecciones",
+      "count": 10
+    },
+    {
+      "id": "PNS-THM-000126",
+      "label_en": "Experimental cultivation",
+      "label_es": "Cultivo experimental",
+      "count": 10
+    },
+    {
+      "id": "PNS-THM-000114",
+      "label_en": "Sanitation",
+      "label_es": "Saneamiento",
+      "count": 10
+    },
+    {
+      "id": "PNS-THM-000119",
+      "label_en": "Health statistics",
+      "label_es": "Estadísticas de salud",
+      "count": 9
+    },
+    {
+      "id": "PNS-THM-000132",
+      "label_en": "Historical identification",
+      "label_es": "Identificación histórica",
+      "count": 9
+    },
+    {
+      "id": "PNS-THM-000133",
+      "label_en": "Measurement",
+      "label_es": "Medición",
+      "count": 9
+    },
+    {
+      "id": "PNS-THM-000104",
+      "label_en": "Research infrastructure",
+      "label_es": "Infraestructura de investigación",
+      "count": 8
+    },
+    {
+      "id": "PNS-THM-000130",
+      "label_en": "Biological invasion",
+      "label_es": "Invasión biológica",
+      "count": 7
+    },
+    {
+      "id": "PNS-THM-000121",
+      "label_en": "Environmental modification",
+      "label_es": "Modificación ambiental",
+      "count": 7
+    },
+    {
+      "id": "PNS-THM-000103",
+      "label_en": "Field station",
+      "label_es": "Estación de campo",
+      "count": 7
+    },
+    {
+      "id": "PNS-THM-000123",
+      "label_en": "Germplasm",
+      "label_es": "Germoplasma",
+      "count": 7
+    },
+    {
+      "id": "PNS-THM-000109",
+      "label_en": "Institutional succession",
+      "label_es": "Sucesión institucional",
+      "count": 7
+    },
+    {
+      "id": "PNS-THM-000125",
+      "label_en": "Propagation",
+      "label_es": "Propagación",
+      "count": 7
+    },
+    {
+      "id": "PNS-THM-000120",
+      "label_en": "Population classification",
+      "label_es": "Clasificación de poblaciones",
+      "count": 6
+    },
+    {
+      "id": "PNS-THM-000102",
+      "label_en": "Scientific collecting",
+      "label_es": "Recolección científica",
+      "count": 6
+    },
+    {
+      "id": "PNS-THM-000136",
+      "label_en": "Taxonomy",
+      "label_es": "Taxonomía",
+      "count": 6
+    },
+    {
+      "id": "PNS-THM-000105",
+      "label_en": "Scientific labor",
+      "label_es": "Trabajo científico",
+      "count": 5
+    },
+    {
+      "id": "PNS-THM-000128",
+      "label_en": "Acclimatization",
+      "label_es": "Aclimatación",
+      "count": 3
+    },
+    {
+      "id": "PNS-THM-000115",
+      "label_en": "Drainage",
+      "label_es": "Drenaje",
+      "count": 3
+    },
+    {
+      "id": "PNS-THM-000138",
+      "label_en": "Expertise",
+      "label_es": "Saber experto",
+      "count": 3
+    },
+    {
+      "id": "PNS-THM-000101",
+      "label_en": "Fieldwork",
+      "label_es": "Trabajo de campo",
+      "count": 3
+    },
+    {
+      "id": "PNS-THM-000111",
+      "label_en": "Archival arrangement",
+      "label_es": "Ordenación archivística",
+      "count": 2
+    },
+    {
+      "id": "PNS-THM-000118",
+      "label_en": "Epidemiological surveillance",
+      "label_es": "Vigilancia epidemiológica",
+      "count": 2
+    },
+    {
+      "id": "PNS-THM-000116",
+      "label_en": "Larviciding",
+      "label_es": "Aplicación de larvicidas",
+      "count": 2
+    },
+    {
+      "id": "PNS-THM-000129",
+      "label_en": "Naturalization",
+      "label_es": "Naturalización",
+      "count": 2
+    },
+    {
+      "id": "PNS-THM-000127",
+      "label_en": "Seed exchange",
+      "label_es": "Intercambio de semillas",
+      "count": 2
+    },
+    {
+      "id": "PNS-THM-000108",
+      "label_en": "Specimen identification",
+      "label_es": "Identificación de especímenes",
+      "count": 2
+    },
+    {
+      "id": "PNS-THM-000113",
+      "label_en": "Vector control",
+      "label_es": "Control de vectores",
+      "count": 2
+    },
+    {
+      "id": "PNS-THM-000134",
+      "label_en": "Monitoring",
+      "label_es": "Monitoreo",
+      "count": 1
+    },
+    {
+      "id": "PNS-THM-000117",
+      "label_en": "Quinine distribution",
+      "label_es": "Distribución de quinina",
+      "count": 1
+    },
+    {
+      "id": "PNS-THM-000106",
+      "label_en": "Scientific correspondence",
+      "label_es": "Correspondencia científica",
+      "count": 1
+    },
+    {
+      "id": "PNS-THM-000107",
+      "label_en": "Specimen circulation",
+      "label_es": "Circulación de especímenes",
+      "count": 1
+    },
+    {
+      "id": "PNS-THM-000135",
+      "label_en": "Classification",
+      "label_es": "Clasificación",
+      "count": 0
+    },
+    {
+      "id": "PNS-THM-000137",
+      "label_en": "Maintenance",
+      "label_es": "Mantenimiento",
+      "count": 0
+    }
+  ]
+}

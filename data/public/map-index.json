@@ -1,0 +1,38 @@
+[
+  {
+    "id": "PNS-PLA-000001",
+    "label": "Barro Colorado Island",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.85,
+        9.15
+      ]
+    },
+    "spatial_precision": "island_level"
+  },
+  {
+    "id": "PNS-PLA-000003",
+    "label": "Panama City",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.5199,
+        8.9824
+      ]
+    },
+    "spatial_precision": "city_level"
+  },
+  {
+    "id": "PNS-PLA-000004",
+    "label": "Colón",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.9014,
+        9.3592
+      ]
+    },
+    "spatial_precision": "city_level"
+  }
+]
