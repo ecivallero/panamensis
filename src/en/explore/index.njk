@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+lang: en
+title: Explore
+altUrl: /es/explore/
+permalink: /en/explore/index.html
+---
+<section class="page-head wrap"><p class="eyebrow">Explore</p><h1>Enter anywhere. Follow what connects.</h1><p class="lede">These are public pathways through one corpus, not reflections of the twenty internal record classes.</p></section>
+<section class="wrap explore-section">{% include "components/explore-grid.njk" %}</section>
+<section class="wrap concepts-block"><div class="section-intro"><p class="eyebrow">Themes</p><h2>Broad subjects and recurring descriptors.</h2><p>Concept pages and reverse membership are generated from canonical assignments. Nothing here is maintained as a hand-built backlink list.</p></div><div class="concept-sample">
+{% for c in concepts | slice(0,8) %}<a href="/en/{{ 'subjects' if c.scheme == 'panamensis_subjects' else 'descriptors' }}/{{ (c | conceptLabel(lang)) | slug }}/"><span>{{ 'Subject' if c.scheme == 'panamensis_subjects' else 'Descriptor' }}</span><strong>{{ c | conceptLabel(lang) }}</strong><small>{{ c.record_count }} connected records</small></a>{% endfor %}
+</div></section>
