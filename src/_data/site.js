@@ -6,12 +6,12 @@ export default {
   },
   nav: {
     en: [
-      ["Explore", "/en/explore/"], ["Research", "/en/#research"], ["Stories", "/en/#story"],
-      ["Sources", "/en/#sources"], ["Collaborate", "/en/#collaborate"], ["About", "/en/#about"]
+      ["Explore", "/en/#explore"], ["Stories", "/en/#stories"], ["Research", "/en/#research"],
+      ["Sources", "/en/#sources"], ["About", "/en/#about"]
     ],
     es: [
-      ["Explorar", "/es/explore/"], ["Investigación", "/es/#research"], ["Historias", "/es/#story"],
-      ["Fuentes", "/es/#sources"], ["Colaborar", "/es/#collaborate"], ["Acerca de", "/es/#about"]
+      ["Explorar", "/es/#explore"], ["Historias", "/es/#stories"], ["Investigación", "/es/#research"],
+      ["Fuentes", "/es/#sources"], ["Acerca de", "/es/#about"]
     ]
   },
   threadIds: ["PNS-PER-000002", "PNS-AST-000001", "PNS-CLM-000001", "PNS-SEG-000004", "PNS-SRC-000004", "PNS-DOS-000001"],
