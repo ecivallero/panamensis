@@ -2,57 +2,100 @@
 layout: layouts/base.njk
 lang: es
 title: Panamensis
-description: Programa de investigación independiente que conecta las historias documentales dispersas de la ciencia, la naturaleza, el ambiente y el conocimiento en Panamá.
+description: Un programa de investigación independiente que explora las historias de la ciencia y la naturaleza en Panamá a través de archivos, colecciones, paisajes y personas.
 altUrl: /en/
-bodyClass: home home-v03
+bodyClass: home home-v08
 permalink: /es/index.html
 ---
-<section class="hero wrap">
-  <div class="hero-title">
-    <p class="eyebrow">Historias e ideas de la ciencia en los trópicos</p>
-    <h1>Panamensis</h1>
-    <p class="lede">Panamensis construye un corpus documental interconectado para investigar las historias de la ciencia y la naturaleza en Panamá.</p>
-    <div class="hero-title-links"><a class="arrow-link" href="#thread">Seguir un hilo de evidencia</a><a class="arrow-link" href="#about">Acerca del programa</a></div>
-    <form class="hero-search" id="search" role="search" action="#"><label for="site-search-es">Buscar en Panamensis</label><input id="site-search-es" name="q" type="search" placeholder="Buscar personas, lugares, fuentes e investigaciones…"><button type="submit">Buscar</button></form>
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow">Ciencia, naturaleza y conocimiento en Panamá</p>
+    <h1 id="hero-title">Panamensis</h1>
+    <p class="lede">Un programa de investigación independiente que explora las historias de la ciencia y la naturaleza en Panamá a través de archivos, colecciones, paisajes y personas.</p>
+    <div class="hero-actions"><a class="section-link" href="#explore">Explorar Panamensis</a><a class="section-link" href="#about">Acerca del programa</a></div>
   </div>
-  <aside class="field-diagram" aria-label="Diagrama de áreas conectadas en el corpus">
-    <span class="diagram-label">Transecto de investigación · registros interconectados</span><span class="axis north">Norte · 09°</span><span class="axis transect">Atlántico — Pacífico</span>
-    <span class="coordinate a">Personas</span><span class="coordinate b">Fuentes</span><span class="coordinate c">Lugares</span><span class="coordinate d">Naturaleza</span>
-    <i class="diagram-line one"></i><i class="diagram-line two"></i><i class="diagram-line three"></i>
-    <p class="diagram-caption">El diagrama es esquemático. Las relaciones solo se publican cuando están representadas en el corpus de investigación.</p>
-  </aside>
+  <figure class="hero-image"><img src="/assets/images/hero-research-station.webp" alt="Mesa de investigación con cuadernos de campo, especímenes vegetales y mapas frente al bosque tropical"></figure>
 </section>
 
-{% include "components/thread.njk" %}
-
-<section class="entrances" id="explore">
-  <div class="wrap">
-    <div class="entrances-head"><div><p class="eyebrow">Tres entradas</p><h2>Comienza con la pregunta que te trajo hasta aquí.</h2></div><p class="quiet">Los recorridos conducen al mismo corpus público. Organizan distintas formas de atención, no colecciones separadas.</p></div>
-    <div class="entrance-grid">
-      <a class="entrance" href="/es/explore/"><small>01</small><strong>Explorar</strong><span>Recorre personas, lugares, organizaciones, actividades, naturaleza, temas, mapas y tiempos.</span><b>→</b></a>
-      <a class="entrance" href="#research"><small>02</small><strong>Investigación</strong><span>Entra por dosieres activos, preguntas abiertas, reconstrucciones actuales y actualizaciones sustantivas.</span><b>→</b></a>
-      <a class="entrance" href="#sources"><small>03</small><strong>Fuentes</strong><span>Sigue documentos, fotografías, testimonios, especímenes, colecciones y sus contextos de custodia.</span><b>→</b></a>
+<section class="plain-intro" aria-labelledby="what-title">
+  <div class="intro-grid wrap">
+    <div><p class="eyebrow">¿Qué es Panamensis?</p><h2 id="what-title">Una historia dispersa en muchos lugares.</h2></div>
+    <div class="intro-copy">
+      <p><strong>Por qué existe</strong>Durante más de un siglo, Panamá ha sido un punto de encuentro para la investigación tropical, las expediciones internacionales, la recolección biológica, la conservación y el estudio del mundo natural. Los registros de esa historia están hoy dispersos entre instituciones, países y colecciones.</p>
+      <p><strong>Qué hace</strong>Panamensis localiza esos registros, los conecta y los utiliza para contar historias sobre las personas, lugares, organismos e instituciones a través de los cuales se produjo conocimiento sobre Panamá.</p>
     </div>
   </div>
 </section>
 
-<section class="support-banner" id="donate" aria-labelledby="support-title-es"><div class="support-inner wrap"><div><p class="support-kicker">Apoya Panamensis</p><p class="support-message" id="support-title-es">Ayuda a mantener la investigación en marcha.</p></div><a class="support-button" href="#collaborate">Donar</a></div></section>
+<section class="support" id="donate" aria-label="Apoya Panamensis"><div class="support-inner wrap"><div><p class="eyebrow">Apoya Panamensis</p><p class="message">Ayuda a mantener la investigación en marcha.</p></div><a class="button" href="#collaborate">Donar</a></div></section>
 
-<figure class="photo-separator"><svg viewBox="0 0 1600 280" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Marcador ilustrativo para una fotografía panorámica de la ribera boscosa de Barro Colorado"><defs><linearGradient id="sky-es" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dfeadd"/><stop offset="1" stop-color="#aec6b2"/></linearGradient></defs><rect width="1600" height="280" fill="url(#sky-es)"/><path d="M0 145 Q110 65 215 134 Q330 37 465 133 Q592 60 720 143 Q855 35 994 136 Q1130 54 1263 138 Q1425 47 1600 126 V280 H0Z" fill="#355f4b"/><path d="M0 175 Q155 126 308 169 Q475 111 632 174 Q810 117 981 172 Q1165 118 1324 173 Q1461 139 1600 166 V280 H0Z" fill="#173f31"/><path d="M0 205 Q315 190 553 214 Q874 180 1126 208 Q1388 186 1600 203 V280 H0Z" fill="#527c84"/><path d="M0 228 Q260 213 530 235 T1040 225 T1600 232" fill="none" stroke="#d6e4df" stroke-width="3" opacity=".65"/></svg><figcaption class="sr-only">Fotografía separadora prevista: la ribera boscosa de Barro Colorado, conectando paisaje, ciencia y Canal.</figcaption></figure>
+<figure class="separator"><img src="/assets/images/forest-transect.webp" alt="Vista panorámica del bosque tropical y el agua en Panamá"></figure>
 
-<section class="story" id="story"><div class="story-grid wrap"><figure class="story-image"><div class="image-placeholder" role="img" aria-label="Marcador ilustrativo para una vista histórica de Barro Colorado como paisaje científico"><svg viewBox="0 0 1000 720" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="1000" height="720" fill="#dce9dc"/><path d="M0 350 Q120 190 260 318 Q385 145 526 320 Q680 118 830 306 Q925 224 1000 286 V720 H0Z" fill="#78967f"/><path d="M0 402 Q150 283 302 389 Q475 241 638 395 Q820 260 1000 365 V720 H0Z" fill="#345f4b"/><path d="M0 512 Q196 452 377 509 Q564 437 748 510 Q891 468 1000 487 V720 H0Z" fill="#527c84"/><path d="M0 555 Q230 522 465 562 T1000 548" fill="none" stroke="#c9ddd7" stroke-width="8" opacity=".55"/><g fill="#edf4ec" stroke="#607168" stroke-width="4"><rect x="590" y="270" width="214" height="124"/><path d="M565 270h264l-49-54H619Z"/><rect x="632" y="308" width="36" height="86"/><rect x="713" y="304" width="49" height="38"/></g><path d="M147 440V237M121 278q26-73 52 0M103 309q44-87 88 0M855 427V188M821 242q34-91 68 0M798 285q58-108 116 0" fill="none" stroke="#174a39" stroke-width="10"/></svg><div class="placeholder-center"><strong>Imagen prevista</strong><span>Vista histórica o aérea que muestre Barro Colorado como paisaje tropical y sitio científico</span></div></div><figcaption class="image-caption"><strong>Imagen de la historia</strong><span>Punto de vista · autoría · lugar · fecha · repositorio o fuente · derechos</span></figcaption></figure><article class="story-copy"><p class="eyebrow">Historia destacada · Posición editorial</p><h2>Barro Colorado como paisaje científico</h2><p class="lede">Este espacio se reserva para una narración de autor que haga legible la investigación y conserve los vínculos con las personas, lugares, instituciones, fuentes y dosieres que la sustentan.</p><p class="placeholder-notice">El corpus de referencia actual no incluye ninguna historia terminada. El título y el texto muestran la función prevista para este espacio; no se presentan como una publicación concluida.</p><a class="arrow-link" href="#research">Investigación detrás de esta futura historia</a></article></div></section>
+<section class="explore" id="explore" aria-labelledby="explore-title">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow">Comienza donde quieras</p><h2 id="explore-title">¿Qué puedes encontrar aquí?</h2></div><p>Entra a través de una historia, una persona, un lugar o un documento. Cada recorrido abre una parte diferente del mismo mundo histórico.</p></div>
+    <div class="routes">
+      <a class="route" href="#stories"><small>01</small><strong>Leer historias</strong><span>Narraciones accesibles construidas con archivos, colecciones, registros de campo y experiencias recordadas.</span></a>
+      <a class="route" href="/es/explore/"><small>02</small><strong>Explorar personas y lugares</strong><span>Investigadores, trabajadores, instituciones, estaciones, paisajes y sitios de Panamá.</span></a>
+      <a class="route" href="#sources"><small>03</small><strong>Descubrir fuentes</strong><span>Fotografías, mapas, especímenes, cuadernos, correspondencia, testimonios y colecciones.</span></a>
+      <a class="route" href="#research"><small>04</small><strong>Seguir la investigación</strong><span>Investigaciones actuales, preguntas sin resolver, hallazgos y pistas documentales.</span></a>
+    </div>
+    <section class="browse-panel" id="browse" aria-labelledby="browse-title">
+      <div><p class="eyebrow">Recorrer el registro</p><h3 id="browse-title">Elige una ruta a través de los materiales.</h3></div>
+      <nav class="browse-groups" aria-label="Explorar Panamensis">
+        <div class="browse-group"><strong>Vidas e instituciones</strong><a href="/es/explore/">Personas</a><a href="/es/explore/">Instituciones</a><a href="/es/explore/">Expediciones y trabajo de campo</a></div>
+        <div class="browse-group"><strong>Geografía y ambiente</strong><a href="/es/explore/">Lugares</a><a href="/es/explore/">Naturaleza</a><a href="/es/explore/">Mapa</a></div>
+        <div class="browse-group"><strong>Evidencia y tiempo</strong><a href="/es/explore/">Colecciones</a><a href="/es/explore/">Voces</a><a href="/es/explore/">Cronología</a></div>
+      </nav>
+    </section>
+  </div>
+</section>
 
-{% set person = records | recordById("PNS-PER-000002") %}{% set place = records | recordById("PNS-PLA-000001") %}{% set organization = records | recordById("PNS-ORG-000002") %}{% set taxon = records | recordById("PNS-BIO-000001") %}
-<section class="corpus" id="corpus"><div class="wrap"><div class="corpus-head"><div><p class="eyebrow">Desde el corpus</p><h2>Registros distintos, investigación conectada.</h2></div><p class="quiet">Una pequeña selección rotativa muestra que Panamensis conecta formas de evidencia diferentes sin borrar sus diferencias.</p></div><div class="corpus-grid"><a class="corpus-record" href="#thread"><small>Persona</small><strong>{{ person.preferred_label }}</strong><span>Identidad resuelta · Caso A</span></a><a class="corpus-record" href="#research"><small>Lugar</small><strong>Isla Barro Colorado</strong><span>Precisión espacial a nivel de isla</span></a><a class="corpus-record" href="#research"><small>Organización</small><strong>Canal Zone Biological Area</strong><span>Institución científica</span></a><a class="corpus-record" href="#sources"><small>Naturaleza</small><strong><em>{{ taxon.preferred_label }}</em></strong><span>Taxón · Entidad biológica</span></a></div></div></section>
-
-{% set dossier = records | recordById("PNS-DOS-000001") %}
-<section class="research" id="research"><div class="research-grid wrap"><article class="dossier"><p class="eyebrow">Investigación actual · Dosier activo</p><h2>Caso A: Barro Colorado / James Zetek / CZBA</h2><p class="lede">¿Puede el modelo de producción representar la historia institucional, documental, de especímenes y de funciones de Barro Colorado sin aplanar los metadatos controvertidos?</p><div class="tags"><span>Barro Colorado</span><span>Historia institucional</span><span>Historia documental</span><span>Activo</span></div><a class="arrow-link" href="#sources">Abrir el dosier de investigación</a></article><figure class="research-image"><div class="image-placeholder" role="img" aria-label="Marcador ilustrativo que compara afirmaciones documentales fechadas en 1939 y 1940"><svg viewBox="0 0 600 760" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="600" height="760" fill="#cfddcf"/><g transform="rotate(-5 250 350)"><rect x="86" y="78" width="388" height="552" fill="#f7faf5" stroke="#607168" stroke-width="3"/><path d="M123 181h277M123 220h315M123 259h246M123 298h300M123 337h270M123 489h315M123 528h220" stroke="#9ab0a0" stroke-width="10"/><rect x="116" y="370" width="288" height="76" fill="#dce9dc" stroke="#527c84" stroke-width="3"/><text x="149" y="420" fill="#174a39" font-family="Georgia" font-size="37">1939</text></g><g transform="rotate(6 400 420)"><rect x="245" y="184" width="278" height="414" fill="#edf4ec" stroke="#607168" stroke-width="3"/><path d="M278 242h205M278 280h171M278 318h196" stroke="#9ab0a0" stroke-width="9"/><rect x="274" y="352" width="202" height="90" fill="#d6e5e0" stroke="#527c84" stroke-width="3"/><text x="310" y="410" fill="#174a39" font-family="Georgia" font-size="39">1940</text></g><path d="M86 678H520" stroke="#174a39" stroke-width="3" stroke-dasharray="10 9"/></svg><div class="placeholder-center"><strong>Imagen de evidencia</strong><span>Dos registros con las fechas contrapuestas de 1939 y 1940 para la transición</span></div></div><figcaption class="image-caption"><strong>Imagen de investigación</strong><span>Registros comparados · pasajes destacados · repositorios · derechos</span></figcaption></figure><aside class="research-note"><span class="open-label">Pregunta abierta</span><strong>¿La transición legal a la Canal Zone Biological Area ocurrió en 1939 o en 1940?</strong><p>Una fuente pública fecha el cambio en 1939; el instrumento de descripción del Smithsonian lo fecha en 1940. La legislación primaria todavía no ha sido examinada en el corpus de referencia.</p><p class="open-status">Controvertido · sin resolver · se necesita una fuente primaria</p><a class="arrow-link" href="#sources">Examinar el recorrido de la evidencia</a></aside></div></section>
+<section class="story" id="stories" aria-labelledby="story-title">
+  <div class="story-grid wrap">
+    <figure class="story-visual"><img src="/assets/images/golden-frog.webp" alt="Una rana de color dorado junto a un arroyo del bosque"></figure>
+    <article class="story-copy"><p class="eyebrow">Historia destacada</p><h2 id="story-title">Barro Colorado: cuando un paisaje se convierte en laboratorio</h2><p class="lede">¿Cómo se convirtieron los bosques, islas, ríos y costas de Panamá en lugares de atención científica internacional?</p><p>Una historia puede comenzar con una estación de campo, la etiqueta de un espécimen o una fotografía, y llevar hacia las personas que trabajaron allí, las instituciones que las emplearon y los paisajes transformados por la investigación.</p><a class="section-link" href="#research">Leer la investigación detrás de la historia</a></article>
+  </div>
+</section>
 
 {% set source = records | recordById("PNS-SRC-000001") %}{% set collection = records | recordById("PNS-COL-000001") %}{% set repository = records | recordById("PNS-RPO-000001") %}
-<section class="source" id="sources"><div class="source-grid wrap"><figure class="source-visual"><div class="image-placeholder" role="img" aria-label="Marcador ilustrativo para una página escaneada del instrumento de descripción de RU 134"><svg viewBox="0 0 600 760" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="600" height="760" fill="#cddccc"/><rect x="71" y="42" width="458" height="665" fill="#f7faf5" stroke="#607168" stroke-width="3"/><text x="106" y="105" fill="#174a39" font-family="Arial" font-size="18" letter-spacing="3">RECORD UNIT 134</text><path d="M106 213h356M106 249h315M106 285h341M106 321h278M106 357h335M106 393h352M106 429h294M106 465h323M106 501h346M106 537h255M106 573h335" stroke="#a9b9ac" stroke-width="9"/><rect x="96" y="596" width="367" height="62" fill="#dce9dc" stroke="#527c84" stroke-width="3"/><text x="119" y="636" fill="#174a39" font-family="Georgia" font-size="22">Transition recorded as 1940</text></svg><div class="placeholder-center"><strong>Imagen de la fuente</strong><span>Página o pasaje pertinente del instrumento de descripción de RU 134</span></div></div><figcaption class="image-caption"><strong>Detalle del instrumento</strong><span>Record Unit 134 · Smithsonian Institution Archives · página/pasaje · derechos</span></figcaption></figure><article class="source-copy"><p class="eyebrow">Desde las fuentes</p><h2>Instrumento de descripción de RU 134</h2><p class="lede">El instrumento de descripción conecta una historia institucional, una colección documental, Barro Colorado, James Zetek, el trabajo científico y un dosier de investigación activo.</p><a class="arrow-link" href="#sources">Ver esta fuente</a><details class="evidence-disclosure"><summary>¿Cómo lo sabemos?</summary><div><p>La fuente está registrada como un instrumento de descripción archivístico asociado con <em>{{ collection.preferred_label }}</em>, conservado por {{ repository.preferred_label }}. Panamensis registra por separado la vía de acceso, la situación de derechos y las relaciones para que pueda examinarse el fundamento de cada conexión.</p><p class="meta">Corpus público de referencia · Consultado el 17 de septiembre de 2026</p></div></details></article></div></section>
+<section class="source" id="sources" aria-labelledby="source-title">
+  <div class="source-grid wrap">
+    <figure class="source-image"><img src="/assets/images/archive-table.webp" alt="Mapas, cuadernos, fotografías y documentos de archivo dispuestos sobre una mesa de investigación"></figure>
+    <article class="source-copy"><p class="eyebrow">Desde el archivo</p><h2 id="source-title">Un documento puede abrir una historia entera.</h2><p class="lede">Un cuaderno de campo nunca es solamente un cuaderno.</p><p>El registro destacado actualmente en el corpus público es el <em>instrumento de descripción de RU 134</em>. Como un cuaderno, una fotografía o la etiqueta de un espécimen, puede conectar personas, lugares, instituciones, trabajo de campo, colecciones y publicaciones posteriores sin perder el contexto de la fuente original.</p><div class="connections" aria-label="Posibles conexiones de una fuente"><span>Persona</span><span>Lugar</span><span>Trabajo de campo</span><span>Especie</span><span>Colección</span><span>Historia</span></div><a class="section-link" href="/es/explore/">Explorar las fuentes</a></article>
+  </div>
+</section>
 
-<figure class="photo-separator"><svg viewBox="0 0 1600 280" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Marcador ilustrativo para una fotografía panorámica de cajas de archivo, mapas e instrumentos de descripción sobre una mesa de investigación"><rect width="1600" height="280" fill="#d8e4d7"/><rect x="0" y="176" width="1600" height="104" fill="#718c7b"/><g fill="#edf4ec" stroke="#607168" stroke-width="3"><rect x="75" y="55" width="285" height="145"/><rect x="385" y="31" width="236" height="169"/><rect x="1180" y="48" width="330" height="152"/></g><g stroke="#9ab0a0" stroke-width="8"><path d="M109 91h214M109 125h178M109 159h231M423 73h164M423 108h145M423 143h173M1218 87h254M1218 122h196M1218 157h238"/></g><path d="M670 44l393 29-21 159-393-29z" fill="#eef4ed" stroke="#607168" stroke-width="3"/><path d="M710 161q87-92 157-25t139-32M698 101q105 49 186-12t148 25" fill="none" stroke="#527c84" stroke-width="5"/><circle cx="892" cy="153" r="78" fill="none" stroke="#174a39" stroke-width="8"/><path d="M948 209l71 54" stroke="#174a39" stroke-width="14"/></svg><figcaption class="sr-only">Fotografía separadora prevista: cajas de archivo, mapas e instrumentos de descripción sobre una mesa de investigación.</figcaption></figure>
+<figure class="separator field-strip"><img src="/assets/images/hero-research-station.webp" alt="Cuadernos de campo, especímenes vegetales y mapas sobre una mesa de investigación tropical"></figure>
 
-<section class="updates"><div class="updates-grid wrap"><article class="update-entry"><p class="eyebrow">Actualización reciente</p><time datetime="2026-09-17">17 de septiembre de 2026 · Acción de investigación</time><h3>Comparación del catálogo y el instrumento de descripción del Caso A</h3><p>La comparación identificó afirmaciones contrapuestas sobre la transición de 1939/1940 y diferencias en la cronología de funciones. La legislación primaria aún no ha sido examinada.</p><a class="arrow-link" href="#research">Ver la actualización</a></article><aside class="collaboration-call" id="collaborate"><p class="eyebrow">Colaborar</p><h3>¿Puedes ayudar a resolverlo?</h3><p>Panamensis recibe referencias documentales, correcciones, identificaciones, testimonios orales, información sobre colecciones y alianzas de investigación, en especial evidencia que pueda aclarar la pregunta abierta.</p><a class="arrow-link" href="#about">Formas de colaborar</a></aside></div></section>
+{% set dossier = records | recordById("PNS-DOS-000001") %}
+<section class="research" id="research" aria-labelledby="research-title">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow">Agenda de investigación</p><h2 id="research-title">Lo que Panamensis está investigando.</h2></div><p>La investigación no llega completamente terminada. Panamensis muestra trabajos ya iniciados, preguntas listas para ser abiertas e historias más amplias que requerirán tiempo, acceso y colaboración.</p></div>
+    <div class="agenda">
+      <article><small>Investigación activa</small><h3>Trabajo ya iniciado</h3><p>Investigaciones documentales actuales que producen fuentes, historias, identificaciones y nuevas conexiones.</p></article>
+      <article><small>Próximamente</small><h3>Preguntas definidas, listas para abrir</h3><p>Investigaciones que podrán avanzar a medida que lo permitan el acceso, el tiempo, las alianzas y los recursos.</p></article>
+      <article><small>Horizonte amplio</small><h3>El programa mayor</h3><p>Grandes territorios históricos y colecciones dispersas identificados para investigaciones futuras.</p></article>
+    </div>
+    <div class="dossier">
+      <article class="dossier-main"><p class="eyebrow">Investigación actual · Dosier</p><h3>Caso A: Barro Colorado / James Zetek / CZBA</h3><p>¿Puede el modelo representar la historia institucional, documental, de especímenes y de funciones de Barro Colorado sin aplanar los metadatos controvertidos?</p><a class="section-link" href="#sources">Explorar el dosier</a></article>
+      <aside class="open-question"><span class="label">Pregunta abierta</span><h3>¿La transición legal a la Canal Zone Biological Area ocurrió en 1939 o en 1940?</h3><p>Una fuente pública fecha el cambio en 1939; el instrumento de descripción del Smithsonian lo fecha en 1940. Todavía es necesario examinar la legislación primaria.</p><a class="section-link" href="#sources">Revisar la evidencia</a></aside>
+    </div>
+  </div>
+</section>
 
-<section class="about-method" id="about"><div class="about-method-grid wrap"><div><p class="eyebrow">Acerca de / Método</p><h2>Una infraestructura de investigación para evidencia dispersa.</h2></div><div><div class="about-method-copy"><p>Panamensis es un programa de investigación independiente desarrollado por el bibliotecario, archivista e investigador Edgardo Civallero. Estudia las historias de la ciencia, la naturaleza, el ambiente y el conocimiento en Panamá mediante personas, lugares, organizaciones, fuentes, acontecimientos y entidades biológicas conectadas.</p><p>El sitio público se genera a partir de un corpus de investigación filtrado. Las afirmaciones conservan sus fuentes, matices y estado; los desacuerdos y la evidencia ausente permanecen visibles en lugar de resolverse en silencio.</p></div><nav class="about-links" aria-label="Enlaces sobre el proyecto y el método"><a class="arrow-link" href="#about">Acerca de Panamensis</a><a class="arrow-link" href="#about">Método de investigación</a><a class="arrow-link" href="#about">Arquitectura técnica</a></nav></div></div></section>
+<figure class="separator archive-strip"><img src="/assets/images/archive-table.webp" alt="Documentos de archivo, mapas y fotografías históricas dispuestos sobre una mesa"></figure>
+
+<section class="updates" aria-labelledby="updates-title">
+  <div class="updates-grid wrap">
+    <article><p class="eyebrow">Novedades de Panamensis</p><time datetime="2026-09-17">17 de septiembre de 2026 · Actualización de investigación</time><h3 id="updates-title">Una fecha documental en conflicto</h3><p>La comparación del catálogo y el instrumento de descripción identificó fechas contrapuestas, 1939 y 1940, para la transición, además de diferencias en la cronología de funciones. La legislación primaria aún no ha sido examinada.</p><a class="section-link" href="#research">Leer la actualización</a></article>
+    <article class="collaborate" id="collaborate"><p class="eyebrow">Colaborar</p><h3>¿Conservas una parte de esta historia?</h3><p>Panamensis recibe pistas documentales, correcciones, identificaciones, testimonios orales, información sobre colecciones y propuestas de colaboración.</p><a class="section-link" href="#about">Formas de contribuir</a></article>
+  </div>
+</section>
+
+<section class="about" id="about" aria-labelledby="about-title">
+  <div class="about-grid wrap">
+    <div><p class="eyebrow">Acerca de Panamensis</p><h2 id="about-title">Un programa de investigación independiente.</h2></div>
+    <div><div class="about-copy"><p>Panamensis estudia las historias de la ciencia, la naturaleza, el ambiente y el conocimiento en Panamá. Reúne evidencia dispersa en archivos, bibliotecas, museos, colecciones biológicas, publicaciones, documentos privados, paisajes y memoria personal.</p><p>El programa es desarrollado por el bibliotecario, archivista e investigador Edgardo Civallero. Su trabajo público incluye historias, dosieres de investigación, fuentes documentales, datos, publicaciones y oportunidades de colaboración.</p></div><a class="about-link" href="#about">Acerca del proyecto</a></div>
+  </div>
+</section>
