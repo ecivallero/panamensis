@@ -13,37 +13,25 @@
 <body class="{{ bodyClass or '' }}">
   <a class="skip-link" href="#main">{{ "Skip to content" if lang == "en" else "Saltar al contenido" }}</a>
   <header class="site-header">
-    <div class="wrap header-inner">
-      <a class="brand" href="/{{ lang }}/" aria-label="{{ 'Panamensis home' if lang == 'en' else 'Inicio de Panamensis' }}"><span class="brand-mark" aria-hidden="true"></span><span>PANAMENSIS</span></a>
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav"><span class="sr-only">{{ "Open navigation" if lang == "en" else "Abrir navegación" }}</span><span aria-hidden="true">☰</span></button>
-      <nav class="primary-nav" id="primary-nav" aria-label="{{ 'Primary navigation' if lang == 'en' else 'Navegación principal' }}">
+    <div class="header-inner wrap">
+      <a class="brand" href="/{{ lang }}/" aria-label="{{ 'Panamensis home' if lang == 'en' else 'Inicio de Panamensis' }}"><img class="brand-mark" src="/assets/images/panamensis-mark.svg" alt=""><span>Panamensis</span></a>
+      <nav class="primary-nav" aria-label="{{ 'Primary navigation' if lang == 'en' else 'Navegación principal' }}">
         {% for item in site.nav[lang] %}<a href="{{ item[1] }}">{{ item[0] }}</a>{% endfor %}
       </nav>
-      <div class="header-tools">
-        <a href="/{{ lang }}/#search">{{ "Search" if lang == "en" else "Buscar" }}</a>
-        <span aria-hidden="true">·</span>
-        {% if lang == "en" %}<a href="{{ altUrl or '/es/' }}" hreflang="es">ES</a><strong aria-current="page">EN</strong>{% else %}<strong aria-current="page">ES</strong><a href="{{ altUrl or '/en/' }}" hreflang="en">EN</a>{% endif %}
-      </div>
+      <details class="menu"><summary>{{ "Menu" if lang == "en" else "Menú" }}</summary><nav aria-label="{{ 'Mobile navigation' if lang == 'en' else 'Navegación móvil' }}">{% for item in site.nav[lang] %}<a href="{{ item[1] }}">{{ item[0] }}</a>{% endfor %}</nav></details>
+      <div class="languages">{% if lang == "en" %}<a href="{{ altUrl or '/es/' }}" hreflang="es">ES</a><span>/</span><strong aria-current="page">EN</strong>{% else %}<strong aria-current="page">ES</strong><span>/</span><a href="{{ altUrl or '/en/' }}" hreflang="en">EN</a>{% endif %}</div>
     </div>
   </header>
   <main id="main">{{ content | safe }}</main>
   <footer class="site-footer">
-    <div class="wrap footer-grid">
-      <div class="footer-project"><strong>PANAMENSIS</strong><p>{{ site.description[lang] }}</p></div>
-      <div class="footer-links"><a href="/{{ lang }}/#about">{{ "About" if lang == "en" else "Acerca de" }}</a><a href="/{{ lang }}/#about">{{ "Method" if lang == "en" else "Método" }}</a><a href="/{{ lang }}/#about">{{ "Technical architecture" if lang == "en" else "Arquitectura técnica" }}</a><a href="/{{ lang }}/#about">{{ "Credits" if lang == "en" else "Créditos" }}</a><a href="/{{ lang }}/#collaborate">{{ "Contact" if lang == "en" else "Contacto" }}</a><a href="/data/public/public-records.json">{{ "Public data" if lang == "en" else "Datos públicos" }}</a></div>
-      <div class="footer-note"><p>{{ "An independent research programme by Edgardo Civallero." if lang == "en" else "Un programa de investigación independiente de Edgardo Civallero." }}</p><p>{{ "Public pages are generated from a filtered projection of the research corpus." if lang == "en" else "Las páginas públicas se generan a partir de una proyección filtrada del corpus de investigación." }}</p></div>
+    <div class="footer-grid wrap">
+      <div><div class="footer-brand">Panamensis</div><p>{{ site.description[lang] }}</p></div>
+      <nav aria-label="{{ 'Footer navigation' if lang == 'en' else 'Navegación del pie' }}">
+        <a href="/{{ lang }}/#collaborate">{{ "Contribute" if lang == "en" else "Contribuir" }}</a>
+        <a href="/{{ lang }}/#collaborate">{{ "Contact" if lang == "en" else "Contacto" }}</a>
+        <a href="/{{ lang }}/#about">{{ "Rights & licensing" if lang == "en" else "Derechos y licencias" }}</a>
+      </nav>
     </div>
   </footer>
-  <script>
-    const toggle = document.querySelector('.menu-toggle');
-    const nav = document.querySelector('#primary-nav');
-    if (toggle && nav) {
-      toggle.addEventListener('click', () => {
-        const open = toggle.getAttribute('aria-expanded') === 'true';
-        toggle.setAttribute('aria-expanded', String(!open));
-        nav.classList.toggle('is-open', !open);
-      });
-    }
-  </script>
 </body>
 </html>
