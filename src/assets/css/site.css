@@ -41,7 +41,7 @@ h3{font-size:clamp(1.45rem,2.4vw,2.15rem);line-height:1.15}
 .site-header{position:sticky;top:0;z-index:100;background:rgba(248,247,239,.97);border-bottom:1px solid var(--line);box-shadow:0 4px 18px rgba(23,48,37,.06);backdrop-filter:blur(10px)}
 .header-inner{min-height:74px;display:flex;align-items:center;gap:2rem}
 .brand{display:inline-flex;align-items:center;gap:.72rem;margin-right:auto;font-family:var(--serif);font-size:1.05rem;letter-spacing:.18em;text-decoration:none;text-transform:uppercase}
-.brand-mark{width:1.75rem;height:1.75rem;flex:none}
+.brand-mark{width:auto;height:2.25rem;flex:none;object-fit:contain}
 .primary-nav{display:flex;gap:1.35rem}
 .primary-nav a,.site-footer a{font-size:.72rem;font-weight:400;letter-spacing:.07em;text-decoration:none;text-transform:uppercase}
 .primary-nav a:hover,.site-footer a:hover,.languages a:hover{text-decoration:underline}
@@ -206,7 +206,7 @@ h3{font-size:clamp(1.45rem,2.4vw,2.15rem);line-height:1.15}
 @media(max-width:680px){
   .wrap{width:min(calc(100% - 1.3rem),var(--max))}
   .header-inner{min-height:62px;gap:.75rem}
-  .brand{font-size:.9rem;gap:.55rem}.brand-mark{width:1.5rem;height:1.5rem}
+  .brand{font-size:.9rem;gap:.55rem}.brand-mark{height:2rem}
   .languages span,.languages strong{display:none}
   .hero{min-height:0}.hero-copy{padding:4.5rem .65rem}
   .hero h1{font-size:clamp(4rem,21vw,6.2rem)}
