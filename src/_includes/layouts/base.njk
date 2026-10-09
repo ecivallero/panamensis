@@ -14,7 +14,7 @@
   <a class="skip-link" href="#main">{{ "Skip to content" if lang == "en" else "Saltar al contenido" }}</a>
   <header class="site-header">
     <div class="header-inner wrap">
-      <a class="brand" href="/{{ lang }}/" aria-label="{{ 'Panamensis home' if lang == 'en' else 'Inicio de Panamensis' }}"><img class="brand-mark" src="/assets/images/panamensis-mark.svg" alt=""><span>Panamensis</span></a>
+      <a class="brand" href="/{{ lang }}/" aria-label="{{ 'Panamensis home' if lang == 'en' else 'Inicio de Panamensis' }}"><img class="brand-mark" src="/assets/images/panamensis-morpho.png" alt=""><span>Panamensis</span></a>
       <nav class="primary-nav" aria-label="{{ 'Primary navigation' if lang == 'en' else 'Navegación principal' }}">
         {% for item in site.nav[lang] %}<a href="{{ item[1] }}">{{ item[0] }}</a>{% endfor %}
       </nav>
